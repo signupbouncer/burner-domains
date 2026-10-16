@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain signupbouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or signupbouncer.
-# Data version 20261015T0310Z: 131743 domains.
+# Data version 20261016T0047Z: 131749 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -8804,8 +8804,11 @@ abky6k.com
 ablatech.com
 ableflourishsdgaloncreedtra.me
 ablegkiy.site
+ablenow.click
+ablenow.shop
 ablerabailque.com
 ableroll.ml
+ableway.shop
 ablombards.info
 abloomingscribe.com
 ablpoker.online
@@ -10830,7 +10833,6 @@ akhpremium.site
 aki-miz.biz
 akiavenue.com
 akillietkinlik.xyz
-akilliusak.network
 akinozilkree.click
 akinsoftsivas.com
 akira4d.info
@@ -16447,6 +16449,7 @@ backvictimbald.website
 backyard-revolution.online
 backyardbff.com
 backyardfood.com
+backyr.com
 bacninhmail.us
 bacoem.icu
 bacok.org
@@ -19207,6 +19210,7 @@ betsend33.xyz
 betsendsikayet.com
 betsepeti.com
 betshoma.club
+betshubs.com
 betsidney109.com
 betsilin4.com
 betsilin43.com
@@ -22886,6 +22890,7 @@ btz3kqeo4bfpqrt.ml
 btz3kqeo4bfpqrt.tk
 bu-ali-takeaway.com
 bu5lhm.info
+buaed.anonbox.net
 buaksib.xyz
 buam.space
 buatwini.tk
@@ -26362,6 +26367,7 @@ charlotteverywell.com
 charltons.biz
 charmhive.com
 charmingdesigngirl.com
+charmnow.guru
 charmrealestate.com
 charms-shop.com
 chartconcierge.com
@@ -31835,7 +31841,6 @@ daftmail.cloud
 dag76.site
 dag8gi7ryh893b4.xyz
 dagao.live
-dagatour.com
 dagavip1.top
 dagodiscoentertainment.com
 dagougou.org
@@ -47197,7 +47202,6 @@ gamegild.ru
 gamegoldies.org
 gamegowin.net
 gamegregious.com
-gamegta.com
 gamekingparlour.com
 gameloli.com
 gamemacao.site
@@ -57062,6 +57066,7 @@ icodeltd.com
 icodepromo.com
 icon256.info
 icon256.tk
+iconcubic.com
 iconda.site
 iconflooring.net
 icongo.cd
@@ -58223,6 +58228,7 @@ incubatorhostel.com
 incup.com
 ind.st
 indal23.com
+indas.lat
 indbc.com
 indcomm.net
 indebted.uk
@@ -62514,6 +62520,7 @@ jugramh.com
 juhuagu.net
 juhxs.com
 juice-garden.cash
+juicehour.com
 juicephoenixmedia.site
 juiceyvapemods.com
 juicyangels.com
@@ -69956,7 +69963,6 @@ lorenzidecks.com
 lorientediy.com
 lorimer.co
 lorinhouse.co
-lorkex.com
 lorslufmea.cf
 lorslufmea.ga
 lorslufmea.gq
@@ -74481,7 +74487,6 @@ melbetts2.ru
 melbotouren.com
 melbournecrest.net
 melbournepte.com
-melbox.store
 meleni.xyz
 melhoramentos.net
 melhoresuavidahoje.com
@@ -82221,6 +82226,7 @@ nongzaa.gq
 nongzaa.ml
 nongzaa.tk
 nonicamy.com
+noninoi.us
 nonise.com
 nonlowor.cf
 nonlowor.ga
@@ -85937,6 +85943,7 @@ outdaremusicdevon.org
 outdonews.com
 outdoopaintingchallenge.com
 outdoor-experience.info
+outdoorgrowhut.com
 outdoorlightingreviewshq.com
 outdoornd.com
 outdoorproseries.com
@@ -91797,6 +91804,7 @@ progressive.tools
 progressiveenvironment.com
 progressiveenvironments.com
 progressproduction.org
+proguidex.com
 prohade.com
 prohisi.store
 prohost24.ru
@@ -100481,7 +100489,6 @@ satey.website
 satey.xyz
 sathinews.com
 sathio.website
-satigan.com
 satined.best
 satisageldim.com
 satisfacaodepacientes.com
@@ -101497,7 +101504,6 @@ sekas.fun
 sekatoto.com
 sekdongsan.com
 sekerhastaligi.mobi
-sekiyadohaku.xyz
 sekizbir.com
 sekotong.store
 sekris.com
@@ -112745,7 +112751,6 @@ thiswildsong.com
 thitchua.info
 thitruongnhadat247.net
 thiwankaslt.gq
-thk2d.anonbox.net
 thkig7.xyz
 thlingo.com
 thnen.com
@@ -112924,7 +112929,6 @@ tiabami.tk
 tiacrystalcases.com
 tiam24.com
 tianadonerkebabpizzeriatiana.com
-tianatrend.shop
 tianblog.top
 tiancaiyy.info
 tiandeonline.ru
@@ -113731,6 +113735,7 @@ tmmail.buzz
 tmmbt.net
 tmnxw.info
 tmo.kr
+tmp.bte.edu.vn
 tmp.k3a.me
 tmp.mail.e1645.ml
 tmp.refi64.com
@@ -122785,6 +122790,7 @@ way-to-pay.space
 way-to-pay.website
 way2bargain.com
 way2iceland.ru
+wayable.shop
 wayacepaytl.com
 wayaengopi.buzz
 waybet.ru
