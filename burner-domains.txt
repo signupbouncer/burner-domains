@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain signupbouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or signupbouncer.
-# Data version 20261016T0047Z: 131749 domains.
+# Data version 20261016T0250Z: 131749 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #

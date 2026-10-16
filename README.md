@@ -29,6 +29,30 @@ against it (a listed `example.com` also covers `mail.example.com`). Ignore lines
 
 A domain listed by mistake? Open an issue with the domain and why it is a real mailbox provider.
 
+## Check signups against this list
+
+To check each signup from your server, call our API before you create the user. On the Free plan, you can sign up
+without a card. Get a key at https://signupbouncer.com/signup and keep it in an environment variable.
+
+```sh
+curl https://signupbouncer.com/v1/check \
+  -H "Authorization: Bearer $SIGNUPBOUNCER_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"email": "someone@mailinator.com"}'
+```
+
+Refuse the signup when `action` is `"block"`. If the call fails or takes longer than 1.5 seconds, let the signup
+through. New apps start in shadow mode, where `action` is always `"allow"`, until you switch the app to enforce on your
+dashboard.
+
+Besides this list, we look up each domain's mail servers and count repeat signups from one Gmail inbox. Code for
+Next.js, Express, Python, Firebase and more is at https://signupbouncer.com/docs#code.
+
+To check one address from an AI assistant, add the MCP server `https://signupbouncer.com/mcp`. It needs no key.
+
+To see how many of your existing users signed up with throwaway addresses, run the free audit at
+https://signupbouncer.com/audit. The audit sends us only email domains and counts.
+
 ## Licence
 
 signupbouncer's own contribution to this list (the domains it finds itself, and how the list is put together) is
