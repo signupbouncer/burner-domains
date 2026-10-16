@@ -18,7 +18,7 @@ of the data behind [signupbouncer](https://signupbouncer.com), which checks sign
 
 - A domain appears here once it has been on signupbouncer's list for 24 hours without a break.
 - A domain signupbouncer stops listing is removed here within about two hours.
-- New domains are pushed once a day; removals are pushed on the next hourly run.
+- New domains are pushed once a day. Removals are pushed on the next hourly run.
 
 Lines starting with `#` are comments: what the file is, the data version, and the upstream licence notices.
 

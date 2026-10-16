@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain signupbouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or signupbouncer.
-# Data version 20261016T0250Z: 131749 domains.
+# Data version 20261016T1707Z: 131756 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -21932,6 +21932,7 @@ bougenville.ga
 boukshilf.com
 boulahia2.store
 boulderproblems.com
+boulkfout.lol
 boulonnerie-des-quatre-coins.com
 boun.cr
 bouncebackcloud.com
@@ -32226,6 +32227,7 @@ darkcitychat.com
 darkclubintheworld.ru
 darkcolo.net
 darkcoremu.online
+darkemail.school
 darkest-dungeon.ru
 darkfort.design
 darkharvestfilms.com
@@ -40100,6 +40102,7 @@ ensotv.net
 enspara.energy
 enspinner.com
 enspiral.mobi
+ensproxy.com
 enssycofa.com
 entekhab.group
 entekhabeirani.com
@@ -49759,6 +49762,7 @@ goldiphone.site
 goldipro.com
 goldivis.work.gd
 goldlabletech.com
+goldlicai.com
 goldline.money
 goldmail.site
 goldmanhomeblog.site
@@ -77256,6 +77260,7 @@ morana.icu
 morarabam.com
 moravekinternational.info
 moraveli.live
+moravita.com
 morbolatino.com
 morcagumd.cf
 morcagumd.ga
@@ -83915,6 +83920,7 @@ oguzkaanbekci.xyz
 ogvictory.com
 ogvoice.com
 ogxservices.com
+ogzmail.com
 ohaaa.de
 ohaauthority.org
 ohauszho.shop
@@ -86321,6 +86327,7 @@ oztemizlikmalzemeleri.xyz
 ozumz.com
 ozuturkisg.com
 ozuygunemlak.com
+ozvmail.com
 ozweddings.com
 ozxxta.us
 ozxzd.live
