@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain signupbouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or signupbouncer.
-# Data version 20261016T1707Z: 131756 domains.
+# Data version 20261017T0015Z: 131743 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -13869,7 +13869,6 @@ arpcog.info
 arpizol.com
 arpqgg.us
 arqos-co-uk.monster
-arqsis.com
 arquisul.com
 arquitectospr.com
 arrabyte.com
@@ -16150,7 +16149,6 @@ b45y3.anonbox.net
 b460jlhp.buzz
 b461badx.buzz
 b462onop.buzz
-b4bhw.anonbox.net
 b4dr2u.com
 b4in.biz
 b4je.icu
@@ -17760,7 +17758,6 @@ bdkey.xyz
 bdm.ovh
 bdmobiles.com
 bdmuzic.pw
-bdnets.com
 bdnext24.com
 bdo.io.vn
 bdoindia.co.in
@@ -24839,7 +24836,6 @@ capetownactiva.com
 capetownexcursions.com
 capeture.com
 capgenini.com
-capiena.com
 capisci.org
 capitakfqe.site
 capital-capital.ru
@@ -25645,7 +25641,6 @@ ccmskillscamp.com
 ccoinxsm.site
 ccon4.xyz
 ccpad.ml
-ccpt.lol
 ccpt.org.zw
 ccqu.top
 ccre1.club
@@ -35215,7 +35210,6 @@ djhy888.com
 djigurdagox.online
 djiv.xyz
 djj82.com
-djkux.com
 djmag.digital
 djmaza.cd
 djmiamisteve.com
@@ -42517,7 +42511,6 @@ fangzi.cf
 fanhaodaquan.xyz
 fanicle.com
 fanlogs.com
-fanlvr.com
 fannewshop.live
 fannny.cf
 fannny.ga
@@ -51075,7 +51068,6 @@ gta.com
 gta4etw4twtan53.gq
 gta5darkrp.ru
 gta5deadstar.ru
-gta5hx.com
 gta5mp.com
 gta5mp.net
 gta5russia.ru
@@ -70547,7 +70539,6 @@ luck-win.com
 luck8.com
 luckalott.com
 luckboy.pw
-luckence.com
 luckeyinvest.com
 luckfeed.com
 luckgift.ru
@@ -79848,7 +79839,6 @@ nashproekt2019.ru
 nashvilledaybook.com
 nashvillenailsalons.com
 nashvillequote.com
-nasibasi.online
 nasigoreng.buzz
 nasimpourya.com
 nasinyang.cf
@@ -87003,7 +86993,6 @@ parcimen.cf
 parcimen.ga
 parcimen.gq
 parcimen.tk
-parcival-store.net
 parcosimone.org
 pardakhtinano.xyz
 pardakhtinanox.xyz
@@ -90823,7 +90812,6 @@ ppb778.com
 ppbill247.com
 ppc-e.com
 ppc-trafic.ru
-ppcc.lol
 ppcmedia.co
 ppcoy.com
 ppcwoo.com
@@ -90874,7 +90862,6 @@ ppshua.icu
 ppsindonesia.com
 ppstat.ru
 pptrvv.com
-pptv.lol
 ppuzavod.ru
 ppx219.com
 ppx225.com
