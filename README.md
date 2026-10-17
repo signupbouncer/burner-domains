@@ -1,7 +1,7 @@
 # Disposable email domains
 
 A list of disposable (temporary, throwaway) email domains, one per line, in `burner-domains.txt`. It is the public part
-of the data behind [signupbouncer](https://signupbouncer.com), which checks signups for throwaway addresses.
+of the data behind [SignupBouncer](https://signupbouncer.com), which checks signups for throwaway addresses.
 
 ## How the list is made
 
@@ -16,8 +16,8 @@ of the data behind [signupbouncer](https://signupbouncer.com), which checks sign
 
 ## How it is updated
 
-- A domain appears here once it has been on signupbouncer's list for 24 hours without a break.
-- A domain signupbouncer stops listing is removed here within about two hours.
+- A domain appears here once it has been on SignupBouncer's list for 24 hours without a break.
+- A domain SignupBouncer stops listing is removed here within about two hours.
 - New domains are pushed once a day. Removals are pushed on the next hourly run.
 
 Lines starting with `#` are comments: what the file is, the data version, and the upstream licence notices.
@@ -55,7 +55,7 @@ https://signupbouncer.com/audit. The audit sends us only email domains and count
 
 ## Licence
 
-signupbouncer's own contribution to this list (the domains it finds itself, and how the list is put together) is
+SignupBouncer's own contribution to this list (the domains it finds itself, and how the list is put together) is
 dedicated to the public domain under CC0 1.0 (`LICENSE`): use it for anything, no attribution needed. The list also
 contains data from these lists, which stays under their own licences:
 
@@ -66,4 +66,4 @@ contains data from these lists, which stays under their own licences:
 If you redistribute the whole list, keep those notices with it.
 
 Their notices are also repeated at the top of `burner-domains.txt`. The authors of those lists do not endorse this list
-or signupbouncer.
+or SignupBouncer.

@@ -1,9 +1,9 @@
 # Disposable / temporary email domains
-# Published by signupbouncer (https://signupbouncer.com). A domain appears here once it has been on signupbouncer's
-# list for 24 hours without a break; a domain signupbouncer stops listing leaves on the next build.
+# Published by SignupBouncer (https://signupbouncer.com). A domain appears here once it has been on SignupBouncer's
+# list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
-# providers. One domain per line. The authors of the lists below do not endorse this list or signupbouncer.
-# Data version 20261017T0015Z: 131743 domains.
+# providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
+# Data version 20261017T0623Z: 131748 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -28034,6 +28034,7 @@ clonere.net
 cloneroad.com
 clonetop1.shop
 clonetrust.com
+clonevip.click
 cloneviptmc1.club
 clonevnmail.com
 clonidine.website
@@ -70652,6 +70653,7 @@ lumberlinesawmills.com
 lumbermatesawmill.net
 lumberstauto.com
 lumeika.com
+lumen.lat
 lumetric-testing.space
 lumg.uk
 lumi-ceuticals.com
@@ -75754,6 +75756,7 @@ minhazfb.ga
 minhazfb.ml
 minhazfb.tk
 minhminclone.click
+minhminpro.click
 minhquang2000.com
 mini-kraanhuren.com
 mini-mail.net
@@ -85608,6 +85611,7 @@ orumcekstand.com
 oruse.xyz
 orviaarabia.space
 orviaksarabia.site
+orviongate.com
 orvit.net
 orwf.icu
 orwpaztm.cfd
@@ -121200,6 +121204,7 @@ vmhdisfgxxqoejwhsu.tk
 vmi13l.us
 vmirenas.ru
 vmish.icu
+vmjn5.anonbox.net
 vmlfwgjgdw2mqlpc.cf
 vmlfwgjgdw2mqlpc.ga
 vmlfwgjgdw2mqlpc.ml
