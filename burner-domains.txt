@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261018T0044Z: 131741 domains.
+# Data version 20261019T0014Z: 131738 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9691,6 +9691,7 @@ adsensekorea.com
 adsensesite.shop
 adsgiare.vn
 adshealth.xyz
+adsjii.xyz
 adsondeal.icu
 adsorboil.com
 adspecials.us
@@ -16161,7 +16162,6 @@ b4sf2.anonbox.net
 b4top.tk
 b4uc7.anonbox.net
 b4umxf.us
-b4urd.anonbox.net
 b4vv7.anonbox.net
 b4vvn.anonbox.net
 b4xfzg.us
@@ -19837,6 +19837,7 @@ bileuder.site
 bilgetrade.com
 bilingualbibles.org
 bilingualfamilia.com
+bilingva-ca.info
 bilingva-ca.store
 bilisimyayincilik.com
 bilistand.site
@@ -28039,7 +28040,6 @@ cloneviptmc1.club
 clonevnmail.com
 clonidine.website
 cloningclass.com
-clonvn2.com
 clord.online
 closdeal.net
 close-room.ru
@@ -77429,6 +77429,7 @@ motors.com.br
 motorsshop.futbol
 motorvationist.com
 motosneta.online
+mototoke.click
 motrkadust.ru
 mottel.fr
 mottobuttonpizza.site
@@ -96336,7 +96337,6 @@ reotractant.gq
 reotractant.ml
 reotractant.tk
 reovipvpn.top
-rep.biz.id
 rep3-payment.site
 rep5-german.site
 rep6-payment.club
@@ -99362,7 +99362,6 @@ s4a5gb.us
 s4cbj.anonbox.net
 s4f.co
 s4m1ye.us
-s4ngnm.xyz
 s4qpc.anonbox.net
 s4sfoundation.org.uk
 s51zdw001.com
@@ -101388,7 +101387,6 @@ securityriskexpert.com
 sedansis.info
 sedapetnya.guru
 sedasagreen01try.tk
-sedateviana.io
 sedationdentalpractice.com
 sedekah-mudah.com
 sedewoge.site
@@ -122769,7 +122767,6 @@ waverlyohsa.info
 wavescientist.com
 wavesplatfom.ru
 wavesplotform.ru
-wavewon.com
 wavleg.com
 wavr.org
 waw.indevs.in
