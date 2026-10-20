@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T0349Z: 126259 domains.
+# Data version 20261020T0450Z: 126247 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -11142,7 +11142,6 @@ alleviam.org
 allevium.org
 allez.io.vn
 allfamus.com
-allfolk.ru
 allfordfocus.biz
 allforeign.boutique
 allforeignboutique.com
@@ -13878,7 +13877,6 @@ askman.tk
 askmantutivie.com
 askmyfaith.org
 askohall.ru
-askopindo.com
 askoqopoiweiwe.online
 askozy.com
 asktheselfstorageexperts.com
@@ -22413,7 +22411,6 @@ busantei.com
 buscarltd.com
 buscarnombre.com
 buscarpr.com
-buschgardenshotel.com
 buscoempleoya.info
 busd-mmjd3.wiki
 busemdisticaret.com
@@ -60506,7 +60503,6 @@ kakslsie.store
 kaku92.com
 kaku97.com
 kalaf.tech
-kalagar.net
 kalamani.website
 kalapi.org
 kalayya.com
@@ -65814,7 +65810,6 @@ linktown2.com
 linktown2.net
 linku-2.icu
 linku-3.icu
-linkverse.ru
 linkwithstyle.store
 linkyard.net
 linkzimra.cf
@@ -74823,7 +74818,6 @@ mugua1.com
 muguafu.com
 muhamadnurdin.us
 muhammad-ali-trophy.ru
-muhammadafandi.com
 muhammetsayar.xyz
 muhaos.com
 muhasebe.app
@@ -86592,7 +86586,6 @@ popcrime.com
 popcultreview.com
 popculturekeys.com
 popculturetopics.com
-popdrunk.com
 popeorigin.pw
 popesodomy.com
 popeyeserver.ml
@@ -87629,7 +87622,6 @@ priv8dns.net
 privacy-mail.top
 privacy-protect-online.com
 privacy.net
-privacygirl.com
 privacygladiators.us
 privacyharbour.com
 privacylock.net
@@ -96926,7 +96918,6 @@ search-psoriasis-topicals.live
 search4gpt.com
 searchadvertisement.space
 searchfather.com
-searchformeaning.net
 searchgutenberg.org
 searchiehub.com
 searchindog.com
@@ -102304,7 +102295,6 @@ stagazvi.tk
 stage-dz.com
 stagebla.xyz
 stagedoorstudios.co.uk
-stagefright.info
 stagenext.co
 stagethis.info
 stagewate.xyz
@@ -103436,7 +103426,6 @@ sublime-shop.site
 subliosystems.com
 subliss.com
 subluminal.info
-submergeus.com
 submic.com
 submissive.com
 submitprofit.com
@@ -104348,7 +104337,6 @@ swimmingpoolbuildersleecounty.com
 swimmingshop.life
 swimskivvies.com
 swimweear.ru
-swinefu.com
 swineokay.com
 swingclubs.online
 swingdonor.com
