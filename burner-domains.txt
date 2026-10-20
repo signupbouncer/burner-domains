@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T2008Z: 126243 domains.
+# Data version 20261020T2312Z: 126242 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10402,7 +10402,6 @@ aisubstore.click
 aisupply.click
 aisushigranada.com
 aiswitzerland.xyz
-aitaiwan.xyz
 aitecleco.com
 aitraffic.xyz
 aitravel.xyz
