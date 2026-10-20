@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T0450Z: 126247 domains.
+# Data version 20261020T0552Z: 126244 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -81305,7 +81305,6 @@ onsailcharter.info
 onsailcharter.org
 onsailcharter.us
 onsetingamed.rest
-onsho.us
 onskulls.com
 onslowcravencountyliving.com
 onstochin.cf
@@ -120758,7 +120757,6 @@ xezo.live
 xf.sluteen.com
 xf5di7.us
 xf7asj.us
-xfactorenterprise.com
 xfavaj.com
 xfbfl.website
 xfdmwbbx.shop
@@ -124106,7 +124104,6 @@ yoursaferate.name
 yoursaferate.net
 yoursaferate.org
 yoursaferate.us
-yoursales.coach
 yoursoulsrainbow.com
 yourspace.ooo
 yourspamgoesto.space
