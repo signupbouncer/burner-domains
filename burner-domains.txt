@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T0047Z: 126267 domains.
+# Data version 20261020T0349Z: 126259 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -116,7 +116,6 @@
 000xxoo.com
 0010.monster
 0018k7.com
-001913.com
 0019k7.com
 001xs.net
 001xs.org
@@ -1734,7 +1733,6 @@
 1stcircuit.com
 1stcommercialrealty.com
 1stdibs.icu
-1sthandfoundation.org
 1stimme1schritt.com
 1stlibe.website
 1stoffer.com
@@ -9659,7 +9657,6 @@ aero-fashion.com
 aerobia.com
 aerobicfresh.com
 aeroblog.com
-aerocityvaranasi.com
 aerodictionary.com
 aeroflot1.com
 aeroglossary.com
@@ -15348,7 +15345,6 @@ azote.gq
 azpopparitvur.xyz
 azqtbv.info
 azra.net
-azreproperties.com
 azrmail.com
 azrooh.ru
 azsh0j.us
@@ -19066,7 +19062,6 @@ bigmood.xyz
 bigonla.com
 bigoofficial.com
 bigotes.org
-bigpicturecharts.com
 bigplace.online
 bigprizesishere10.life
 bigprofessor.so
@@ -21181,7 +21176,6 @@ boutiquehotelhanoi.com
 boutiquesaintjames.com
 boutsary.site
 bovegas.casino
-bovinefu.com
 bovitin.cf
 bovitin.ga
 bovitin.gq
@@ -31012,7 +31006,6 @@ dartwader.club
 darv.xyz
 darwinantivirus.com
 darwinantivirus.net
-darwinav.com
 darwinav.net
 darwins.app
 darwinsgame.app
@@ -35455,7 +35448,6 @@ ds4cz.anonbox.net
 ds4kojima.com
 ds8vmg-mail.xyz
 dsad.de
-dsaevents.com
 dsantoro.es
 dsas.de
 dsatpv.ru
