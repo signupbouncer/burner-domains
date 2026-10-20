@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T0957Z: 126247 domains.
+# Data version 20261020T1259Z: 126246 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -83807,7 +83807,6 @@ paymobet.com
 paynetcollect.com
 payo22.xyz
 payola-test.com
-payop.xyz
 payot.club
 payotta.net
 payoumoney.com
