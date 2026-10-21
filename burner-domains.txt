@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261021T0317Z: 126235 domains.
+# Data version 20261021T0417Z: 126233 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -68510,7 +68510,6 @@ mail-security.xyz
 mail-share.com
 mail-share.net
 mail-space.net
-mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
 mail-tester.com
@@ -98963,7 +98962,6 @@ sikatan.co
 sikauni.com
 sikestondental.com
 sikh.best
-sikharchives.com
 sikinchel.info
 sikis31.com
 sikomo.cf
