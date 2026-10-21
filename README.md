@@ -11,6 +11,8 @@ of the data behind [SignupBouncer](https://signupbouncer.com), which checks sign
   [7c/fakefilter](https://github.com/7c/fakefilter).
 - It adds domains offered by temp-mail websites. A scraped domain is added only when its mail server is a known
   disposable-mail server, never on the website's word alone.
+- It adds a short list of temp-mail domains that SignupBouncer checked by hand: each one is a temp-mail service's own
+  domain with a working mail server, and none of the open lists carries it yet.
 - It removes every domain on a curated allowlist of real mailbox providers, entries that are public suffixes (such as
   `co.uk`), and government, education and military domains unless their mail goes to a known disposable-mail server.
 

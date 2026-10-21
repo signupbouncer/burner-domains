@@ -1,9 +1,10 @@
 # Disposable / temporary email domains
 # Published by SignupBouncer (https://signupbouncer.com). A domain appears here once it has been on SignupBouncer's
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
-# Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
-# providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261021T0417Z: 126233 domains.
+# Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
+# allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
+# list or SignupBouncer.
+# Data version 20261021T0620Z: 126233 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
