@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261021T0115Z: 126236 domains.
+# Data version 20261021T0317Z: 126235 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -48011,7 +48011,6 @@ goslippy.com
 goslot88.com
 gosne.com
 gospaper.ru
-gospelyqqv.com
 gospiderweb.net
 gossipglove.uk
 gossippolitics.com
