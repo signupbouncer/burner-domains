@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261020T2312Z: 126242 domains.
+# Data version 20261021T0013Z: 126234 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9338,7 +9338,6 @@ adesaoapp.online
 adf4th.us
 adfskj.com
 adfuard.com
-adgome.com
 adgpro.com
 adgrant.services
 adguemin.cf
@@ -37224,7 +37223,6 @@ einzieg.site
 eireet.site
 eiren.dev
 eiriyqaab.shop
-eise.es
 eisenbergpublishing.com
 eisenfall.de
 eisenhemds.info
@@ -41335,7 +41333,6 @@ fderf.com
 fdfdsfds.com
 fdffdffd.tk
 fdfggh-df5.cc
-fdfriend.store
 fdgdfgdfgf.ml
 fdger88.cc
 fdgh.com
@@ -48582,7 +48579,6 @@ greatigtota.tk
 greatindiaportarlington.com
 greatlastminutegifts.com
 greatmiin.gq
-greatness.cc
 greatoutdoorpaintingchallenge.com
 greatpl.xyz
 greatpla.xyz
@@ -62110,7 +62106,6 @@ kjwebox.com
 kjx9ba.site
 kjyhh.com
 kk.io.vn
-kk1.lol
 kk18269.com
 kk3l.com
 kk8ty.com
@@ -88640,7 +88635,6 @@ pureoxide.org
 purepsilocin.com
 purerepairs.xyz
 purestagioni.com
-puretoc.com
 puretransgressions.com
 pureunderwater.com
 purewcms.com
@@ -114311,7 +114305,6 @@ varnishbrush.us
 varnishbrushes.net
 varout.com
 varparide.com
-varslily.com
 varushka.ru
 varyag51.ru
 varzish-1xbet.net
@@ -116955,7 +116948,6 @@ w35so.space
 w37il.space
 w37xg0.com
 w3boats.com
-w3djp.anonbox.net
 w3internet.co.uk
 w3k6sm.info
 w3kit.ru
