@@ -3,7 +3,7 @@
 # list for 24 hours without a break; a domain SignupBouncer stops listing leaves on the next build.
 # Built from open lists plus domains scraped from temp-mail sites, minus a curated allowlist of real mailbox
 # providers. One domain per line. The authors of the lists below do not endorse this list or SignupBouncer.
-# Data version 20261021T0013Z: 126234 domains.
+# Data version 20261021T0115Z: 126236 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10196,7 +10196,6 @@ aiidriver.icu
 aiigs.live
 aiij8.space
 aiindia.xyz
-aiindonesia.xyz
 aiiots.net
 aiislam.xyz
 aijiangyuan.com
@@ -14191,6 +14190,7 @@ athomeinjacksonhole.net
 athomeinjacksonhole.org
 aticoau.com
 atihatim.shop
+atiko.lat
 atiku.website
 atimp.com
 atimphar.cf
@@ -30464,6 +30464,7 @@ d7kj.net
 d7lw7.anonbox.net
 d7restoration.com
 d7storefronts.com
+d7zz5.anonbox.net
 d8555.com
 d890dhfy.buzz
 d892akcr.buzz
@@ -113194,6 +113195,7 @@ upcomingthings.com
 update-today.xyz
 update-tpday.xyz
 update1c.ru
+updatehyper.com
 updateinfodev.net
 updates9z.com
 updateusermob.xyz
