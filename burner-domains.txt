@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261021T0620Z: 126233 domains.
+# Data version 20261022T0017Z: 126233 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -3668,6 +3668,7 @@
 3utasmqjcv.gq
 3utasmqjcv.ml
 3utasmqjcv.tk
+3vhiq.anonbox.net
 3vmq8ojh4.xyz
 3voip.ru
 3vuwk8.info
@@ -4680,7 +4681,6 @@
 5555lx.com
 55581555.com
 55586555.com
-555888.icu
 55593555.com
 555exch.net
 555papa.com
@@ -13493,7 +13493,6 @@ arthobbies.info
 arthols.ru
 artholst-store.ru
 arthrorenov.com
-arthurgerex.network
 arthurmurrayven.com
 arthursbox.com
 articlesmaximizer.com
@@ -30828,7 +30827,6 @@ dangkibum.xyz
 dangkydinhdanh.online
 dangkygame.win
 dangwild.xyz
-danhchinh.link
 danhenry.watch
 danhlienminh.com
 danhpro.top
@@ -34119,6 +34117,7 @@ doabedbugremovalok.live
 doameyux.com
 doanart.com
 doanhnhanfacebook.com
+doanle.click
 doanlp.com
 doantotnghiep.com
 doatre.com
@@ -39137,6 +39136,7 @@ esidin.ga
 esidin.gq
 esidin.ml
 esidin.tk
+esign.lat
 esiix.com
 esika.cd
 esipfed.online
@@ -79939,7 +79939,6 @@ obrimlesescoles.cat
 obriuescoles.cat
 obriulesescoles.cat
 obrodak.club
-observantmarcelina.net
 observer-timesubtle-flairvitality-press.com
 obsoft.ru
 obstruction.info
@@ -105178,6 +105177,7 @@ tango-card.com
 tangoqkwn.ru
 tangramshow.ru
 tangstorunelir.space
+tangtheodoi.net
 tangtingtung.tech
 tani-japanese-takeaway.com
 taniesianie.online
@@ -105276,7 +105276,6 @@ tapreta.gq
 tapreta.ml
 tapreta.tk
 tapsitoaktl353t.ga
-taptoplab.com
 taptype.me
 tapvpnfree.website
 tar00ih60tpt2h7.cf
@@ -110621,6 +110620,7 @@ trollfootballthailand.com
 trollingforgamers.com
 trollphysicscomic.com
 trollproject.com
+trolls.lat
 tromba.best
 trombonetube.com
 trommleronline.com
@@ -115053,7 +115053,6 @@ vhpsc.us
 vhw5ie.us
 vhwiz8.us
 vhwuph.rest
-vhzvo.anonbox.net
 vi1ilpa.mywire.org
 via.tokyo.jp
 via17.com
@@ -117990,6 +117989,7 @@ weenmyip.com
 weeping-willow.shop
 weepm.com
 weer.de
+weerol.com
 weeya22.com
 wef.gr
 wefjo.grn.cc
