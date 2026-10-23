@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261023T0653Z: 126283 domains.
+# Data version 20261023T1401Z: 126285 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9513,7 +9513,6 @@ adultlivingcommunity.org
 adultlivingcommunityinfo.com
 adultnobl.recipes
 adultop.icu
-adultop.xyz
 adultoper.xyz
 adultosmayores.org
 adultpian.icu
@@ -13658,6 +13657,7 @@ asdasd.co
 asdasd.nl
 asdasd.ru
 asdasdadshdasd2.ga
+asdasdasd.cfd
 asdasdasd5.site
 asdasdasd7.site
 asdasdasd9.site
@@ -49720,6 +49720,7 @@ ha1dq.us
 ha4xwq.info
 ha7d2.stream
 ha92.store
+haadishah.co.uk
 haanhwedding.com
 haanybano.net
 haar52.com
@@ -54186,6 +54187,7 @@ hypowhal.tk
 hypoxiuqch.space
 hypoyo.xyz
 hyprhost.com
+hyproxy.lol
 hypteo.com
 hyqzvprb.site
 hyra-buss-stockholm.se
