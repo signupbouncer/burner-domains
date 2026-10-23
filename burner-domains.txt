@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261023T0551Z: 126289 domains.
+# Data version 20261023T0653Z: 126283 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62592,7 +62592,6 @@ konno.tk
 konnyaku.ml
 konoha.asia
 konsept.ru
-konstmusik.se
 kontak-whats.app
 kontaktniy-centr.ru
 kontanr1.pl
@@ -110879,7 +110878,6 @@ trustnetsecurity.net
 trustoria.net
 trustpiiot.site
 trustsieg.us
-trusttravellive.biz
 trusttravellive.travel
 trustur.ru
 trustware.coach
@@ -112801,7 +112799,6 @@ umanit.us
 umauma.cd
 umaw.site
 umbrellainvesting.xyz
-umbrila.com
 umc67.space
 umcygsyolytu.site
 ume-sk.com
@@ -113411,7 +113408,6 @@ urbanlanguageadventures.com
 urbanlegendsvideo.com
 urbanloose.com
 urbanmaintenance.xyz
-urbannw.org
 urbanoaks.community
 urbanoaks.properties
 urbanoaks.us
@@ -117383,7 +117379,6 @@ wardwamse.gq
 wardwamse.ml
 wardwamse.tk
 ware.cd
-waredbarn.com
 warehambowls.club
 warehouse-flooring.com
 warehouseliquidations.com
@@ -117398,7 +117393,6 @@ wargabaru.my.id
 wargravepreschool.uk
 waridsolutions.info
 warlus.asso.st
-warman.global
 warmeta.net
 warmiki.ru
 warmorop.gq
