@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261022T2344Z: 126326 domains.
+# Data version 20261023T0044Z: 126321 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16681,7 +16681,6 @@ baseflowpro.com
 basehipovk.space
 baselogicroute.com
 basemindway.com
-baseon.click
 basepathgrid.com
 baserda.net
 basetime.us
@@ -41040,7 +41039,6 @@ fastkawasaki.com
 fastlottery.net
 fastmail.name
 fastmail24.click
-fastmails.info
 fastmazda.com
 fastmeetup.site
 fastmitsubishi.com
@@ -59270,7 +59268,6 @@ jnthn39vr4zlohuac.gq
 jnthn39vr4zlohuac.ml
 jnthn39vr4zlohuac.tk
 jnwexkd.giize.com
-jnww3.anonbox.net
 jnxjn.com
 jnyfyxdhrx85f0rrf.cf
 jnyfyxdhrx85f0rrf.ga
@@ -66731,7 +66728,6 @@ loghusnah2.cf
 logicaljoy.com
 logicfieldzen.com
 logicielsvinity.com
-logicpathbid.com
 logicpowerbooster.com
 logicstreak.com
 logifixcalifornia.store
@@ -108393,7 +108389,6 @@ timishop.site
 timjarrett.net
 timjollyinsurance.com
 timkassouf.com
-timkiems.com
 timmatheson.com
 timmphiha.cf
 timmphiha.ga
