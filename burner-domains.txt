@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261024T0318Z: 126283 domains.
+# Data version 20261024T0420Z: 126282 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -65699,7 +65699,6 @@ lin.hanyu.studio
 linap1.site
 lincahqq.info
 lincahqq.net
-lincahqq.org
 lincolnnailsalons.com
 lindaclothing.com
 lindaramadhanty.art
