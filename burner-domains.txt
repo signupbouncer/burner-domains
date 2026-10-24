@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261024T1732Z: 126284 domains.
+# Data version 20261024T1833Z: 126283 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -122274,7 +122274,6 @@ xp6tq6vet4tzphy6b0n.gq
 xp6tq6vet4tzphy6b0n.ml
 xp6tq6vet4tzphy6b0n.tk
 xpalcomp3.xyz
-xpartner.site
 xpdevenv.com
 xpdyab.site
 xpee.tk
