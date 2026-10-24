@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261023T1705Z: 126283 domains.
+# Data version 20261024T0013Z: 126278 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9389,7 +9389,6 @@ admin-panels.xyz
 admin-pt.com
 adminiecqp.online
 adminiecqp.ru
-administraplus.delivery
 administratiemedewerkers.com
 adminlette.org
 admins.page
@@ -14429,7 +14428,6 @@ aupiurao.xyz
 aur0vk.us
 auralith.cfd
 auraliv.com
-auraness.com
 aurangabadlive.com
 auraqq.com
 aurawire.com
@@ -61014,7 +61012,6 @@ kcql.hair
 kcrw.de
 kcs-th.com
 kctoto.site
-kcum7.anonbox.net
 kcuxfb.us
 kcxdi2.com
 kcya.skin
@@ -81804,7 +81801,6 @@ oratalk.com
 oravantis.cfd
 oravell.cfd
 orbit25k.io.vn
-orbitjolly.com
 orbitxhive.com
 orbixacoa.com
 orbng.anonbox.net
@@ -83633,7 +83629,6 @@ pasukanganas.tk
 patacore.com
 patagon.website
 patalchj.pro
-patance.com
 patchag.xyz
 patchagre.xyz
 patchde.icu
@@ -98463,6 +98458,7 @@ shitmail.tk
 shitmycatkills.com
 shitovoi-dom.ru
 shitservices.online
+shitty.email
 shittymail.cf
 shittymail.ga
 shittymail.gq
@@ -100624,7 +100620,6 @@ snslogin.com
 snuggle.ink
 snugmail.net
 snugsconcertseries.com
-snvpro.online
 snx7rm3ba.web.id
 snytax.host
 snz873.com
@@ -108913,6 +108908,7 @@ tmpemails.com
 tmpeml.com
 tmpeml.info
 tmpjr.me
+tmpkit.com
 tmpmail.co
 tmpmail.net
 tmpmail.org
@@ -120514,7 +120510,6 @@ xalipcodes.online
 xammersoly.com
 xandoria.cfd
 xanhvilla.website
-xanva.site
 xaotxauf.pro
 xap.chat
 xapimail.top
