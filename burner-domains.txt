@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261024T1833Z: 126283 domains.
+# Data version 20261025T0041Z: 126284 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -18708,6 +18708,7 @@ bg4llrhznrom.ga
 bg4llrhznrom.gq
 bg4llrhznrom.ml
 bg4llrhznrom.tk
+bg5ld.anonbox.net
 bg613.top
 bg6i6.anonbox.net
 bgbed.anonbox.net
@@ -21130,6 +21131,7 @@ botrych.ru
 bots.com
 botseats.info
 botswana-finlife.com
+bottele.app
 bottinifuels.com
 bottinioil.com
 bottlacfue.cf
@@ -25134,6 +25136,7 @@ cfskrxfnsuqck.gq
 cfskrxfnsuqck.ml
 cfskrxfnsuqck.tk
 cfspart-impots-gouv.site
+cftest.lat
 cftest123.cam
 cftrextriey-manage1.com
 cfvgftv.in
@@ -28767,6 +28770,7 @@ cotro.fun
 cottageoakpropertie.com
 cottay.org
 cotthigh.org
+cotton.lat
 cottongods.net
 cottonnovdx.email
 cottononloverz.com
@@ -30470,7 +30474,6 @@ d7bpgql2irobgx.gq
 d7bpgql2irobgx.ml
 d7curtainwalls.com
 d7kj.net
-d7lw7.anonbox.net
 d7restoration.com
 d7storefronts.com
 d7zz5.anonbox.net
@@ -31138,7 +31141,6 @@ datingworld.email
 dationish.site
 datlab.space
 datlk.ga
-datoinf.com
 datotira.cf
 datovej.ninja
 datphuyen.net
@@ -42486,7 +42488,6 @@ fitil-dmc.com
 fitimail.eu
 fitmapgate.com
 fitmapsmart.com
-fitmindgate.com
 fitmotiv.ru
 fitneeses.site
 fitneesx.site
@@ -42564,7 +42565,6 @@ fixnums.best
 fixscal.com
 fixtech24x7.xyz
 fixthisrecipe.com
-fixwap.com
 fixwindowserror-doityourself.com
 fizmail.com
 fizmail.win
@@ -43228,7 +43228,6 @@ fod-myminfin.email
 fodmaster21pbjp.cf
 foeencuu.shop
 fog.one
-fogdiver.com
 fogenoughera.website
 fogeycnsd.space
 fogmart.com
@@ -43697,7 +43696,6 @@ foxmontes.info
 foxmunitions.com
 foxnew.info
 foxopros.ru
-foxroids.com
 foxspizzadiberville.com
 foxspizzanorthhuntingdon.com
 foxtailights.com
@@ -54424,6 +54422,7 @@ i91.info
 i95pp.com
 i9827.com
 i9rkgm.us
+ia-bot.lat
 ia04fx.us
 ia4stypglismiks.cf
 ia4stypglismiks.ga
@@ -60071,7 +60070,6 @@ justdoit132.tk
 justdrink.shop
 justemail.ml
 justenmartin.dev
-justep.news
 justfcfr.online
 justforclicks.com
 justfun88.com
@@ -64567,6 +64565,7 @@ leashoes.com
 leasnet.net
 leather-dozen-warn-third.xyz
 leatherseatcovers.net
+leaveness.com
 leaveover.xyz
 leaver.ru
 lebab.nl
@@ -66823,6 +66822,7 @@ lokingmi.cf
 lokingmi.gq
 lokingmi.ml
 lokitwcx.space
+lokoiat.top
 loksopha.com
 lokum.nu
 lokzhguof.shop
@@ -73152,7 +73152,6 @@ mmmggg0123.ccwu.cc
 mmmo.us.ci
 mmmoe.com
 mmo.us.ci
-mmo2000.asia
 mmo365.co.uk
 mmo365.store
 mmo55.com
@@ -84789,6 +84788,7 @@ peza.site
 pfaendxbahn.online
 pfgaoq.shop
 pfiizer.com
+pfinbox.com
 pfingstfest.info
 pfiter.com
 pflege-schoene-haut.de
@@ -97694,7 +97694,6 @@ serverqiu.com
 serversfordummies.com
 serversiap.com
 serverwarningalert.com
-servetecenaz.network
 servethe.net
 servetselcuk.cfd
 servetserifoglu.com
@@ -101539,6 +101538,7 @@ speaktion.com
 speakuptampabay.com
 spearcollective.com
 spearsreunion.com
+speasfarm.us
 spec-energo.ru
 spec7rum.me
 specerae.store
@@ -116482,6 +116482,7 @@ vpscloudvntoday.com
 vpscommunity.us
 vpsconfig.com
 vpsdb.com
+vpsdeo.app
 vpsera.com
 vpsera.net
 vpsfox.com
