@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261026T0515Z: 126266 domains.
+# Data version 20261026T0616Z: 126265 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -104694,7 +104694,6 @@ t3mtxgg11nt.tk
 t3sl4.xyz
 t3t97d1d.com
 t3transitions.com
-t4.com
 t4eas6.us
 t4jpol.us
 t4ruhk.us
