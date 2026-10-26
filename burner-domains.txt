@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261026T0414Z: 126283 domains.
+# Data version 20261026T0515Z: 126266 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12152,7 +12152,6 @@ angiad.xyz
 angiehomeservices.com
 angiiidayyy.click
 anginn.site
-angka69.com
 angkabursa.org
 angkahoki.club
 angkajitu.site
@@ -12875,7 +12874,6 @@ appmail24.com
 appmailer.site
 appmaillist.com
 appmanx1.com
-appmarketspy.com
 appmfc.tk
 appmingle.com
 appmobile-documentneedtoupload.com
@@ -51436,7 +51434,6 @@ herh2-privntur.xyz
 herien.design
 herilev.top
 heritagedentalgroupusa.com
-heritagepoint.org
 heriy.com
 herkesicinad.tk
 herlan.co.uk
@@ -62092,7 +62089,6 @@ kjhg.hair
 kjhjb.site
 kjhjgyht6ghghngh.ml
 kjjeggoxrm820.gq
-kjjit.eu
 kjkj99.net
 kjkpc.net
 kjkszpjcompany.com
@@ -63198,7 +63194,6 @@ kulodgei.com
 kulogu.cf
 kulogu.ml
 kulpvalinafizkayali.net
-kulturapitaniya.ru
 kulturbetrieb.info
 kultureco.space
 kum38p0dfgxz.cf
@@ -67485,7 +67480,6 @@ lshunter.site
 lsinghconsulting.com
 lsirdomain.us.ci
 lsjapp.com
-lsjbt.com
 lskqds.site
 lsktdr.us
 lslwcqvro.shop
@@ -68520,7 +68514,6 @@ mail-j.tk
 mail-jetable.com
 mail-lab.net
 mail-line.net
-mail-list.top
 mail-maker.net
 mail-mario.fr.nf
 mail-now.top
@@ -70027,7 +70020,6 @@ marioandsons-monkstown.com
 mariomaker.tech
 marisolsellshouses.com
 marissajeffryna.art
-marissasbunny.com
 maritimeglossary.com
 mariusblack.net
 mariyaa.pp.ua
@@ -90778,7 +90770,6 @@ rapidrootermn.com
 rapidspool.info
 rapidvideo.co
 rapidwristbands.net
-raplico.asia
 rappere.com
 rapplo.com
 rapquangtri.com
@@ -92687,7 +92678,6 @@ rexuejianghusifu.com
 reydonerkebabmalaga.com
 reymaticx.com
 reymisterio.com
-reynagg.eu.org
 reyw3.us
 reyzor.com
 rezablog.com
@@ -95064,7 +95054,6 @@ s.wkeller.net
 s00.orangotango.ga
 s0129.com
 s0146.com
-s0147.com
 s0181.com
 s0185.com
 s0190.com
@@ -95076,7 +95065,6 @@ s0224.com
 s0264.com
 s0313.com
 s0315.com
-s0337.com
 s0341.com
 s0346.com
 s0352.com
@@ -96741,7 +96729,6 @@ screwsmel.buzz
 screwthe.xyz
 screwyou.com
 scriand.com
-scribb.eu
 scribble.uno
 scribeorigins.org
 scribito.de
@@ -97403,7 +97390,6 @@ senanurie2ens.xyz
 senatec.cd
 senatorsport.store
 senbennett.com
-sencha.studio
 send-money.ru
 send22u.info
 send360.de
@@ -106313,7 +106299,6 @@ tempmails.gq
 tempmails.net
 tempmails.org
 tempmailto.com
-tempmaily.com
 tempmailyo.org
 tempnursejob.com
 tempomail.fr
@@ -107542,7 +107527,6 @@ theperformancecenterformen.com
 thepetaclouds.com
 thephambino.com
 thephillycalendar.com
-thepichuleiros.com
 thepieter.com
 thepieteronline.com
 thepill360.com
@@ -108345,7 +108329,6 @@ timesharerentalorlando.com
 timesms.com
 timesua.com
 timetodeliver.org
-timetotv.com
 timevo.ru
 timevod.com
 timewasterarcade.com
