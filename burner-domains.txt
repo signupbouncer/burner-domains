@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261026T0010Z: 126285 domains.
+# Data version 20261026T0414Z: 126283 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12605,7 +12605,6 @@ aokki.tk
 aokpcaledonia.org
 aolinemail.cf
 aolinemail.ga
-aolmate.com
 aolopdep.org
 aoltimewarner.cf
 aoltimewarner.ga
@@ -16195,6 +16194,7 @@ bakawiki.com
 bakerai.space
 bakersfield.florist
 bakersfieldoilandgas.com
+bakhr.anonbox.net
 bakingandfoodconnections.net
 bakingonstone.com
 baklsera.site
@@ -17152,7 +17152,6 @@ bdq8.pw
 bdr22.space
 bdr3w.anonbox.net
 bdredemptionservices.com
-bdrfoe.store
 bdshar.com
 bdskyk.com
 bdsmglossary.com
@@ -17296,7 +17295,6 @@ beautysecretss.xyz
 beautyshine.club
 beautyvibesmag.com
 beauxgadgets.com
-beavensmartialarts.com
 beaverkit.com
 beavoipphonerun.com
 beazelas.monster
@@ -21612,6 +21610,7 @@ brilliantnews.live
 brillionhistoricalsociety.com
 brillmed.com
 brilov.com
+brindesmarcelodoism.shop
 bring-luck.pw
 bringluck.pw
 bringnode.xyz
@@ -26443,7 +26442,6 @@ ciutada.org
 civbc.com
 civic-link.org
 civicinnovation.institute
-civicviz.com
 cividuato.site
 civikli.com
 civilius.xyz
@@ -42467,6 +42465,7 @@ fishnone.com
 fishnspin.com
 fishslack.com
 fishwater.ru
+fishx.sbs
 fistclick-company.ru
 fistikci.com
 fit-7979.com
@@ -43663,7 +43662,6 @@ foundlowell.com
 fountainsandgardens.com
 fourdesign.info
 fourfavorites.com
-fouristic.us
 fourminutemorgages.com
 fourprosku.cf
 fourprosku.ga
@@ -46246,7 +46244,6 @@ getlisttexts.site
 getllcservices.com
 getlostin.com
 getmaidanapinola.com
-getmail.fun
 getmail.my.id
 getmail1.com
 getmailfree.cc
@@ -105898,6 +105895,7 @@ tecnoleds.net
 tecnologiactuales.com
 tecnotutos.com
 tecperote.com
+tecso.lat
 ted-dhanik.biz
 ted-dhanik.net
 ted-dhanik.org
