@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261026T0616Z: 126265 domains.
+# Data version 20261026T0716Z: 126259 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62274,7 +62274,6 @@ klvm.gq
 klwrea.site
 klyverra.cfd
 klzlk.com
-klzmedia.com
 km1iq.xyz
 km239.site
 km69ax.site
@@ -95066,7 +95065,6 @@ s0264.com
 s0313.com
 s0315.com
 s0341.com
-s0346.com
 s0352.com
 s0384.com
 s0389.com
@@ -95196,7 +95194,6 @@ s80aaanan86hidoik.ga
 s80aaanan86hidoik.gq
 s80aaanan86hidoik.ml
 s8304.com
-s8323.com
 s8325.com
 s8486.com
 s8610.com
@@ -113909,7 +113906,6 @@ uyhip.com
 uyinnerssa.space
 uyinnerssa7.space
 uyizeaw8.com
-uyjo.com
 uyp5qbqidg.cf
 uyp5qbqidg.ga
 uyp5qbqidg.gq
@@ -115117,7 +115113,6 @@ viascales.ga
 viascales.gq
 viascales.ml
 viascales.tk
-viata.site
 viata.space
 viataestefrumoasa.site
 viavuive.net
@@ -124795,7 +124790,6 @@ zagdy1.site
 zageulyy.shop
 zagorodnyi-domik.ru
 zah3jk.us
-zaharin.ru
 zahav.net
 zahoditnaura.space
 zai.asia
