@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261026T1929Z: 126258 domains.
+# Data version 20261027T0037Z: 126262 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -18737,7 +18737,6 @@ bgx.ro
 bgyfr.anonbox.net
 bgyiacczy.top
 bgzbbs.com
-bh3zw.anonbox.net
 bh4qt.anonbox.net
 bh5zr.anonbox.net
 bhadoomail.com
@@ -32502,7 +32501,6 @@ devilsredheads.com
 devin.lat
 devinaaureel.art
 devinelittleleague.org
-deviouswiraswati.biz
 devist.com
 devla.site
 devlb.site
@@ -43054,6 +43052,7 @@ flyer24.shopping
 flyeragency.com
 flyernet.com
 flyerzwtxk.com
+flyhie.sbs
 flyhubs.top
 flyingbundle.com
 flyingfakir.com
@@ -47159,6 +47158,7 @@ glossier-group.com
 glosspremierideal.site
 glossybee.com
 gloucehuhy.space
+glovaiptv.com
 glovebranders.com
 glovlly.com
 glowciola.com
@@ -77829,6 +77829,7 @@ ngocminhtv.com
 ngocsita.com
 ngoctravel.net
 ngoisaohoa.com
+ngominhkhue.me
 ngontol.com
 ngplayer.com
 ngqn.icu
@@ -84641,7 +84642,6 @@ pertade.tk
 pertera.com
 perthhousecleaning.services
 pertinem.ml
-pertinenthersavira.net
 pertok.com
 pertusari.com
 peruadventureblog.com
@@ -92043,6 +92043,7 @@ relocate2boise.com
 relom.online
 relopment.site
 relrb.com
+relrd.com
 reludexo.site
 relumyx.com
 relxdzy.com
@@ -101462,7 +101463,6 @@ sparkgrowthteam.com
 sparklepuzzles.app
 sparkles.rocks
 sparkletoc.com
-sparkling.vn
 sparkmate.lat
 sparkmobile.xyz
 sparkofone.com
@@ -103145,6 +103145,7 @@ streamonsport.stream
 streams-web.site
 streamsentiment.net
 streamsofedendesign.com
+streamsuboperation.cfd
 streamtv.biz.id
 streamwatchtv.live
 streamwolf.store
@@ -103935,6 +103936,7 @@ supimon.com
 supj.site
 supk.site
 suplemento.club
+supliss.online
 supn.site
 supo.site
 supoa.site
@@ -112122,6 +112124,7 @@ u6spng.info
 u6wv97.info
 u6yksh-mail.xyz
 u7665.com
+u7btp.anonbox.net
 u7l9s6.com
 u7vt7vt.cf
 u7vt7vt.ga
@@ -115185,6 +115188,7 @@ vid4.me
 vidacriptomoneda.com
 vidaneh.org
 vidasole.com
+viday.lat
 vidchart.com
 viddly.online
 viddly.plus
