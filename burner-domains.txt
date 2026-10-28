@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261027T1900Z: 126260 domains.
+# Data version 20261028T0006Z: 126253 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -51792,7 +51792,6 @@ hielilis.ml
 hielilis.tk
 hiemail.net
 hieu.in
-hieu0971927498.com
 hieubiet.org
 hieuclone.com
 hieuclone.net
@@ -62060,7 +62059,6 @@ kiworegony.com
 kix-tioman.ru
 kixnewyork.com
 kiyastand.site
-kiyoapk.web.id
 kiyonna.ru
 kiyua.com
 kiz10.games
@@ -67593,7 +67591,6 @@ luckeyinvest.com
 luckfeed.com
 luckgift.ru
 lucktaro.com
-lucktoc.com
 luckuclick.ru
 lucky-gambler.com
 lucky-giveaways.com
@@ -84114,7 +84111,6 @@ peakairconfix.xyz
 peakdebt.org
 peakengineeringdubai.xyz
 peakfixkey.com
-peakfizz.com
 peakfree.net
 peakfree.org
 peakinbox.net
@@ -96307,7 +96303,6 @@ saupecmay.gq
 saupecmay.ml
 sausen.com
 saut-elastique.club
-sauto.me
 sauyh.com
 savageattitude.com
 savagepublishing.com
@@ -117901,7 +117896,6 @@ webpoker99.live
 webpozdravka.ru
 webpreserv.com
 webpro24.ru
-webpromailbox.com
 webrepository.ru
 webruble.ru
 webryugaku.com
@@ -123306,7 +123300,6 @@ yd-wf.com
 yd20q.site
 yd2444.com
 yd2yd.org
-yd3jj.anonbox.net
 yd3oqf.us
 yd7lw.us
 ydah.me
