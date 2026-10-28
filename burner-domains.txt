@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261028T0006Z: 126253 domains.
+# Data version 20261028T0410Z: 126260 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -13279,6 +13279,7 @@ ariderclothing.com
 arielvalls.com
 ariesqq.com
 arietesale.site
+arifachmad.com
 arifcanv2.ga
 arifcanv2.ml
 arifcanv2.tk
@@ -18705,6 +18706,7 @@ bg4llrhznrom.ga
 bg4llrhznrom.gq
 bg4llrhznrom.ml
 bg4llrhznrom.tk
+bg56n.anonbox.net
 bg5ld.anonbox.net
 bg613.top
 bg6i6.anonbox.net
@@ -21222,6 +21224,7 @@ boxmail.lol
 boxmail1.com
 boxmy-files.online
 boxnexa.com
+boxnguyenlieumeta.com
 boxofficevideo.com
 boxomail.live
 boxs5.anonbox.net
@@ -24009,7 +24012,6 @@ car48plus.xyz
 caraa317.xyz
 caraccidentlawyernetwork.net
 carackkat.online
-carambla.com
 caramelize931tp.online
 caramelopurohabano.com
 caramerica.site
@@ -27448,6 +27450,7 @@ codei.site
 codej.site
 codekia.com
 codel.site
+codeledmail.com
 codemail1.com
 codemystartup.com
 codenative.info
@@ -28551,6 +28554,7 @@ coppercounter.us
 copperemail.com
 coppersmithfamily.com
 copperstream.club
+coppersurfer.site
 coppertreeanalytics.mobi
 coppicsjqv.space
 copriit.xyz
@@ -38494,6 +38498,7 @@ entrupy.info
 entrupy.net
 entrybl.xyz
 entrylunc.us
+entrynow.sbs
 entsm.com
 enu.kr
 enuygunbankalar.online
@@ -51141,6 +51146,7 @@ heirfoundation.com
 heirret.shop
 heisei.be
 heisserreifen.com
+heiuse.com
 hejumarket.site
 hekarro.com
 hekimsaglik.xyz
@@ -80228,6 +80234,7 @@ officemalaga.com
 officespacemohanestate.com
 officesupport.fun
 officesupportonline.com
+officesurvive.com
 officeteamorangecounty.com
 officeworks.store
 officeyes.com
