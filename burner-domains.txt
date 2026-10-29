@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261029T0640Z: 126345 domains.
+# Data version 20261029T0741Z: 126337 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62566,7 +62566,6 @@ komchimaty.com
 komfu.com
 komkomp.ru
 kommunity.biz
-komnatnye-rasteniya.ru
 komninoiny.org
 kompakteruss.cf
 komparte.org
@@ -66493,7 +66492,6 @@ lnternatlonal-bittrex.com
 lnuitc.com
 lnvd.email
 lnvoke.net
-lnvoke.org
 lnwiptv.com
 lnwiptv.org
 lnwtt.com
@@ -100416,6 +100414,7 @@ smtp.onedayyylove.xyz
 smtp.orthopathy.info
 smtp.paceforwarders.com
 smtp.parkers4events.com
+smtp.polyfox.xyz
 smtp.productsproz.com
 smtp.ptgurindam.com
 smtp.quebecstart.com
@@ -109216,7 +109215,6 @@ tokyotogel.online
 tol.net
 tol.ooo
 tolasoft.net
-tolatech.com
 tolbet23.com
 tolbet4.com
 toldhistory.xyz
@@ -111353,7 +111351,6 @@ tunnelbound.com
 tunneler.cf
 tunneler01.ml
 tunnelermail.shop
-tunnelerph.com
 tunrahn.com
 tunschs.ru
 tunthuta.com
@@ -117136,7 +117133,6 @@ w88th.asia
 w88th.one
 w88vipen.com
 w88w88.info
-w88x3.com
 w88yd0.com
 w88yd2.com
 w88yd4.com
@@ -117924,7 +117920,6 @@ webhook.online
 webhook.site
 webhostchart.com
 webhostfarm.com
-webhosting-advice.org
 webhostingbuzz.org
 webhostingdomain.ga
 webhostingsimplicity.com
@@ -121979,7 +121974,6 @@ xn--k3wn9edz8c.xn--6qq986b3xl
 xn--kbr860dxgb522ac8c.com
 xn--kcrp1je0c24tl5hgx6do4e.xn--j6w193g
 xn--kksrenoveringgvle-3qb24a.se
-xn--kksrenoveringnorrkping-uhcr.se
 xn--kksrenoveringstersund-hecm.se
 xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
@@ -125580,7 +125574,6 @@ zinabf2edderus.xyz
 zincc.us
 zincset.com
 zindevital.com
-zineotic.com
 zingar.com
 zingermail.co
 zinggalms.shop
@@ -126220,7 +126213,6 @@ zurtel.ml
 zurtel.tk
 zutomayo.best
 zuvio.com
-zuxi.site
 zv-mail.ru
 zv-ml.ru
 zv-send.ru
