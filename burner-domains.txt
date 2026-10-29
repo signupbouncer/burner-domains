@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261029T0538Z: 126347 domains.
+# Data version 20261029T0640Z: 126345 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62027,7 +62027,6 @@ kismail.ru
 kisoq.com
 kiss-klub.com
 kiss1688.com
-kiss918.info
 kiss918bet.info
 kiss918vip.com
 kissgy.com
@@ -63315,7 +63314,6 @@ kuruapp.com
 kurubands.info
 kurumama.org
 kurumibnb.dog
-kurupee.com
 kuruyuk.com
 kuryem.net
 kuryshkina.ru
@@ -72162,7 +72160,6 @@ michaelkorshandbagswhole-sale.biz
 michaelkorsoutletclearances.us
 michaelkorsoutletstoresinc.com
 michaellees.net
-michaelr.org
 michaelrader.biz
 michaelstenta.net
 michaelstenta.org
@@ -85965,7 +85962,6 @@ playboot.com
 playcanvas.net
 playcard-semi.com
 playcasino24.com
-playcell.fun
 playcoin.online
 playdiablo4.ru
 player-casino.ru
@@ -116007,6 +116003,7 @@ vizsim.com
 vizyondafilm.info
 vizzapizzeria.com
 vj520.com
+vjav.info
 vjav.site
 vjbl.skin
 vjogpb.cf
@@ -117303,6 +117300,7 @@ walmarte-shop.com
 walmarteshop.com
 walmarteshops.com
 walmartnet.com
+walmartonlines.com
 walmartpartners.com
 walmartshops.com
 walmartsites.com
