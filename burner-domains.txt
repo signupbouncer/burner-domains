@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261029T0842Z: 126335 domains.
+# Data version 20261029T1351Z: 126335 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -8383,7 +8383,6 @@ aaamc.net
 aaanime.net
 aaaw45e.com
 aababes.com
-aabamian.site
 aabatriu.site
 aabbt.com
 aabiu.xyz
@@ -13638,6 +13637,7 @@ asbdsadss.space
 asbestosandmold.org
 asbet-game.club
 asbetter20.xyz
+ascad-pp.ru
 ascaz.net
 ascendventures.cf
 ascensionschool.org
