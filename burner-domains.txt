@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261029T0741Z: 126337 domains.
+# Data version 20261029T0842Z: 126335 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62866,7 +62866,6 @@ kqwyqzjvrvdewth81.gq
 kqwyqzjvrvdewth81.ml
 kqwyqzjvrvdewth81.tk
 kqxs168.org
-kqxskt.net
 kr207.site
 kracih.ru
 kradrider.com
@@ -116618,7 +116617,6 @@ vrshop.life
 vrstripshows.com
 vrsykk.xyz
 vrtgog.us
-vrvrx.com
 vryyqtgz.shop
 vrzpoker.com
 vs-neustift.de
