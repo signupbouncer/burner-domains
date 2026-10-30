@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261030T0915Z: 126336 domains.
+# Data version 20261030T1523Z: 126336 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -72749,6 +72749,7 @@ mirider.gq
 mirider.ml
 mirider.tk
 mirimbaklava.com
+mirimus.org
 mirinfomed.ru
 mirkarkas.ru
 mirker-mag64.host
@@ -101366,7 +101367,6 @@ spagyrichemp.com
 spahealth.club
 spahealth.online
 spahealth.site
-spahealth.xyz
 spain-real-estate.ru
 spainreview.net
 spaintoday.club
