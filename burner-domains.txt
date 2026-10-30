@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261030T2130Z: 126335 domains.
+# Data version 20261030T2231Z: 126334 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62325,7 +62325,6 @@ kmd4t8.site
 kmdt.cm
 kme6g.xyz
 kmeaq.xyz
-kmebk.xyz
 kmhow.com
 kmjy7.anonbox.net
 kmk86.site
