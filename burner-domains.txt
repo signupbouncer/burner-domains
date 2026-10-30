@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261030T0104Z: 126339 domains.
+# Data version 20261030T0510Z: 126338 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -99632,7 +99632,6 @@ skidkatrends-top.site
 skidkitop-kos.space
 skidkivsem-top.space
 skidubaimoments.com
-skifi.xyz
 skifrance.website
 skifsmm.ru
 skilaphab.cf
