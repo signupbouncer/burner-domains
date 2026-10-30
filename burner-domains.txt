@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261029T1351Z: 126335 domains.
+# Data version 20261030T0104Z: 126339 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16838,6 +16838,7 @@ bazerulodge.com
 bazhen.ru
 bazi1399.site
 bazookagoldtrap.com
+bazq3.anonbox.net
 bb-a.top
 bb-ins.us
 bb1197.com
@@ -42721,6 +42722,7 @@ flatteringsandita.biz
 flavejmi.cf
 flavejmi.gq
 flavejmi.tk
+flavia.lat
 flaviacadime.com
 flavor.market
 flavotcon.cf
@@ -43525,6 +43527,7 @@ formulemos.com
 fornattodental.com
 fornece.energy
 fornow.eu
+forogise.com
 foronebuy.com
 foronenight.best
 forponto.club
@@ -54594,7 +54597,6 @@ ibuyjp.org
 ibuyprinters.com
 ibuytnproperty4cash.com
 ibvoh.live
-ibvqg.anonbox.net
 ibyhrlc08fokf5f.xyz
 ibymail.com
 ibypebbles.com
@@ -68502,6 +68504,7 @@ maidlow.info
 maidstoneinventoryservices.com
 maigrirdes40ans.com
 maigw.us
+maihienphucthanh.com
 maiiamfoodsolutions.com
 maikai.me
 mail-address.live
@@ -86549,6 +86552,7 @@ polycast-suzhou.com
 polycoco.com
 polyfaust.com
 polyfaust.net
+polyfox.xyz
 polymnestore.co
 polynoxe.ru
 polyor.xyz
@@ -86989,7 +86993,6 @@ pp-tw.cc
 pp-vc.lol
 pp18269.com
 pp57822.com
-pp6.lol
 pp7rvv.com
 pp916.com
 pp98.cf
@@ -117311,6 +117314,7 @@ walmartwebs.com
 walmartwebsites.com
 walnuttree.com
 walotu.site
+walrus.lat
 walshpoems.com
 walsinghamsociety.org
 walterandnancy.com
