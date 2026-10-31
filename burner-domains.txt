@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261031T0537Z: 126332 domains.
+# Data version 20261031T0637Z: 126330 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -53124,7 +53124,6 @@ hotmailpro.info
 hotmailproduct.com
 hotmailtrusted.com
 hotmailvip.tokyo
-hotmali.cn
 hotmanpariz.com
 hotmao.live
 hotmcail.com
@@ -88710,7 +88709,6 @@ puretransgressions.com
 pureunderwater.com
 purewcms.com
 purifyzed.org
-purimaslombok.com
 purimasresort.com
 purinanestle.com
 purism.net
@@ -110924,6 +110922,7 @@ trustnetsecurity.net
 trustoria.net
 trustpiiot.site
 trustsieg.us
+trusttravellive.biz
 trusttravellive.travel
 trustur.ru
 trustware.coach
@@ -118228,7 +118227,6 @@ wencyphrasepedia.com
 wenders.online
 wenders.shop
 wenders.world
-wenders.xyz
 wendyalper.net
 wendyalper.org
 wendygoodhealthblog.com
