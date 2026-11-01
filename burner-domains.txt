@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261101T0501Z: 126453 domains.
+# Data version 20261101T0603Z: 126446 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9710,7 +9710,6 @@ afalf.bond
 afarek.com
 afarf.bond
 afb.business
-afb.global
 afbarta.ga
 afbarta.ml
 afbowr.com
@@ -25020,7 +25019,6 @@ cepie8x.com
 cepin8x.com
 cepwslow.works
 ceramica-mk.ru
-ceramicdinos.com
 ceramicsbensu.com
 ceranode.net
 ceranode.org
@@ -57370,7 +57368,6 @@ ismykek.xyz
 ismyspecialist.com
 isnapbet2020.xyz
 isobelcarter.buzz
-isocar.ru
 isochor.site
 isocials.online
 isolationideas.info
@@ -65877,7 +65874,6 @@ linkibcbet.xyz
 linkingcablebest.faith
 linkjetdata.com
 linkloadingloom.website
-linkmadang.com
 linkmadang1.com
 linkmail.info
 linkmam2.com
@@ -66261,7 +66257,6 @@ liuyuyu.space
 liva-der.com
 livakum-autolar.ru
 livall-bling.online
-livcam.online
 live-casinos-online.com
 live-ep.com
 live-perisa.com
@@ -78413,7 +78408,6 @@ niwave.top
 niwl.net
 niwod.com
 niwpd4.info
-nixemail.net
 nixer3.com
 niydomen897.cf
 niydomen897.ga
@@ -98268,7 +98262,6 @@ shangbad.xyz
 shanghaichinesedublin.com
 shanghaithai-dublin1.com
 shanghongs.com
-shanghutt.com
 shangkunma.com
 shangrila-ongar.com
 shangtwo.com
