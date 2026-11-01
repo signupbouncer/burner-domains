@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261101T0056Z: 126450 domains.
+# Data version 20261101T0501Z: 126453 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -4621,6 +4621,7 @@
 5363305.com
 536898.club
 5369927.com
+5376k.com
 5380b.club
 53822.monster
 538a.xyz
@@ -19404,7 +19405,6 @@ biscutt.us
 bisdak.xyz
 bishake.club
 bishkechki.com
-bishop.com
 bishopdrkpyohannan.org
 bishwanathuk.cc
 bisiklopedi.net
@@ -30270,6 +30270,7 @@ cybercommunist.com
 cybercommunist.org
 cybercommunistparty.org
 cyberdigital.site
+cyberdive.net
 cyberelites.com
 cybergamerit.ga
 cybergfl.com
@@ -30685,7 +30686,6 @@ daily-today-flashemoteobserver-vitality.com
 dailyawesomedeal.com
 dailybanhtrungthubrodard.com
 dailybible.xyz
-dailybitcoinlotto.com
 dailycasino.ru
 dailycoolcare.xyz
 dailycryptomedia.com
@@ -42970,7 +42970,6 @@ florevia.cfd
 floricckgq.space
 floridaaug.com
 floridabankinglawblog.com
-floridabookshop.com
 floridacims.com
 floridacnn.com
 floridacruiseinjury.com
@@ -43207,6 +43206,7 @@ fm96.app
 fm97.app
 fm98.app
 fmail.ishanavasthi.in
+fmail.online
 fmail.ooo
 fmail.party
 fmailx.tk
@@ -49177,7 +49177,6 @@ guia59.com
 guiadelcusco.com
 guiadoconservador.com.br
 guiadomilionario.com
-guiavip.net
 guide4fit.ru
 guidebate.fun
 guidebate.online
@@ -66000,6 +65999,7 @@ liphesa.ml
 liphesa.tk
 lipih.anonbox.net
 lipmanbetx.com
+lipoqiuqiu.org
 liporecovery.com
 liposaksinfiyatlari.com
 liposhop.site
@@ -70842,6 +70842,7 @@ mbeki.ru
 mbets.ru
 mbetxapp1.com
 mbetxapp3.com
+mbetxapp4.com
 mbf8ny.online
 mbfc6ynhc0a.cf
 mbfc6ynhc0a.ga
@@ -89991,6 +89992,7 @@ quetronis.tk
 queuegr.icu
 queuem.com
 queueplan.xyz
+quichebedext.freetcp.com
 quick-mail.cc
 quick-mail.club
 quick-mail.info
@@ -101313,6 +101315,7 @@ soudcuvea.tk
 soudeel.com
 soufflesinlive.com
 sougalsudan.com
+souhon.com
 soukalsudan.com
 soul-association.com
 soulfinderhub.lat
