@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261101T0705Z: 126444 domains.
+# Data version 20261101T0807Z: 126436 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9183,7 +9183,6 @@ acunsleep.gq
 acunsleep.tk
 acupuncturecharlottenorthcarolina.com
 acupunctureithaca.com
-acurate.ru
 acuslsqa.net
 acusupply.com
 acutechrealty.org
@@ -55036,7 +55035,6 @@ iekzzu.com
 iel.pw
 iemxo.com
 iencm.com
-ienergize.com
 iens7a.us
 ieo.group
 ieolsdu.com
@@ -56102,7 +56100,6 @@ inflavma.gq
 inflavma.ml
 inflavma.tk
 inflechgyc.space
-inflight.media
 infloo.biz
 infloo.global
 infloo.info
@@ -80696,7 +80693,6 @@ okfortlauderdale.com
 okfoxborough.com
 okfreeport.com
 okgreensboro.com
-okgtd.com
 okhalfpricedlistings.com
 okhalfpricelistings.com
 okharrisburg.com
@@ -113390,7 +113386,6 @@ upcmaill.com
 upcomingthings.com
 update-today.xyz
 update-tpday.xyz
-update1c.ru
 updatehyper.com
 updateinfodev.net
 updates9z.com
@@ -115988,7 +115983,6 @@ visualisme.com
 visualkonzept.de
 visualmotiv.com
 visualnest.work
-visualpro.online
 visuals.linkpc.net
 visualstartpage.com
 visuellewelt.xyz
@@ -125136,7 +125130,6 @@ zarifdardokuma.xyz
 zarinparvaz.net
 zaripov.digital
 zarkbin.store
-zarnitsa.su
 zarplatniy-proekt.ru
 zarplatnyj-proekt.ru
 zarpldolgvzisk.xyz
@@ -126105,7 +126098,6 @@ zoozentrum.de
 zopeqsa.space
 zoqqa.com
 zoqyge.info
-zor-da.ru
 zorg.fr.nf
 zorgkaartzeeland.com
 zoromail.ga
