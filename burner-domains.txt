@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261101T0603Z: 126446 domains.
+# Data version 20261101T0705Z: 126444 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -61949,7 +61949,6 @@ kings-chance.com
 kings-game.ru
 kings-garden-dublin.com
 kings33.com
-kingsbbq.biz
 kingsbeachclub.com
 kingsbythebay.com
 kingschancecampaign.net
@@ -79315,7 +79314,6 @@ nsk1vbz.ml
 nsk1vbz.tk
 nslpck.us
 nslrw.info
-nsn-tech.com
 nsn22.com
 nsnvrpuxx.cf
 nsoreds.shop
