@@ -22,7 +22,7 @@ of the data behind [SignupBouncer](https://signupbouncer.com), which checks sign
 - A domain SignupBouncer stops listing is removed here within about two hours.
 - New domains are pushed once a day. Removals are pushed on the next hourly run.
 
-Lines starting with `#` are comments: what the file is, the data version, and the upstream licence notices.
+Lines starting with `#` are comments: what the file is, the data version, and the upstream license notices.
 
 ## Using it
 
@@ -55,14 +55,14 @@ To check one address from an AI assistant, add the MCP server `https://signupbou
 To see how many of your existing users signed up with throwaway addresses, run the free audit at
 https://signupbouncer.com/audit. The audit sends us only email domains and counts.
 
-## Licence
+## License
 
 SignupBouncer's own contribution to this list (the domains it finds itself, and how the list is put together) is
 dedicated to the public domain under CC0 1.0 (`LICENSE`): use it for anything, no attribution needed. The list also
-contains data from these lists, which stays under their own licences:
+contains data from these lists, which stays under their own licenses:
 
 - disposable-email-domains: CC0 1.0 (`LICENSE.disposable-email-domains`);
-- ivolo/disposable-email-domains: MIT (`LICENSE.ivolo`, the licence section of that project's README);
+- ivolo/disposable-email-domains: MIT (`LICENSE.ivolo`, the license section of that project's README);
 - 7c/fakefilter: BSD 3-Clause (`LICENSE.fakefilter`).
 
 If you redistribute the whole list, keep those notices with it.
