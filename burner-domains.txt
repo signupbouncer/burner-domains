@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261103T1916Z: 126470 domains.
+# Data version 20261103T2017Z: 126469 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -66080,7 +66080,6 @@ listingleadsforyou.biz
 listingsnob.com
 listme.best
 listmoe.com
-listofmovies.website
 listopay.net
 listspider.com
 listtagshopshop.com
