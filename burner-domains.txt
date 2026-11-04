@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261103T2017Z: 126469 domains.
+# Data version 20261104T0021Z: 126454 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -1713,7 +1713,6 @@
 1shivom.com
 1singal.xyz
 1smail.top
-1smailbr.top
 1soq14.club
 1soq14.online
 1sourcevideo.net
@@ -11734,7 +11733,6 @@ amerilinkmail.com
 amerimetromarketing.com
 amesamed.shop
 amesbulletinboard.com
-ametitas.com
 ametsa.myftp.org
 amevents.co
 amex-online.ga
@@ -33776,7 +33774,6 @@ divemasterconception.com
 divermail.com
 diversaoemcasa.site
 diversaoemcasa.website
-diverseperdiawan.co
 diversitycheckup.com
 diversitygaming.online
 diverslogconception.com
@@ -35374,7 +35371,6 @@ dropcramponpencil.ru
 dropcramponpig.ru
 dropd.ru
 dropdetecter.com
-dropeso.com
 dropfinerball.ru
 dropfinercat.ru
 dropfinerdirt.ru
@@ -35975,7 +35971,6 @@ dvvxwaub.shop
 dvyqnf.us
 dw2fmp.us
 dw8u7.buzz
-dwakm.com
 dwang8.org
 dwango.cf
 dwango.ga
@@ -36874,7 +36869,6 @@ edge-of-oblivion.com
 edgecontrolclub.com
 edgecontrolformen.com
 edgehillcenter.org
-edgenestlab.com
 edgenet.dev
 edgenet.monster
 edgenet.today
@@ -42151,7 +42145,6 @@ filflix.site
 filingsportal.com
 filingsservices.com
 filipinonannies.net
-filipx.com
 filix.site
 filix.xyz
 fillari.net
@@ -50373,7 +50366,6 @@ haoniubia.cc
 haoshouhu.com
 haosuhong.com
 haotuk.site
-haotuwu.com
 haoy678.com
 haoyaogeccx.com
 haoyouo.com
@@ -61190,7 +61182,6 @@ keepsave.club
 keepthebest.com
 keeptoolkit.com
 keeta.lat
-keevle.com
 kefyci.info
 kegangraves.club
 kegangraves.online
@@ -63064,7 +63055,6 @@ kroswalt.com
 krouter.net
 krowdserf.com
 kroyalebeautysalon.com
-krpbroadcasting.com
 krsw.sonshi.cf
 krsw.tk
 krtdvuyj.shop
@@ -67434,7 +67424,6 @@ lovingmydentist.com
 lovingmylabrador.com
 lovingr3co.ga
 lovingyoujewelry.com
-lovleo.com
 lovlyn.com
 lovomon.com
 lovrent.com
@@ -82191,7 +82180,6 @@ osmaniyeprefabrikyapi.xyz
 osmonit.com
 osmosworld.ru
 osmotirkcf.ru
-osmqg.anonbox.net
 osmqgmam5ez8iz.cf
 osmqgmam5ez8iz.ga
 osmqgmam5ez8iz.gq
@@ -83885,7 +83873,6 @@ pawofjustice.org
 pawpawfestival.com
 pawsaquamation.biz
 pawsmarts.com
-pawtopup.com
 pawvogue.biz
 pawygu.info
 paxdealsy.info
@@ -85110,7 +85097,6 @@ phjwsz.com
 phlhomesolutions1.com
 phmail.site
 phmail.us
-phobicpatiung.biz
 phoebegibson.buzz
 phoenix-homes-and-lifestyles.com
 phoenix-ws.pro
@@ -118155,7 +118141,6 @@ webwallet.exchange
 webx5.royal-almas.it
 webxengine.com
 webxio.pro
-webxios.pro
 webxphp.ru
 webziliao.com
 webzone.icu
