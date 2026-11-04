@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261104T0426Z: 126464 domains.
+# Data version 20261104T0526Z: 126459 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -117,6 +117,7 @@
 000xxoo.com
 0010.monster
 0018k7.com
+001913.com
 0019k7.com
 001xs.net
 001xs.org
@@ -1734,6 +1735,7 @@
 1stcircuit.com
 1stcommercialrealty.com
 1stdibs.icu
+1sthandfoundation.org
 1stimme1schritt.com
 1stlibe.website
 1stoffer.com
@@ -16911,7 +16913,6 @@ bbmtl.anonbox.net
 bbn.cloud
 bborddd.live
 bbov9y.us
-bboygarage.com
 bboys.fr.nf
 bbpsc.anonbox.net
 bbq-nation.net
@@ -28604,7 +28605,6 @@ copticnn.net
 copyandart.de
 copycookbook.com
 copyhome.win
-copyrightdesk.com
 copytosh.com
 coracleansehelp.com
 coral-tour.space
@@ -31918,7 +31918,6 @@ delicieuxbakery.com
 deliciousnutritious.com
 deliciousthings.net
 delieus.site
-delightbox.com
 delightfulpayroll.com
 delightfulworkspace.org
 delighthimalaya.com
@@ -33203,7 +33202,6 @@ dijibilisim.xyz
 dikbzn.site
 dikeyzebraperde.com
 dikitin.com
-dikovics.com
 dikriemangasu.cf
 dikriemangasu.ga
 dikriemangasu.gq
@@ -38513,7 +38511,6 @@ enroncorp.ga
 enroncorp.gq
 enroncorp.ml
 enroncorp.tk
-enroute.africa
 enseade.cf
 enseade.ga
 enseade.gq
@@ -38845,7 +38842,6 @@ equipmentglossary.com
 equipmentshop.futbol
 equipoidexa.org
 equiteo.net
-equiteoavocats.com
 equiteoavocats.org
 equity-management.cd
 equityglobal.cloud
@@ -47964,7 +47960,6 @@ goods4home.ru
 goodseller.co
 goodsforyours.com
 goodsforyours.site
-goodshepherdclinic.com
 goodshepheredchurchseeta.com
 goodshowsco.com
 goodsmart.pw
