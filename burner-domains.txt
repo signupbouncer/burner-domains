@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261104T0728Z: 126449 domains.
+# Data version 20261104T0829Z: 126448 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10744,6 +10744,7 @@ albasmahart.com
 albasport.com
 albaziinlebanon.com
 albazzini.com
+albendazole.website
 albertacan.net
 albertina.me
 albertlotito.info
@@ -112655,7 +112656,6 @@ uggiulyanovsk.ru
 uggkids.online
 uggout.com
 uggsrock.com
-ugimail.net
 ugjfzx.info
 ugkal.site
 ugkugbkh5-privjpjp.fun
@@ -121047,7 +121047,6 @@ xhysp.xyz
 xi-rang.com
 xi-rang.net
 xi2.cc
-xi2.net
 xi6.buzz
 xiacorilop.icu
 xiaixue.club
