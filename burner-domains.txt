@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261104T0829Z: 126448 domains.
+# Data version 20261104T0930Z: 126447 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -86364,7 +86364,6 @@ pocontbest.ml
 pocontbest.tk
 pocoobtla29.site
 pocupki.ru
-pod72.com
 podatki-kog.com
 podboremavto.ru
 podcastflow.com
