@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261105T0049Z: 126453 domains.
+# Data version 20261105T0151Z: 126453 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10048,7 +10048,6 @@ agxngcxklmahntob.tk
 agylzuv.top
 ah3mto.us
 ahamit.com
-ahamoney.xyz
 ahardrestart.com
 aharmovie2.info
 ahasavannah.com
@@ -10204,6 +10203,7 @@ aiidriver.icu
 aiigs.live
 aiij8.space
 aiindia.xyz
+aiindonesia.xyz
 aiiots.net
 aiislam.xyz
 aiisrael.xyz
