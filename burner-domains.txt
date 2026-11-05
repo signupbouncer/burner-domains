@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261105T0554Z: 126523 domains.
+# Data version 20261105T1908Z: 126538 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -8523,6 +8523,7 @@ abayb.bond
 abaytiegypt.com
 abazb.bond
 abbassalameh.website
+abbellerfani.co.uk
 abbeygate-portugal.com
 abbiebarrett.buzz
 abbonamenti.click
@@ -10208,7 +10209,6 @@ aiij8.space
 aiindia.xyz
 aiindonesia.xyz
 aiiots.net
-aiislam.xyz
 aiisrael.xyz
 aiistanbul.xyz
 aijiangyuan.com
@@ -25043,6 +25043,7 @@ cepie8x.com
 cepin8x.com
 cepwslow.works
 ceramica-mk.ru
+ceramicdrift.me
 ceramicsbensu.com
 ceranode.net
 ceranode.org
@@ -25685,6 +25686,7 @@ chessgameland.com
 chessgamingworld.com
 chessjs.org
 chessliquidators.com
+chessmeadow.me
 chestcloudx.com
 chesterfieldcountyschools.com
 chesterstyle.ru
@@ -28882,6 +28884,7 @@ couponbaboon.com
 couponbeacon.bond
 couponcode.agency
 couponoff.com
+couponrook.me
 couponsdisco.com
 couponsmountain.com
 couponx.ru
@@ -33321,6 +33324,7 @@ dinksai.ga
 dinksai.ml
 dinlaan.site
 dinly.icu
+dinnerdrape.me
 dinnernorthconway.com
 dinnersbydiane.com
 dino.icu
@@ -43715,6 +43719,7 @@ fosrenstit.gq
 fosrenstit.tk
 fossclub.in
 fosse776nr.online
+fossilwharf.me
 fosterpromise.org
 fostervet.net
 fostervet.org
@@ -44278,6 +44283,7 @@ fridaypzy.com
 friedchitlins.com
 friedmansfinder.com
 frienda.site
+friendfete.me
 friendlyanarchists.org
 friendlyhollow.sbs
 friendlymail.co.uk
@@ -51863,6 +51869,7 @@ hichinavpn.com
 hickeyteam.net
 hicloud.life
 hicmd.net
+hicnsoft.com
 hicostand.site
 hicuspee.ga
 hicuspee.gq
@@ -63216,6 +63223,7 @@ ku1hgckmasms6884.ml
 ku1hgckmasms6884.tk
 ku4b1.us
 kuaifuli.club
+kuailesidiwen.top
 kuaizhufang.com
 kualapuucharterschool.com
 kualitasqq.com
@@ -71585,6 +71593,7 @@ mendelxnbz.space
 mendingme.net
 mendocountrylife.com
 mendotaschool.org
+mendpetal.me
 mendycady.com
 menealacola.com
 menece.com
@@ -79730,6 +79739,7 @@ nwyorkpass.com
 nwytg.com
 nwytg.net
 nwz6q5.us
+nx-mail.com
 nx1.de
 nx1.us
 nx365.net
@@ -86712,6 +86722,7 @@ ponatcyrr.gq
 ponatcyrr.ml
 ponatcyrr.tk
 ponce.works
+pondmosaic.me
 pondsbydesign.com
 ponenes.info
 poney.xyz
@@ -96735,6 +96746,7 @@ scenpucu.ga
 scenpucu.gq
 scentathome-dublin.com
 scentedipity.com
+scentlilt.me
 scerpio.com
 scfastoffers.com
 scgatton.biz
@@ -101086,6 +101098,7 @@ soleli.com
 soleme.info
 soleneprem.tk
 solenox.cfd
+soleoddity.me
 solerbe.net
 solidairconpro.xyz
 solidar.ong
@@ -110051,6 +110064,7 @@ toy68n55b5o8neze.ga
 toy68n55b5o8neze.gq
 toy68n55b5o8neze.ml
 toy68n55b5o8neze.tk
+toyafterglow.me
 toyebet196.com
 toygunmarch.com
 toyhacking.org
@@ -113708,6 +113722,7 @@ uruarurqup5ri9s28ki.ga
 uruarurqup5ri9s28ki.gq
 uruarurqup5ri9s28ki.ml
 uruarurqup5ri9s28ki.tk
+urules.ru
 urulsour.cf
 urulsour.ga
 urulsour.gq
