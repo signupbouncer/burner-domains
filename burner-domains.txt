@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261104T0930Z: 126447 domains.
+# Data version 20261104T2348Z: 126456 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10206,6 +10206,8 @@ aiij8.space
 aiindia.xyz
 aiiots.net
 aiislam.xyz
+aiisrael.xyz
+aiistanbul.xyz
 aijiangyuan.com
 aijitu.icu
 aijuxuan.com
@@ -10227,6 +10229,7 @@ aimamhunter.host
 aimeenorman.buzz
 aimer-agency.net
 aimetrics.co
+aimexico.xyz
 aimhire.me
 aimodel.xyz
 aimserv.com
@@ -10410,6 +10413,7 @@ aisubstore.click
 aisupply.click
 aisushigranada.com
 aiswitzerland.xyz
+aitaiwan.xyz
 aitecleco.com
 aitraffic.xyz
 aitravel.xyz
@@ -14135,7 +14139,6 @@ atansid.cf
 atansid.ga
 atansid.ml
 atansid.tk
-atarax.website
 atariazteca.com
 atariblockchainpartners.com
 atarif.ga
@@ -15786,6 +15789,7 @@ babau.ga
 babau.gq
 babau.ml
 babayigithukuk.xyz
+babayshop.id
 babe-store.com
 babe-wars.com
 babelsrevenge.com
@@ -19540,6 +19544,7 @@ bityemedia.com
 bitymails.us
 bitzonasy.info
 biubiuwholeworld.cn
+biukv.anonbox.net
 biumemail.com
 bivehe.xyz
 biweia615.icu
@@ -21294,6 +21299,7 @@ bpghmag.com
 bph4i.anonbox.net
 bpham.info
 bphwk.anonbox.net
+bpihh.anonbox.net
 bpl10.club
 bpoint99.live
 bpool.site
@@ -83945,6 +83951,7 @@ paymobet.com
 paynetcollect.com
 payo22.xyz
 payola-test.com
+payop.xyz
 payot.club
 payotta.net
 payoumoney.com
@@ -91836,6 +91843,7 @@ refeo.site
 refep.site
 referado.com
 referalu.ru
+referans.xyz
 referencement-site-immobilier.com
 referentialventures.com
 referol.info
@@ -124636,6 +124644,7 @@ yuandex.com
 yubacityapartments.com
 yubixiang.com
 yubua.com
+yucaipabomb.com
 yuccavalleyhomes4sale.com
 yucral.net
 yuduma.com
