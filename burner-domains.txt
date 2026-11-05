@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261105T0151Z: 126453 domains.
+# Data version 20261105T0554Z: 126523 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -1575,6 +1575,7 @@
 1forthemoney.com
 1fsdfdsfsdf.tk
 1fv.info
+1game.store
 1gdaily-profit.site
 1ghosts.com
 1ghtyu.com
@@ -4165,6 +4166,7 @@
 4ca0d5c0.club
 4callofduty.com
 4caretakers.com
+4chan.club
 4cjd2.anonbox.net
 4cloud47.xyz
 4cs-laser.com
@@ -7472,6 +7474,7 @@
 914258.ga
 9154.fun
 916w1ckjejaa140.xyz
+918.ninja
 918cai.net
 918lott.net
 9191lao.cd
@@ -12061,6 +12064,7 @@ andrewsbridals.info
 andrewschess.com
 andrewssportconditioning.com
 andrewssportsacademy.com
+andrewwisor.com
 andrey-simki.ru
 andreych1.host
 andreych2.host
@@ -14307,9 +14311,12 @@ attaber.ml
 attaber.tk
 attack.icu
 attacking.live
+attacking.network
+attacking.site
 attackonfreespeech.com
 attackonkingslanding.net
 attackonknightslanding.net
+attacks.cloud
 attacks.email
 attacks.life
 attacks.live
@@ -16892,6 +16899,7 @@ bbem3.anonbox.net
 bbetweenj.com
 bbfishing.ru
 bbfz.makeup
+bbg123.com
 bbhardingproducts.us
 bbhatta.info
 bbhost.us
@@ -18323,6 +18331,7 @@ betmarlo10.com
 betmars.net
 betmaru.com
 betmasterss2.ru
+betmax88.net
 betmelli20.com
 betmelli365.com
 betmili.ga
@@ -19545,6 +19554,7 @@ bitzonasy.info
 biubiuwholeworld.cn
 biukv.anonbox.net
 biumemail.com
+bived.com
 bivehe.xyz
 biweia615.icu
 biwf5.anonbox.net
@@ -21129,6 +21139,7 @@ bostontshirtclub.com
 bostonwebmedia.com
 bot.cd
 bot.nu
+botaksport.biz
 botaksport.net
 botal.live
 botanizes244tg.online
@@ -22099,6 +22110,7 @@ bub7yjt5p0uzewl.xyz
 bubbasblue.com
 bubbkirkpenma.tk
 bubblesfloat.com
+bubblybank.com
 bubkc.anonbox.net
 bubo1.net
 bubuface.tv
@@ -22166,6 +22178,7 @@ budgjhdh73ctr.gq
 budin.men
 budistore.me
 budmedia.fund
+budokainc.com
 budtek.info
 budylz.xyz
 budzdorov-03.site
@@ -24045,6 +24058,7 @@ car48plus.xyz
 caraa317.xyz
 caraccidentlawyernetwork.net
 carackkat.online
+carambla.com
 caramelize931tp.online
 caramelopurohabano.com
 caramerica.site
@@ -29220,6 +29234,7 @@ creation-site-web-bordeaux.net
 creationmeditation.org
 creationsfestives.com
 creationsgrecques.com
+creationuq.com
 creativainc.com
 creativas.de
 creative-mates.sk
@@ -31593,6 +31608,7 @@ dealeredit.adult
 dealergroupsummit.com
 dealersautoweb.com
 dealingwithabully.com
+dealio.app
 dealja.com
 deallabs.org
 dealligg.com
@@ -33169,6 +33185,7 @@ digitalrecordconnector.com
 digitalryno.net
 digitalsanctuary.com
 digitalscandinavia.net
+digitalsearch.info
 digitalsole.info
 digitalstoragepro.com
 digitaltechnic.ru
@@ -37469,6 +37486,7 @@ electricalchemy.org
 electricalpowertransmissiononlineclasses.com
 electricbikemotor.org
 electriccarvehicle.com
+electriccityrw.com
 electrician-colchester.com
 electricianhelp.site
 electricistas.cat
@@ -38205,6 +38223,7 @@ empregosdesucesso.com
 empregosemgoias.com
 empregosempre.club
 empresagloriasamotderoman.com
+empty.support
 emptyji.com
 empurarefrigeration.com
 empva.io.vn
@@ -42578,6 +42597,7 @@ fitwell.org
 fivanstore.shop
 fivatu.info
 five-club.com
+five-plus.net
 five27lic.com
 five88.bet
 fiveasidegame.com
@@ -45995,6 +46015,8 @@ geneseeit.com
 genesisvaluation.com
 genesvjq.com
 geneticdisease.org
+genetics.farm
+genetics.shop
 genetoken.community
 genevoid.com
 gengencharities.net
@@ -46319,6 +46341,7 @@ getllcservices.com
 getlostin.com
 getmaidanapinola.com
 getmail.my.id
+getmail.pics
 getmail1.com
 getmailfree.cc
 getmails.eu
@@ -46686,6 +46709,7 @@ gidchardogu.cf
 gidchardogu.ga
 gidchardogu.ml
 gidra-onion.club
+gids.site
 gidstomm.website
 gidtraveler.ru
 giedewly.cf
@@ -46736,6 +46760,7 @@ gigaclick.tech
 gigacylydm.space
 gigaload.site
 gigantmass.ru
+gigapesen.ru
 giggit.com
 giggledoodle.net
 gigglefern.lol
@@ -48025,6 +48050,7 @@ gooresctars.ga
 gooresctars.gq
 gooresctars.ml
 gooseneckwines.com
+goosenetwork.org
 gooses.design
 goosfactor.life
 gooxd.com
@@ -48803,6 +48829,7 @@ greyjack.com
 greypebbles.cd
 greystonessc.com
 greywool.ru
+grgc.org
 grib04.ru
 grib58.ru
 grid.sale
@@ -49892,6 +49919,7 @@ hafutv.com
 hafzo.net
 hagacademy.com
 hagendes.com
+hagglestore.com
 haggreroren.gq
 hagiasophiaonline.com
 hagomedia.com
@@ -50425,6 +50453,7 @@ happyhealthyvegan.life
 happyhome.eu.cc
 happyhorsespace.shop
 happykado.com
+happymail.guru
 happymovies.ru
 happynsimple.com
 happypath.land
@@ -51647,6 +51676,7 @@ hfd-house.site
 hfdh7y458ohgsdf.tk
 hfdhtmrds.site
 hfdwf.xyz
+hfengshui.com
 hffff.xyz
 hffgyn.us
 hffinrsmud.fun
@@ -55082,6 +55112,7 @@ ifans-mad.ru
 ifansforyou.ru
 ifansim.ru
 ifastme.com
+ifavorsprt.com
 ifcelite.com
 ifchuck.com
 ifcoat.com
@@ -55497,6 +55528,7 @@ imagedew.com
 imagegaga.com
 imagehouse.online
 imagenbox.xyz
+imageninnova.com
 images-spectrumbrands.com
 imagesincornwall.com
 imageskinston.com
@@ -56891,6 +56923,7 @@ invsetpo.tk
 invtribe01.xyz
 invtribe02.xyz
 invtribe03.xyz
+invtribe04.xyz
 invtribe05.xyz
 inw88.com
 inwagit.com
@@ -59190,6 +59223,7 @@ jjlj.fashion
 jjmj.fashion
 jjmsb.eu.org
 jjo77.space
+jjohbqppg.shop
 jjosale.top
 jjuisyj.top
 jjumples.com
@@ -60024,6 +60058,7 @@ julnic.ru
 julyacademy.com
 julysart.ru
 julz-a.com
+juma.store
 jumaelda4846.ml
 jumanindya8240.cf
 jumaprilia4191.cf
@@ -64215,6 +64250,7 @@ lassunshaltkurzmalso.vision
 last-chance.pro
 lastbilsmodeller.se
 lastchaosraiz.com
+lastconn.site
 laste.ml
 lastenergycall.com
 lastestberry.xyz
@@ -64463,6 +64499,7 @@ lcdweixiu.com
 lceland.net
 lceland.org
 lcelander.com
+lcelandic.com
 lcga9.site
 lcgjbz.com
 lcgqvd.best
@@ -66344,6 +66381,7 @@ livinitlarge.net
 livrare-rapida.info
 livrepas.club
 livriy.com
+livs.online
 liwa.site
 liwa1-afekis.ru
 lixian8.com
@@ -67783,6 +67821,7 @@ lulluna.com
 lulukbuah.host
 lululemonsale-outlet.com
 lululu19.info
+lulumelulu.org
 lum25kcredit.io.vn
 lumb.net
 lumberlinesawmills.com
@@ -68483,6 +68522,7 @@ magiccircleopera.org
 magicclick.ru
 magicdrop.info
 magicemporium.shop
+magicftw.com
 magicletters.site
 magicmail01.ml
 magicmarkerbea.xyz
@@ -70299,6 +70339,7 @@ marutv9.fun
 marvelcomicssupers.online
 marvelpress.com
 marvetos.com
+marvinlee.net
 marvinoka.com
 marwelax.com
 marwellhard.cf
@@ -70806,6 +70847,7 @@ mazadaa.com
 mazaeff.ru
 mazda-6.club
 mazdasa.site
+mazpa.com
 mb.com
 mb3boxers.com
 mb69.cf
@@ -75515,6 +75557,7 @@ mychung.com
 mycleaninbox.net
 myclicknflipplan.com
 myclo.pro
+mycloudmail.tech
 mycobal.com
 mycobotanica.org
 mycopperridgefarm.com
@@ -76062,6 +76105,7 @@ mywebsitesecure.com
 mywegolo.com
 mywend.online
 mywheelchairspace.info
+mywholeworld.site
 mywhtx.icu
 mywiemyto.online
 mywikitree.com
@@ -78007,6 +78051,7 @@ nhanqualienquan.online
 nhaphovinhomesquan9.com
 nhatdinhmuaduocxe.info
 nhatvip.us
+nhaxinh.xyz
 nhazmp.us
 nhbrqigc.shop
 nhcareerinstitute.org
@@ -80617,6 +80662,7 @@ ojudge.com
 ojypfszj.shop
 ok-play.ru
 ok1756.com
+ok420dr.com
 ok4ov3.us
 ok52.com
 ok8037.com
@@ -81017,7 +81063,6 @@ omandie.com
 omanizdjm.ru
 omankomanias.net
 omarnasrrr.com
-omarquesantiguidades.com
 omasohusa.com
 ombichi.com
 ombinayoga.com
@@ -81260,6 +81305,7 @@ onet-pol.xyz
 onetag.org
 onetaipeis.info
 onetap.marketing
+onetap.site
 onetimeusemail.com
 onetm-ml.com
 onetm.jp
@@ -83161,6 +83207,7 @@ paletteswap.com
 palgan.biz
 palgong80.com
 palingbaru.tech
+paliny.com
 paliospiti.com
 palkarouz.ru
 pallacemax.store
@@ -83266,6 +83313,7 @@ pandushka.info
 panel-admin.0rg.us
 panel.contractors
 panelademinas.com.br
+panelfinance.com
 panelistan.site
 panelpros.gq
 panelps.ru
@@ -86325,6 +86373,7 @@ pnvp7zmuexbqvv.ga
 pnvp7zmuexbqvv.gq
 pnvp7zmuexbqvv.ml
 pnvp7zmuexbqvv.tk
+pnwgenetics.com
 pnxmbv.icu
 pny0if.us
 po.bot.nu
@@ -86635,6 +86684,7 @@ polyfaust.com
 polyfaust.net
 polyfox.xyz
 polymnestore.co
+polymorph.icu
 polynoxe.ru
 polyor.xyz
 polyskinwax.biz
@@ -87344,6 +87394,7 @@ prcv.site
 prcw.site
 prcx.site
 prcy.site
+prcz.site
 prduefed.com
 pre-directappf.com
 pre188.website
@@ -87457,6 +87508,7 @@ premisesplacegroup.com
 premium-mail.fr
 premiumapk.store
 premiumapps.id
+premiumcannabis.online
 premiumcchelp.com
 premiumcrome.site
 premiumdivas.com
@@ -92198,6 +92250,7 @@ remail.cf
 remail.ga
 remail7.com
 remaild.com
+remailsky.com
 remailt.net
 remann.com
 remarkable.rocks
@@ -94464,6 +94517,7 @@ rtfj.site
 rtfk.site
 rtfl.site
 rtfn.site
+rtfo.site
 rtfp.site
 rtfq.site
 rtfs.site
@@ -96153,6 +96207,7 @@ sandwish.club
 sandybusinessbrokers.com
 sandyretro.shop
 sandytowingservices.com
+sanering-stockholm.nu
 sanetris.org
 sanetrus.com
 sanfinder.com
@@ -98278,6 +98333,7 @@ shannon.host
 shannonil.buzz
 shannonkweston.com
 shannonrichmond.com
+shantale.ru
 shantiom.gq
 shantiom.ml
 shaparak90.xyz
@@ -104530,6 +104586,7 @@ swingclubs.online
 swingdonor.com
 swingers.dance
 swingers69colombia.com
+swingery.com
 swipeche.icu
 swipeforjobs.com
 swiper.su
@@ -104991,6 +105048,7 @@ tabcomons.gq
 tabcomons.tk
 tabcupen.ml
 tabcupen.tk
+tabelon.com
 tabgs-sg.xyz
 tabienkorat.com
 tabienrayong.com
@@ -110144,7 +110202,10 @@ trackbillion.live
 trackden.com
 trackdriver.com
 tracker-fb.online
+tracking.army
+tracking.democrat
 tracking.navy
+tracking.republican
 trackinghub.org
 trackingsystem.cd
 tracklacker.com
@@ -111414,6 +111475,8 @@ tular.online
 tulipbettv9.com
 tulistoto.xyz
 tuljaenak.com
+tulsabud.delivery
+tulsacannabisdoctor.com
 tulsalaw.org
 tulsaokeldercare.com
 tulsaopiaterehab.com
@@ -113584,6 +113647,7 @@ urbanstudios.online
 urbansvg.com
 urbanvalore.info
 urbanvelo.ru
+urbaza.com
 urcarfresheners.irish
 urchatz.ga
 urdubbc.us
@@ -113761,6 +113825,7 @@ usbing.club
 usbvap.com
 uscaves.com
 uscbpimmegration.info
+uscemrounds.com
 uschalap.website
 uschroniclenews.com
 usclub.club
@@ -117392,6 +117457,7 @@ wallingtalks.com
 wallissonxmodz.tk
 wallla.com
 wallm.com
+wallofcoins.org
 wallpaperfren.com
 wallpaperlive.org
 wallpaperpedia.club
@@ -119096,6 +119162,7 @@ win-reward-award-national.club
 win-win-win-win-win-win.site
 win-winto.site
 win-your.site
+win1000x.net
 win789.net
 win8.cd
 win9rolet.xyz
@@ -120329,6 +120396,7 @@ www-putlockers.best
 www-rolimons.tk
 www.barryogorman.com
 www.cqnhtgs.top
+www.gishpuppy.com
 www.greggamel.net
 www111elexbet.xyz
 www111gao.com
@@ -122616,6 +122684,7 @@ xtrstories.com
 xtrtarget.com
 xtryb.com
 xtrzeer.fun
+xtsimilar.com
 xtubemate.site
 xtuc.com
 xtxfdwe03zhnmrte0e.ga
@@ -122778,6 +122847,7 @@ xxldruckerei.de
 xxlocanto.us
 xxlzelte.de
 xxmailedu.dpdns.org
+xxme.me
 xxmuonline.net
 xxmv.site
 xxolocanto.us
