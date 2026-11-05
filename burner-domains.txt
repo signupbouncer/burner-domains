@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261104T2348Z: 126456 domains.
+# Data version 20261105T0049Z: 126453 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12315,7 +12315,6 @@ annaninorekesi.ml
 annarahimah.ml
 annavarikova.ru
 annavasina-teacher.ru
-annavogue.shop
 annawaschke.com
 annazahra.cf
 anncool.shop
@@ -59434,7 +59433,6 @@ joepredin.gq
 joepredin.ml
 joepredin.tk
 joerotts.info
-joerty.network
 joetestalot.com
 joeycampus.com
 joeyfortman.biz
@@ -112504,7 +112502,6 @@ uefabucharest.com
 uefhuvmujq.xyz
 uefia.com
 uefpr.us
-ueinx.anonbox.net
 uejumk4yslktvhi.xyz
 uemail99.com
 uemfpu.us
