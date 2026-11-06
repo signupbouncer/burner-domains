@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261106T0620Z: 126539 domains.
+# Data version 20261106T0824Z: 126539 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10431,7 +10431,6 @@ aivtxkvmzl29cm4gr.ml
 aivtxkvmzl29cm4gr.tk
 aiwan-deals.com
 aiwashington.xyz
-aiwhois.xyz
 aiwireless.xyz
 aiworldx.com
 aixind.com
@@ -109402,6 +109401,7 @@ tokyotogel.online
 tol.net
 tol.ooo
 tolasoft.net
+tolatech.com
 tolbet23.com
 tolbet4.com
 toldhistory.xyz
