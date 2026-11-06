@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261106T1229Z: 126537 domains.
+# Data version 20261106T2020Z: 126536 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -28018,7 +28018,6 @@ compcoddmeg.ga
 compcoddmeg.gq
 compcoddmeg.ml
 competenergy.com
-competeshop.xyz
 competirer.com
 competirinternacional.website
 competition-black.xyz
@@ -82438,6 +82437,7 @@ ourbukkit.com
 ourchurch.app
 ourconnectedhistory.com
 ourcritters.net
+ourday.info
 ourensetv.gal
 ourfgv.us
 ourhobby.com
@@ -90247,7 +90247,6 @@ qvlar.se
 qvmao.com
 qvmassage.com
 qvo6jm.us
-qvpod.xyz
 qvttclass.us
 qvvcuk.com
 qvvoxjfb.shop
