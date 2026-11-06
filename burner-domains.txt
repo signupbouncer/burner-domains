@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261106T0014Z: 126533 domains.
+# Data version 20261106T0620Z: 126539 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12352,6 +12352,7 @@ annuale.best
 annualgatheringint.org
 annuallyix.com
 annuityassistance.com
+annwilde.com
 ano-mail.net
 ano2.co.uk
 anocinpackpainv1.site
@@ -14451,6 +14452,7 @@ aurawire.com
 aurcasino.com
 aureliandata.space
 aureliaprime.net
+aurensess.com
 aures-autoparts.com
 auresormi7m002.xyz
 auria.lat
@@ -15587,6 +15589,7 @@ b2g6anmfxkt2t.gq
 b2g6anmfxkt2t.ml
 b2g6anmfxkt2t.tk
 b2ieu.anonbox.net
+b2luv.anonbox.net
 b2npv.anonbox.net
 b2ntj.anonbox.net
 b2vja.anonbox.net
@@ -18048,7 +18051,6 @@ bestsentence2020.space
 bestsentence2020.xyz
 bestservice.me
 bestshopcoupon.net
-bestshows.xyz
 bestsleeping.com
 bestsoundeffects.com
 bestspeakingcourses.com
@@ -32166,6 +32168,7 @@ deos.tech
 deov5x.info
 dep88.win
 department.com
+depde.com
 depdfmanuales.xyz
 depdocla.net
 depend.best
@@ -52636,6 +52639,7 @@ holdenscramble.com
 holdfit.info
 holdontrue.com
 holdrequired.club
+holdup.me
 hole.cf
 holeio1.net
 holeio2.net
@@ -52974,6 +52978,7 @@ hopemail.biz
 hopesweets.org
 hopesx.com
 hopikoglu.club
+hoplise.com
 hopo.email
 hoponhopofflarnaca.com
 hoponhopoffpafos.com
@@ -94055,6 +94060,7 @@ roselism.com
 rosella.my.id
 roseltorg-info.ru
 roselug.org
+rosemarrty.shop
 rosendalerapids.com
 rosendalerapids.net
 roseofwind.ru
