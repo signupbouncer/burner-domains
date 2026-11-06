@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261105T1908Z: 126538 domains.
+# Data version 20261106T0014Z: 126533 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -34886,7 +34886,6 @@ dowloadplus.xyz
 dowment.site
 down888.club
 downersgroveattorneys.com
-downforest.online
 downgentai.cf
 downgentai.ga
 downgentai.gq
@@ -69192,7 +69191,6 @@ mailpremium.net
 mailpress.gq
 mailprm.com
 mailprm.xyz
-mailpro.icu
 mailpro.lat
 mailpro.live
 mailproxsy.com
@@ -75071,7 +75069,6 @@ multitip.email
 multitul-lath.ru
 multiwiseai.com
 multy-2019.ru
-mulyan.top
 mumajun.com
 mumba.website
 mumbaibjp.org
@@ -76381,7 +76378,6 @@ naipode.ml
 naipode.tk
 naitimp3.org
 naiv.guru
-naiveyuliandari.biz
 najiumai.com
 najlakaddour.com
 najthjihj.shop
@@ -119567,7 +119563,6 @@ wo295ttsarx6uqbo.ga
 wo295ttsarx6uqbo.gq
 wo295ttsarx6uqbo.ml
 wo295ttsarx6uqbo.tk
-wo4sl.anonbox.net
 wo52ni.com
 woae0g.site
 woaibg007.com
