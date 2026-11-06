@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261106T0824Z: 126539 domains.
+# Data version 20261106T1128Z: 126538 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -125681,7 +125681,6 @@ zhengyajun.com
 zhenniubia.top
 zhenskayaodejda.ru
 zhenskiy-stendap.best
-zhenu.ru
 zhenzhan16.icu
 zherben.com
 zhewei88.com
