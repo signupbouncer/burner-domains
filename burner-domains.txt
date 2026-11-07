@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T1339Z: 126503 domains.
+# Data version 20261107T1643Z: 126504 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -93787,6 +93787,7 @@ rockzoppten.tk
 rocord.website
 roda-mccarty.com
 rodan.com
+rodapoker.xyz
 rodax-software.online
 roddrodden.com
 rodduh.ru
@@ -102774,7 +102775,6 @@ statepro.xyz
 staterial.site
 statetaxreview.com
 stathost.net
-static-xad.com
 staticcontrolbrush.net
 staticcontrolbrushes.biz
 staticcontrolbrushes.net
@@ -124696,6 +124696,7 @@ yucaipabomb.com
 yuccavalleyhomes4sale.com
 yucral.net
 yuduma.com
+yuebo.xyz
 yuepaopai.world
 yuese101.com
 yuese104.com
