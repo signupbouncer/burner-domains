@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T0935Z: 126503 domains.
+# Data version 20261107T1339Z: 126503 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9516,6 +9516,7 @@ adultlivingcommunity.org
 adultlivingcommunityinfo.com
 adultnobl.recipes
 adultop.icu
+adultop.xyz
 adultoper.xyz
 adultosmayores.org
 adultpian.icu
@@ -32597,7 +32598,6 @@ devlug.com
 devlv.site
 devlw.site
 devlx.site
-devly.site
 devlz.site
 devmeyou.tech
 devmoe.com
