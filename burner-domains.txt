@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T0732Z: 126508 domains.
+# Data version 20261107T0833Z: 126505 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -64160,7 +64160,6 @@ lapizzolettasoria.com
 lapkholanh.com
 laplusgrandemutuelle.info
 lapluz.xyz
-laporinaja.com
 laposhe.net
 lappies.net
 lapsha.tk
@@ -113627,7 +113626,6 @@ urbanoaks.us
 urbanovalife.com
 urbanovapro.com
 urbanquarter.co
-urbanspacepractice.com
 urbanstand.com
 urbanstudios.online
 urbansvg.com
@@ -116469,7 +116467,6 @@ voizemall.com
 vokan.tk
 vokbu0.info
 volaj.com
-voland.site
 volary.site
 volcanclub.com
 volcano-wings.com
