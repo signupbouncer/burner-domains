@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T0833Z: 126505 domains.
+# Data version 20261107T0935Z: 126503 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -73003,7 +73003,6 @@ mitix.fun
 mitiz.site
 mitmona.com
 mitnian.xyz
-mitom.online
 miton.lat
 mitori.org
 mitrabisa.com
@@ -121775,7 +121774,6 @@ xn--80aac2akox3a.xn--p1ai
 xn--80aac4cehcr4g.xn--p1ai
 xn--80aac7ahaderb.xn--p1ai
 xn--80aaccckhb5elybu8jg.xn--p1ai
-xn--80aacgjwhzg2ax3i.xn--p1ai
 xn--80aae1cmie.xn--p1ai
 xn--80aaf2dvb.xn--p1ai
 xn--80aafk4baiso9a9ch.xn--p1ai
