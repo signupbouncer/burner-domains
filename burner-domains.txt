@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T0430Z: 126530 domains.
+# Data version 20261107T0531Z: 126527 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9278,7 +9278,6 @@ adawis-web.com
 adax.site
 adax360.com
 adb3s.com
-adbet.co
 adbheg.net
 adblockerhyper.us
 adblog.com
@@ -25699,7 +25698,6 @@ chevrolet-aveo.club
 chevrolet-tahoe.club
 chevybizs.info
 chew-on-this.org
-chewcow.com
 chewmumma.com.au
 chewnchat.com
 chewydonut.com
@@ -70344,7 +70342,6 @@ marutv9.fun
 marvelcomicssupers.online
 marvelpress.com
 marvetos.com
-marvinlee.net
 marvinoka.com
 marwelax.com
 marwellhard.cf
