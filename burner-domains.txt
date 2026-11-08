@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261108T0051Z: 126501 domains.
+# Data version 20261108T0357Z: 126500 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16372,7 +16372,6 @@ band-freier.de
 bandafgr.tk
 bandag.ru
 bandai.nom.co
-bandamn.ru
 bandar6.org
 bandar66.website
 bandarahoki88.com
