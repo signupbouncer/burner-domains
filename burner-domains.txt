@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261107T1844Z: 126503 domains.
+# Data version 20261108T0051Z: 126501 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16695,7 +16695,6 @@ basefeeder.com
 basefixzone.com
 basehipovk.space
 baselogicroute.com
-basemindway.com
 basepathgrid.com
 baserda.net
 basetime.us
@@ -22925,6 +22924,7 @@ bvz8k1.us
 bvzoonm.com
 bw6hf.anonbox.net
 bwa33.net
+bwcab.anonbox.net
 bwcfn1.site
 bwdny.com
 bweud.anonbox.net
@@ -35926,7 +35926,6 @@ dustreaming.live
 dustreaming.pro
 dustreaming.website
 dustreaming.xyz
-dustysyawalina.biz
 dutch-central.online
 dutchcabinhouses.com
 dutchmeadows.com
@@ -42347,7 +42346,6 @@ fineloans.org
 finemail.org
 fineoddity.com
 finews.biz
-finexhouse.com
 fingalcafe-swords.com
 fingersystemeurope.com
 fingso.com
@@ -48493,6 +48491,7 @@ gramlisjudg.ga
 gramlisjudg.ml
 gramlisjudg.tk
 grammarbeats.com
+granadm.com
 grand-registration.ru
 grandambar.ru
 grandayy.net
@@ -49082,7 +49081,6 @@ gthgvt.site
 gthosing.net
 gthyjuytr.dynv6.net
 gti8xq.us
-gtidf.anonbox.net
 gtk9.com
 gtkesh.com
 gtmail.com
@@ -76541,6 +76539,7 @@ nappillows.info
 naprb.com
 napston.org
 napthex4.com
+napthex55.net
 napwa.org
 naquke.info
 naqulu.com
@@ -84280,7 +84279,6 @@ peakac.xyz
 peakairconfix.xyz
 peakdebt.org
 peakengineeringdubai.xyz
-peakfixkey.com
 peakfree.net
 peakfree.org
 peakinbox.net
@@ -111127,7 +111125,6 @@ trycatchrepeat.info
 trycjebraingames.com
 tryck.cd
 tryclickfunnels.com
-tryhivekey.com
 tryinsured.com
 tryjetrun.com
 tryjx2s.com
@@ -117547,6 +117544,7 @@ wantwp.com
 wanu.homes
 wanva.shop
 wanxing-yl.com
+waosoe.com
 wap-facebook.ml
 wap8037.com
 wap9827.com
@@ -125193,7 +125191,6 @@ zarbelo.tk
 zard.website
 zareizen.com
 zareta.xyz
-zariaglam.shop
 zarifdardokuma.xyz
 zarinparvaz.net
 zaripov.digital
@@ -126379,6 +126376,7 @@ zurtel.ml
 zurtel.tk
 zutomayo.best
 zuvio.com
+zuya.store
 zv-mail.ru
 zv-ml.ru
 zv-send.ru
