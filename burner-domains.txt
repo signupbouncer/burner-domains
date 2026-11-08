@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261108T0357Z: 126500 domains.
+# Data version 20261108T1613Z: 126501 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -24245,7 +24245,6 @@ cartwright-morris.com
 carvaleters.com
 carvecolo.site
 carvehabi.xyz
-carverid.xyz
 carveride.icu
 carvideoshop.life
 carvives.site
@@ -118772,6 +118771,7 @@ whiteflowers.site
 whitehall-solutions.com
 whitehat.markets
 whitehousecalculator.com
+whitehousemeats.com
 whitehvacrepair.xyz
 whitelabelextracts.org
 whitelinehat.com
@@ -124567,6 +124567,7 @@ ysyl777.com
 yszjj.us
 yszmy.cn
 yt-dl.net
+yt-google.com
 yt6erya4646yf.gq
 yta1965.com
 ytb14a.us
