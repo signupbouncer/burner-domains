@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261108T1613Z: 126501 domains.
+# Data version 20261109T0024Z: 126497 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -14426,7 +14426,6 @@ augmentin875mg.info
 augrabiesfallsnationalpark.com
 augstusproductions.com
 augustmovo.com
-auhit.com
 auiiqj.best
 aukcionsaitov.ru
 aukcionsajtov.ru
@@ -42905,7 +42904,6 @@ flirtey.pw
 flismeif.com
 flixdot.com
 flixen.net
-flixsu.fun
 flld8d.us
 flmail.info
 flmcat.com
@@ -52199,7 +52197,6 @@ hitler-adolf.gq
 hitler-adolf.ml
 hitler-adolf.tk
 hitlive.ru
-hitmildot.com
 hitokoto.org
 hitons.ru
 hitradiopatrick.online
@@ -106621,7 +106618,6 @@ tennisshop.live
 tennisvalencia.com
 tennuicei.ml
 tennuicei.tk
-tenormin.website
 tenorplanet.com
 tenraica.cf
 tenraica.ga
@@ -111339,7 +111335,6 @@ ttxx6868.com
 ttytgyh56hngh.cf
 ttzbw.info
 tu-sale.online
-tu2uu.anonbox.net
 tu3x8h.us
 tu6oiu4mbcj.cf
 tu6oiu4mbcj.ga
@@ -122487,6 +122482,7 @@ xp6tq6vet4tzphy6b0n.gq
 xp6tq6vet4tzphy6b0n.ml
 xp6tq6vet4tzphy6b0n.tk
 xpalcomp3.xyz
+xpartner.site
 xpdevenv.com
 xpdyab.site
 xpee.tk
