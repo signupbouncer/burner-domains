@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T1002Z: 126509 domains.
+# Data version 20261110T1104Z: 126508 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -77775,7 +77775,6 @@ newsunrisedublin7.com
 newtivilebonza.com
 newtmail.com
 newtogel.com
-newtogel.xyz
 newtonius.net
 newtopian.org
 newtownelderlawgroup.com
