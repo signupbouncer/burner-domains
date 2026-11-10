@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T0800Z: 126516 domains.
+# Data version 20261110T0901Z: 126513 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -106627,7 +106627,6 @@ tenipen.ml
 tenipen.tk
 tenkkeys.site
 tenmiensieure.com
-tennbuilder.com
 tenndoe.com
 tennisportintl.com
 tennisshop.live
@@ -111282,7 +111281,6 @@ tthdtquszptutqu.ru
 tthemos.shop
 tthettha.shop
 tthomp.com
-ttht.us
 ttieu.com
 ttirv.org
 ttitoolsale.com
@@ -124722,7 +124720,6 @@ yugasandrika.com
 yuge5189.xyz
 yugfbjghbvh8v67.ml
 yughfdjg67ff.ga
-yuhe.us
 yui.it
 yuinhami.com
 yujiehanjiao.cc
