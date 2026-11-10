@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261109T2149Z: 126534 domains.
+# Data version 20261110T0053Z: 126535 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -1283,7 +1283,6 @@
 1716xxx.com
 174podarka.ru
 1756bb.com
-175vip.xyz
 1768aa.com
 1768cc.com
 1769022.com
@@ -3547,7 +3546,6 @@
 3j4rnelenwrlvni1t.gq
 3j4rnelenwrlvni1t.ml
 3j4rnelenwrlvni1t.tk
-3jcsx.anonbox.net
 3jf.cn
 3jiepai.xyz
 3jl.ru
@@ -12070,6 +12068,7 @@ andreych4.host
 andreych5.host
 andreych7.host
 andreymaltsev.info
+andrivers.com
 androidcredit.com
 androidex.ru
 androidfun.website
@@ -16032,7 +16031,6 @@ baguio-cns2.com
 bagx.site
 bagycyo.website
 bahairants.org
-bahannes.network
 bahcespor.info
 bahgcondio.ga
 bahgcondio.ml
@@ -49831,6 +49829,7 @@ ha7d2.stream
 ha92.store
 haadishah.co.uk
 haanhwedding.com
+haanhwedding.vn
 haanybano.net
 haar52.com
 haatma.com
@@ -61875,6 +61874,7 @@ kimfetsnx.com
 kimfetspa.com
 kimfetstx.com
 kimgmail.com
+kimgmail.online
 kimhiiida.com
 kimhui.online
 kimia.xyz
@@ -86612,6 +86612,7 @@ poletbot.site
 polezno-znati.ru
 poleznofinland.ru
 police-webbrocanteur.com
+policiman.com
 policity.tk
 poliden.me
 poliglot-16.ru
@@ -96145,7 +96146,6 @@ sanaewesthkff.xyz
 sanahalls.com
 sanalalem.com
 sanalankara.xyz
-sanalcell.network
 sanalfilm.biz
 sanalfuar.host
 sanalgos.club
@@ -112378,6 +112378,7 @@ u6wv97.info
 u6yksh-mail.xyz
 u7665.com
 u7btp.anonbox.net
+u7ig4.anonbox.net
 u7l9s6.com
 u7vt7vt.cf
 u7vt7vt.ga
