@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T0558Z: 126535 domains.
+# Data version 20261110T0658Z: 126524 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -4970,7 +4970,6 @@
 5mi3rb.us
 5minutemail.net
 5mot.ru
-5music.info
 5music.top
 5muvf9cd4.xyz
 5n9f1.xyz
@@ -22437,7 +22436,6 @@ burry.house
 bursadekorhaliyikama.online
 bursadekorhaliyikama.xyz
 bursaevlilikterapisi.com
-bursahealth.com
 bursakomoditi.xyz
 bursaservis.site
 bursayolu.xyz
@@ -32506,7 +32504,6 @@ dev-null.gq
 dev-null.ml
 dev-point.biz
 dev-testing.website
-dev-tips.com
 dev.net
 dev01d.ml
 dev17.tech
@@ -41088,7 +41085,6 @@ fast2bet.asia
 fast3std0wnload.com
 fastaccare.xyz
 fastacura.com
-fastair.info
 fastandfreebooks.site
 fastboattolembongan.com
 fastcashohhomes.com
@@ -46744,7 +46740,6 @@ giftasdjafwer.online
 giftbasketinformation.com
 giftcardsgen.me
 giftcv.com
-gifted.photo
 giftedandcyber.com
 giftelope.com
 giftlisted.space
@@ -56782,7 +56777,6 @@ internetbiz63.ru
 internetchoice.blog
 internetedirne.xyz
 internetelearning.com
-internetenthusiast.me
 interneterzincan.xyz
 internetidentityworkshop.org
 internetineczanesi.xyz
@@ -75246,7 +75240,6 @@ mutik.ru
 mutirokas.gq
 mutlucarsi.com
 mutter-zeitung24.website
-muttonvindaloobeast.xyz
 muttwalker.net
 mutualbags.com
 mutualhomebuyers.com
@@ -76438,7 +76431,6 @@ nam10.org
 nam4.org
 nam6.org
 namag3m.com
-namakuirfan.com
 namaquanationalpark.com
 namardc.cd
 namasteyogasupply.com
@@ -77072,7 +77064,6 @@ neds.live
 neds.ph
 neds.promo
 nedv-stupino.ru
-neeahoniy.com
 need53.sbs
 needcore.ru
 needdentistnearme.com
@@ -91818,7 +91809,6 @@ redyspot.com
 redyspots.com
 redza.online
 reecegiles.space
-reedom.ru
 reedy.rocks
 reedy.space
 reefbarandmarket.com
@@ -94273,7 +94263,6 @@ royalgardenchinesetakeaway.com
 royalgreencondosg.com
 royalhost.info
 royalhosting.ru
-royalmail.top
 royalmarket.club
 royalmarket.life
 royalmarket.online
@@ -95283,6 +95272,7 @@ s0313.com
 s0315.com
 s0337.com
 s0341.com
+s0346.com
 s0352.com
 s0384.com
 s0389.com
@@ -95412,6 +95402,7 @@ s80aaanan86hidoik.ga
 s80aaanan86hidoik.gq
 s80aaanan86hidoik.ml
 s8304.com
+s8323.com
 s8325.com
 s8486.com
 s8610.com
@@ -96020,7 +96011,6 @@ saloudi.com
 salpervemurat.ga
 salsasmexican.com
 salsoowi.site
-saltanera.net
 saltcityfiberworks.com
 saltjp.com
 saltlakecitybusinessadvisors.com
@@ -102783,7 +102773,6 @@ starwitches.net
 starx.pw
 staryoskol.info
 staryzones.com
-stashsheet.com
 stasi.cd
 stasuauth.com
 statdvr.com
@@ -115374,6 +115363,7 @@ viascales.ga
 viascales.gq
 viascales.ml
 viascales.tk
+viata.site
 viata.space
 viataestefrumoasa.site
 viavuive.net
@@ -122857,7 +122847,6 @@ xxldruckerei.de
 xxlocanto.us
 xxlzelte.de
 xxmailedu.dpdns.org
-xxme.me
 xxmuonline.net
 xxmv.site
 xxolocanto.us
