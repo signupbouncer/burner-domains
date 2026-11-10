@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T0658Z: 126524 domains.
+# Data version 20261110T0800Z: 126516 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9003,7 +9003,6 @@ acherouae.xyz
 achievementwe.us
 achieversconsulting.org
 achievewe.us
-achievewithdenise.com
 achievingbalancedliving.com
 achillesinvestment.com
 achillesinvestments.com
@@ -57121,7 +57120,6 @@ iptv.ski
 iptvcccam.club
 iptvmaximum.online
 iptvpro.host
-iptvservice.info
 ipukta.site
 ipusgo.cfd
 ipusku.com
@@ -58538,7 +58536,6 @@ jbnasfjhas96637.ga
 jbnasfjhas96637.ml
 jbnasfjhas96637.tk
 jbniklaus.com
-jbnote.com
 jbnyfd.com
 jbopoker.org
 jbp22.space
@@ -81955,7 +81952,6 @@ orangemail.bet
 orangeme.xyz
 orangerealestateagents.com
 orangotango.ml
-oranje-fans-limburg.com
 orantcharities.com
 orante.xyz
 oras-market.ru
@@ -83122,7 +83118,6 @@ pahrulirfan.net
 paiconk.site
 paid-courses-free-11.games
 paideia.foundation
-paidpocket.com
 paigecourtneyphotography.com
 paigegordon.biz
 paikhuuok.com
@@ -83887,7 +83882,6 @@ paulmadey.net
 paulmalyschko.org
 paulmcilwaine.com
 paulmfarnsworth.com
-paulwardrip.com
 paulwilden.com
 paulwnielsen.com
 paulzbj.ml
@@ -84897,7 +84891,6 @@ petmem.net
 petmem.org
 petowoodwork.ca
 petpal-sale.ru
-petpawprint.com
 petphotographer.photography
 petproductreviews.site
 petprotect.club
@@ -98490,7 +98483,6 @@ shengshi.bet
 shengunde.com
 shengxia.asia
 shenlex.com
-shenmaexpress.com
 shenmefan.com
 shenmege.com
 shenmidaima.com
