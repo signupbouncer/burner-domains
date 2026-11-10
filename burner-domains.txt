@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T0901Z: 126513 domains.
+# Data version 20261110T1002Z: 126509 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -32875,7 +32875,6 @@ dhungtai2.com
 dhwilp.com
 dhy.cc
 di9yy.info
-dia-rus.ru
 diaaline.ru
 diabasil.com
 diabet4k.top
@@ -101032,7 +101031,6 @@ soitanve.tk
 sojnd7.us
 soju.buzz
 sojuqq.com
-sokahplanet.com
 sokaklambasi.cf
 sokaklambasi.ga
 sokaklambasi.ml
@@ -102492,7 +102490,6 @@ stackedlayers.com
 stackinglayers.com
 stacklance.com
 stackled.com
-stackleds.com
 stackomatic.com
 stackparts.com
 stacys.mom
@@ -124715,7 +124712,6 @@ yuese106.com
 yuese110.com
 yuese122.com
 yufu999.com
-yug-realty.ru
 yugasandrika.com
 yuge5189.xyz
 yugfbjghbvh8v67.ml
