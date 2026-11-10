@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T0053Z: 126535 domains.
+# Data version 20261110T0558Z: 126535 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -17311,6 +17311,7 @@ beautysecretss.xyz
 beautyshine.club
 beautyvibesmag.com
 beauxgadgets.com
+beavensmartialarts.com
 beaverkit.com
 beavoipphonerun.com
 beazelas.monster
@@ -20087,7 +20088,6 @@ blogpoints.com
 blogpolitics.com
 blogpr.com
 blogpress.info
-blogpress.pro
 blogproperties.com
 blogpsychic.com
 blogpsychics.com
@@ -20482,7 +20482,6 @@ boatlives.online
 boatlives.shop
 boatloanz.com
 boatmail.us
-boatmoon.com
 boatrampapp.com
 bobablast.com
 bobaetown.com
@@ -26930,7 +26929,6 @@ clicksp.pro
 clicktrack.ru
 clicku.pro
 clickwowm.pro
-client-side.ru
 clientgratitude.com
 clientologist.net
 clientreviews.org
@@ -67623,6 +67621,7 @@ lshunter.site
 lsinghconsulting.com
 lsirdomain.us.ci
 lsjapp.com
+lsjbt.com
 lskqds.site
 lsktdr.us
 lslwcqvro.shop
@@ -68537,7 +68536,6 @@ magiccircleopera.org
 magicclick.ru
 magicdrop.info
 magicemporium.shop
-magicftw.com
 magicletters.site
 magicmail01.ml
 magicmarkerbea.xyz
@@ -95271,6 +95269,7 @@ s.wkeller.net
 s00.orangotango.ga
 s0129.com
 s0146.com
+s0147.com
 s0181.com
 s0185.com
 s0190.com
@@ -95282,6 +95281,7 @@ s0224.com
 s0264.com
 s0313.com
 s0315.com
+s0337.com
 s0341.com
 s0352.com
 s0384.com
