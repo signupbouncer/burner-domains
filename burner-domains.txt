@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261110T1307Z: 126507 domains.
+# Data version 20261111T0020Z: 126504 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -22039,7 +22039,6 @@ btgo90us.net
 btgo90us.org
 btgt.email
 bticigd.xyz
-btiho.anonbox.net
 btinernet.com
 btintenet.com
 btiran.com
@@ -41652,7 +41651,6 @@ ferdojenik30days.xyz
 ferdomnermail.com
 ferdosi.org
 fereycorp.com
-fergetic.com
 ferial.site
 feridunyilmazlar.xyz
 ferins.xyz
@@ -86271,6 +86269,7 @@ plusfitpoint.com
 plushimages.net
 plushington.ru
 plusica.tk
+plusiptv.xyz
 plusjlle.com
 plusjlle12.tk
 pluskatv.sk
@@ -98891,7 +98890,6 @@ shopuniformswarehouse.com
 shopuniformwarehouse.com
 shopussy.com
 shopvallys.xyz
-shopvia2fa.net
 shopvipduzk666.shop
 shopvipduzk6868.shop
 shopvpn.uk
@@ -103819,7 +103817,6 @@ sukoii.com
 suksescasino.info
 suksesnet.net
 suksessin.net
-suksukagua.com
 sul.bar
 sulari.cf
 sulari.ga
