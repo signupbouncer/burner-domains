@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261111T0624Z: 126506 domains.
+# Data version 20261111T0725Z: 126503 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -64289,7 +64289,6 @@ latemail.tech
 latempete.cd
 latest.cd
 latestandhot.com
-latestcnnnews.com
 latestprojectors.com
 latestshayari.org
 lateststylenews.xyz
@@ -78892,7 +78891,6 @@ nonegray.info
 nonescent.xyz
 noneso.site
 nonetary.xyz
-nonewanimallab.com
 nongame.best
 nonglex.tech
 nongmak.net
@@ -117366,7 +117364,6 @@ waibavic.ga
 waibavic.gq
 waibavic.ml
 waibavic.tk
-waifu.horse
 waifufigures.com
 waifumail.ml
 waikikieasthotel.com
