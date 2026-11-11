@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261111T0020Z: 126504 domains.
+# Data version 20261111T0523Z: 126506 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -5047,6 +5047,7 @@
 5so1mammwlf8c.gq
 5so1mammwlf8c.ml
 5so1mammwlf8c.tk
+5sounds.com
 5staring.com
 5starsretail.com
 5steps-site.ru
@@ -42046,7 +42047,6 @@ fikrinhdyh.gq
 fikrinhdyh.ml
 fikrinhdyh.tk
 fikstore.com
-fikus.work.gd
 filadelfiacom.com
 filakhbar.com
 filatov.biz
@@ -50395,6 +50395,7 @@ haoniubia.cc
 haoshouhu.com
 haosuhong.com
 haotuk.site
+haowanyou.site
 haoy678.com
 haoyaogeccx.com
 haoyouo.com
@@ -70970,6 +70971,7 @@ mchurchapp.com
 mchyde.com
 mchyper.com
 mciek.com
+mcjt7.anonbox.net
 mckenze.com
 mckenzieworldwide.net
 mckinleygrand.net
@@ -111281,6 +111283,7 @@ ttkamukecil.com
 ttkkk2.xyz
 ttlalloe.xyz
 ttlzw.info
+ttmail.lat
 ttmail.vip
 ttmgss.com
 ttmpoker.club
@@ -113323,7 +113326,6 @@ unmail.ru
 unmetered.se
 unmetv.com
 unmoeglich.love
-unmuhbarru.ac.id
 unnarf.icu
 unnitv.com
 unnuhol.cf
