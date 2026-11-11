@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261111T0523Z: 126506 domains.
+# Data version 20261111T0624Z: 126506 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -88685,7 +88685,6 @@ puds5k7lca9zq.gq
 puds5k7lca9zq.ml
 puds5k7lca9zq.tk
 pudweb.com
-pudxe.com
 pudy6.anonbox.net
 pueblosabandonados.com
 puerentdeepf.ga
@@ -90032,6 +90031,7 @@ quetronis.tk
 queuegr.icu
 queuem.com
 queueplan.xyz
+quichebedext.freetcp.com
 quick-mail.cc
 quick-mail.club
 quick-mail.info
