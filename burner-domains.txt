@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0718Z: 126561 domains.
+# Data version 20261113T0820Z: 126554 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -19595,7 +19595,6 @@ bizoncovers.com
 bizpabx.cloud
 bizrdc.cd
 bizsa.anonbox.net
-bizsearch.info
 biztime.tk
 biztoolkit.com
 bizybin.com
@@ -53900,7 +53899,6 @@ humanityenterprises.asia
 humanityenterprises.com
 humanlight.org
 humanloop.xyz
-humanone.org
 humans-souls.ru
 humanzty.com
 humblebee.ru
@@ -62754,7 +62752,6 @@ kontmomo.ga
 kontmomo.ml
 kontoko.org
 kontol.city
-kontol.co.uk
 kontol.guru
 kontormatik.org
 kontorpaneli.net
@@ -70566,7 +70563,6 @@ mastermoneygame.com
 mastermoolah.com
 masternode.online
 masternv.ru
-masterpokerqq.net
 masterqiu9.com
 masterscollectionvegas.com
 mastersduel.com
@@ -89808,7 +89804,6 @@ qrrnc.com
 qrryxk.site
 qrs3un.us
 qrt8e6v.ddnsfree.com
-qrtise.com
 qrtjbzogb.gq
 qrucav.com
 qrxqdwmw.shop
@@ -92222,7 +92217,6 @@ relaxst.icu
 relaxusa.com
 relaxwrec.icu
 relay-888.com
-relay-bossku3.com
 relay-bossku4.com
 relayed.org
 relayne.top
@@ -103349,7 +103343,6 @@ strangersinstereo.com
 strangerthanfriction.org
 strangeserver.ru
 strapedfortime.com
-straply.com
 straponmoviez.com
 strapony.com
 strapyrial.site
