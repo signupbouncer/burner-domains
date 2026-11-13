@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0011Z: 126571 domains.
+# Data version 20261113T0516Z: 126576 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -13637,6 +13637,7 @@ asahi.ga
 asahi.one
 asajv2ray.site
 asamber.com
+asamotoshogun.me
 asanpay.shop
 asanpay.site
 asapcctv.com
@@ -15731,6 +15732,7 @@ b79pv.com
 b7ba4ef3a8f6.ga
 b7bpa.anonbox.net
 b7fk3.anonbox.net
+b7fqg.anonbox.net
 b7nsd.anonbox.net
 b7s.ru
 b7s42.anonbox.net
@@ -43701,7 +43703,6 @@ forumbens.website
 forumbens.xyz
 forumbisnis.org
 forumdoconsumo.org
-forumfi.xyz
 forumfreeai.com
 forumies.com
 forumk.net
@@ -46740,6 +46741,7 @@ gidra-onion.club
 gids.site
 gidstomm.website
 gidtraveler.ru
+gidzdorov.ru
 giedewly.cf
 giedewly.gq
 giedewly.ml
@@ -56563,6 +56565,7 @@ insidecondoclub.com
 insidejobboard.org
 insidepcgames.com
 insiderbundles.com
+insiderecholink.com
 insideviewinspections.com
 insiemeperilpane.it
 insipe.store
@@ -58585,6 +58588,7 @@ jc7m.tel
 jcaf.icu
 jcalvert.net
 jcamerahot.info
+jcaton.com
 jcausedm.com
 jcbwy.com
 jcdmail.men
@@ -72362,6 +72366,7 @@ micronti.xyz
 micropaleontologies453wm.online
 micropaleontology867pf.online
 micropanier.com
+micropaste.com
 micros-solutions.live
 microsaledirect.com
 microsofl.website
