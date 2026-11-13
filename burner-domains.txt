@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0618Z: 126571 domains.
+# Data version 20261113T0718Z: 126561 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -8829,7 +8829,6 @@ accentwe.us
 acceptionalminds.com
 acceptmail.net
 acceptwe.us
-accesorii.info
 access4mobile.com
 accesshigh.win
 accessibleplayer.com
@@ -46432,7 +46431,6 @@ getstuffedgoogle.com
 gett.icu
 gettangent.com
 gettempmail.com
-getthemp3.com
 getthermo.xyz
 gettinga.buzz
 gettinhas.ml
@@ -50482,7 +50480,6 @@ happyhealthyvegan.life
 happyhome.eu.cc
 happyhorsespace.shop
 happykado.com
-happymail.guru
 happymovies.ru
 happynsimple.com
 happypath.land
@@ -56669,7 +56666,6 @@ instdownload.com
 instealthmode.com
 insti.shop
 instinctive.marketing
-instincts.online
 instituciodualxarxes.org
 instituteforadvancedlearning.club
 institutionalizing492be.online
@@ -60782,7 +60778,6 @@ kangmipon.ml
 kangmipon.tk
 kangnambi.com
 kangsmo.ru
-kangsohang.com
 kangspgun.com
 kangzheng33.xyz
 kanhamods.ml
@@ -65673,7 +65668,6 @@ liga88.website
 ligadc.club
 ligadepo.com
 ligagame.net
-ligahoki168.com
 ligaindo.com
 ligaku.com
 ligaolmecaoficial.net
@@ -70828,7 +70822,6 @@ mayaaaa.gq
 mayaaaa.ml
 mayaaaa.tk
 mayacaroline.art
-mayak-travel.ru
 mayamode.shop
 mayantrainmap.com
 mayatv.org
@@ -73272,7 +73265,6 @@ mltkfqoee.shop
 mlumzmh.cn
 mlusae.xyz
 mlvtecalumni.com
-mlx.ooo
 mm.8.dnsabr.com
 mm.my
 mm0805.xyz
@@ -91954,7 +91946,6 @@ refina.ga
 refina.gq
 refina.ml
 refina.tk
-refinance-credit.ru
 refinance-your-mortgage.org
 refinedsatryadi.net
 refinita.com
@@ -104355,7 +104346,6 @@ surpluscartridges.com
 surpriseinbox.ru
 surreptitious.website
 suruitv.com
-suruykusu.com
 surveihtyf.space
 surveillancefast.xyz
 surveyor3.net
