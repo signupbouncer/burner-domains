@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0820Z: 126554 domains.
+# Data version 20261113T0921Z: 126547 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -62057,7 +62057,6 @@ kinhdoanhtructuyen.website
 kinhphongto.shop
 kiniem.asia
 kinikgunebakan.com
-kinitawowis.xyz
 kink4sale.com
 kinkbuzz.net
 kinkiimall.cd
@@ -63895,7 +63894,6 @@ lagerarbetare.se
 lageris.cf
 lageris.ga
 lageris.tk
-laggybit.com
 lagiapa.online
 lagify.com
 lagniappe-restaurant.com
@@ -76234,7 +76232,6 @@ n2snow.com
 n3dzpn.host
 n3n1cq.com
 n43bwg.us
-n4445.com
 n4fd.com
 n4hvqy.us
 n4paml3ifvoi.cf
@@ -83225,7 +83222,6 @@ palauaquarium.org
 palauisy.info
 palaulifes.info
 palaveer.com
-palaxio.com
 palaze.cc
 palazzostorico.net
 palbibooo.club
@@ -86849,7 +86845,6 @@ poppopbattlej.com
 poppy-gay.ga
 poppyalwaz.site
 poppyscroll.com
-popsci.ru
 popshop.cd
 popsissi.com
 popso.cf
@@ -97739,7 +97734,6 @@ sentimentdate.com
 sentitle.ru
 sentra-premium.com
 sentralreitmy.com
-sentry-e3taxservice.com
 sentryenis.site
 senttmail.ga
 senty.ru
@@ -117543,7 +117537,6 @@ wanadoux.fr
 wanai.biz.id
 wanan.lat
 wanaofamouscar.com
-wanari.info
 wanchele.club
 wancloud.ru
 wandahadissuara.com
@@ -118652,7 +118645,6 @@ wfsbw.com
 wfuij1.site
 wfupdateauthuser.com
 wfupdatenewdev.com
-wfwddl.com
 wfxegkfrmfvyvzcwjb.cf
 wfxegkfrmfvyvzcwjb.ga
 wfxegkfrmfvyvzcwjb.gq
@@ -125790,6 +125782,7 @@ zinabf2edderus.xyz
 zincc.us
 zincset.com
 zindevital.com
+zineotic.com
 zingar.com
 zingermail.co
 zinggalms.shop
