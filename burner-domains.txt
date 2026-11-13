@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T1525Z: 126545 domains.
+# Data version 20261113T1628Z: 126544 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -96280,7 +96280,6 @@ sanmh.ru
 sannyaephc.online
 sannyaephc.ru
 sanprp.com
-sans.su
 sanshengonline.com
 sanskrititoday.com
 sanslisin11.com
