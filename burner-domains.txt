@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0921Z: 126547 domains.
+# Data version 20261113T1023Z: 126545 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -81411,7 +81411,6 @@ onlinecasino-x.ru
 onlinecasinobonus6167.net
 onlinecasinostop.ru
 onlinecasinosunion.com
-onlineclever.com
 onlineclub.website
 onlinecmail.com
 onlinecomputerhelp.net
@@ -116625,7 +116624,6 @@ vorpostport.cf
 vorpostport.ga
 vorpostport.gq
 vorpostport.ml
-vors.info
 vortalis.cfd
 voryxen.com
 vosomart.site
@@ -116820,6 +116818,7 @@ vrshop.life
 vrstripshows.com
 vrsykk.xyz
 vrtgog.us
+vrvrx.com
 vryyqtgz.shop
 vrzpoker.com
 vs-neustift.de
@@ -119780,7 +119779,6 @@ workfast24.ru
 workflowtest.xyz
 workflowy.cn
 workflowy.top
-workflowy.work
 workfromhome365.org
 workfromhomegroups.com
 workhard.by
