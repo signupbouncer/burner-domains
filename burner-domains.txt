@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T0516Z: 126576 domains.
+# Data version 20261113T0618Z: 126571 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9800,7 +9800,6 @@ afrahost.net
 afraidmc.club
 africa-council.com
 africabet184.com
-africalibrary.org
 african-mango-opinie-cena.xyz
 african3000.com
 africanmails.com
@@ -19475,7 +19474,6 @@ bitcoindocumentation.com
 bitcoinexchange.cash
 bitcoinfabric.com
 bitcoini-bestchange.ru
-bitcoininvestmentforum.com
 bitcoinisland.org
 bitcoinplanning.com
 bitcoinpoke.com
@@ -28008,7 +28006,6 @@ companycoder.com
 companycontacts.net
 companycontactslist.com
 companynews.com
-companynotifier.com
 comparabet.es
 comparatable.com
 comparateurchaises.com
@@ -45970,7 +45967,6 @@ geleti.cf
 geleti.gq
 geleti.ml
 geleti.tk
-gelezki.ru
 gelitik.in
 gelnhausen.net
 gelomart.site
@@ -90087,7 +90083,6 @@ quetronis.tk
 queuegr.icu
 queuem.com
 queueplan.xyz
-quichebedext.freetcp.com
 quick-mail.cc
 quick-mail.club
 quick-mail.info
