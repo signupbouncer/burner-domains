@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0642Z: 126540 domains.
+# Data version 20261114T0743Z: 126538 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16605,7 +16605,6 @@ bards.net
 bardsdadgas.space
 barebackedtsc.website
 bareburgers.com
-bareck.net
 bareed.ws
 barefootcook.com
 baregyal.com
@@ -124451,7 +124450,6 @@ youtubeinmp3s.com
 youtubelive360.com
 youtubsave.com
 youtuyuedu.top
-youvegotgeekonyou.com
 youveo.ch
 youw88.com
 youweb.solutions
