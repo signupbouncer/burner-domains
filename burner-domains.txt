@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261113T1628Z: 126544 domains.
+# Data version 20261114T0037Z: 126541 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -15618,6 +15618,7 @@ b3nxdx6dhq.cf
 b3nxdx6dhq.ga
 b3nxdx6dhq.gq
 b3nxdx6dhq.ml
+b3ord.anonbox.net
 b3stup1oad1.xyz
 b3w1oyxr0.xyz
 b3zig.anonbox.net
@@ -22038,7 +22039,6 @@ btemp.com
 btexch.com
 btexchange1.live
 btf3z.anonbox.net
-btfhn.anonbox.net
 btgal.com
 btglkf.com
 btgmka0hhwn1t6.cf
@@ -28486,7 +28486,6 @@ coobz0gobeptmb7vewo.gq
 coobz0gobeptmb7vewo.ml
 coobz0gobeptmb7vewo.tk
 cooc.xyz
-coochi.nl
 coochie.pro
 cooconti.cf
 cooconti.ga
@@ -37127,7 +37126,6 @@ efficientiurisfrb.com
 effiemena.com
 effobe.com
 effortance.xyz
-effortlessinneke.io
 effrvjpn.shop
 efhmerides.com
 efiterra.ru
@@ -37620,7 +37618,6 @@ elinakamiren.ru
 eliotkids.com
 elipsys.ru
 eliselifewire.com
-elisestyle.shop
 elisioyuncak.net
 elisioyuncak.xyz
 elisium.org
@@ -53362,6 +53359,7 @@ houtlook.com
 houtlook.xyz
 houyiyy.com
 hovcu3.info
+hoveniero.nl
 hoversullenmabel.site
 hovice.com
 hovr.link
@@ -74716,7 +74714,6 @@ msk-cool.ru
 mskey.co
 mskey.net
 mskglobaltraining.com
-mskin.top
 msladyloki.live
 msmwxc.site
 msn-mail-free-1.dynv6.net
@@ -84491,7 +84488,6 @@ penatik.ru
 pencemaran.com
 pencilandmonk.org
 pencildropcrampon.ru
-pendapatmini.net
 pendikucakbileti.com
 pendivil.site
 pendnorsubg.cf
@@ -86272,6 +86268,7 @@ plpfq.us
 plpi.biz
 plsh.xyz
 pluccb.xyz
+pluffy.site
 plufix.net
 pluflex.com
 plugfield.com
@@ -93272,7 +93269,6 @@ rin71.space
 rinaddresmo.com
 rinadiana.art
 rinaldistore.site
-rincianjuliadi.net
 rindupoker.com
 ring.cd
 ringen.host
@@ -97181,6 +97177,7 @@ seasonofgrace.org
 seasons-easy-info.ru
 seasons-group-info.ru
 seatcovershop.com
+seatence.com
 seatga.institute
 seatist.com
 seatjejbxly.email
