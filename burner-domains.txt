@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0541Z: 126542 domains.
+# Data version 20261114T0642Z: 126540 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -52654,7 +52654,6 @@ holdenscramble.com
 holdfit.info
 holdontrue.com
 holdrequired.club
-holdup.me
 hole.cf
 holeio1.net
 holeio2.net
@@ -81624,6 +81623,7 @@ oopi.org
 oops.cd
 oopsmotorinsurance.com
 oorcmskl.shop
+oormi.com
 ooroos.com
 oosln.com
 oot-m.ru
@@ -82837,7 +82837,6 @@ ozo88.host
 ozo88.xyz
 ozogaming.com
 ozon-sale.promo
-ozon888.net
 ozonehumourrainy.site
 ozoopoker.net
 ozoozon.ru
@@ -107776,7 +107775,6 @@ theperformancecenterformen.com
 thepetaclouds.com
 thephambino.com
 thephillycalendar.com
-thepichuleiros.com
 thepieter.com
 thepieteronline.com
 thepill360.com
