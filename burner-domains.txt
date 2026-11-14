@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0743Z: 126538 domains.
+# Data version 20261114T0843Z: 126538 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -92361,6 +92361,7 @@ render.community
 rendimenttogold.xyz
 rendrone.fun
 rendrone.online
+rendrone.xyz
 rendymail.com
 reneemonroe.com
 renesilva.net
@@ -111119,7 +111120,6 @@ trustnetsecurity.net
 trustoria.net
 trustpiiot.site
 trustsieg.us
-trusttravellive.biz
 trusttravellive.travel
 trustur.ru
 trustware.coach
