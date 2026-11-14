@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0843Z: 126538 domains.
+# Data version 20261114T0944Z: 126534 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -34188,8 +34188,6 @@ dnlds.site
 dnplayer.com
 dnqq6.us
 dnread.com
-dns.army
-dns.navy
 dns4urpns.com
 dns889.com
 dns9227.com
@@ -111188,6 +111186,7 @@ tryuf5m9hzusis8i.ml
 tryuf5m9hzusis8i.tk
 tryvertty.services
 trywavegrid.com
+tryworks.xyz
 tryzoe.com
 ts2menswear.com
 ts30.club
@@ -114288,9 +114287,6 @@ v5mec.us
 v5nw7os6x.xyz
 v5qnoc.online
 v5r6e.us
-v6.army
-v6.navy
-v6.rocks
 v62qa2.xyz
 v6hosting.com
 v6iexwlhb6n2hf.ga
