@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0441Z: 126542 domains.
+# Data version 20261114T0541Z: 126542 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -44037,7 +44037,6 @@ freeboarder.org
 freebookplace.site
 freeboost.su
 freebullets.net
-freecamnetwork.com
 freecams3.live
 freecat.net
 freechargevn.cf
@@ -99806,6 +99805,7 @@ skidkatrends-top.site
 skidkitop-kos.space
 skidkivsem-top.space
 skidubaimoments.com
+skifi.xyz
 skifrance.website
 skifsmm.ru
 skilaphab.cf
