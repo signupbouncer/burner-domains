@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0037Z: 126541 domains.
+# Data version 20261114T0441Z: 126542 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -28784,6 +28784,7 @@ cosdas.com
 coseh6.us
 cosmela.ru
 cosmeticddsnearme.com
+cosmeticdentistryorlandpark.com
 cosmeticgid.ru
 cosmeticprocedure.org
 cosmetika-krasnodar.ru
@@ -44310,7 +44311,6 @@ friendshipcounseling.com
 friendsofbram.com
 friendsofglendon.com
 friendsofgypsycats.org
-friendsoflakeviewnola.com
 friendsofretiredgreyhounds.info
 friendsofriviera.com
 friendsofsophiasurf.com
@@ -108209,6 +108209,7 @@ thomasklun.com
 thomasla.tk
 thomeena.ru
 thompsogna.host
+thomsonvirtual.com
 thoppilbuildersinc.com
 thor.my.id
 thoraxjs.org
