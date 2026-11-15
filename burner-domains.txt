@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261115T1516Z: 126533 domains.
+# Data version 20261115T1819Z: 126533 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -18703,7 +18703,6 @@ bfg1yh.best
 bfgasdsd.site
 bfgop.anonbox.net
 bfhbrisbane.com
-bfig.xyz
 bfile.site
 bfj7q.anonbox.net
 bflcafe.com
@@ -102803,6 +102802,7 @@ statepro.xyz
 staterial.site
 statetaxreview.com
 stathost.net
+static-xad.com
 staticcontrolbrush.net
 staticcontrolbrushes.biz
 staticcontrolbrushes.net
