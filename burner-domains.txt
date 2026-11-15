@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261114T0944Z: 126534 domains.
+# Data version 20261115T0059Z: 126533 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -50023,7 +50023,6 @@ hairstyletester.com
 hairtcs.com
 hairwizard.in
 hairyvideos.pro
-haiserat.network
 haitaous.com
 haitiassurances.com
 haitibateau.com
@@ -62444,6 +62443,7 @@ kmd4t8.site
 kmdt.cm
 kme6g.xyz
 kmeaq.xyz
+kmebk.xyz
 kmhow.com
 kmjy7.anonbox.net
 kmk86.site
@@ -74089,7 +74089,6 @@ moodletest-vps.website
 moodleworkplace.info
 moodleworkplace.org
 moodmatter.buzz
-moodyaofa.biz
 moodyone.store
 mooecofficail.club
 moogtones.com
@@ -77589,6 +77588,7 @@ newatarivcs.com
 newattacks.com
 newaybag.com
 newayshome.ru
+newbal.xyz
 newbeatslive.club
 newbeekeepers.us
 newberlindentists.com
@@ -84904,7 +84904,6 @@ petistisajoc.host
 petiteblondemoviez.com
 petitebrunettes.com
 petitemargot.com
-petiteyusefha.co
 petloca.com
 petmem.net
 petmem.org
@@ -85241,7 +85240,6 @@ phukettrail.com
 phuketvogue.com
 phukiend2p.store
 phukienrobot.info
-phukk.anonbox.net
 phulbari.website
 phuminhnguyen.ml
 phunu.club
@@ -101542,6 +101540,7 @@ spagyrichemp.com
 spahealth.club
 spahealth.online
 spahealth.site
+spahealth.xyz
 spain-real-estate.ru
 spainreview.net
 spaintoday.club
@@ -102278,7 +102277,6 @@ squatch.shop
 squawvalleyprom.net
 squawvalleyresorts.com
 squeeze.gq
-squeezedconsumer.com
 squeezedconsumer.org
 squeezetv.com
 squidforhire.com
@@ -111941,6 +111939,7 @@ twlnw.info
 twmail.ga
 twmail.tk
 twn3d.site
+twn6h.anonbox.net
 twnecc.com
 two-bet.xyz
 two-better-than.one
