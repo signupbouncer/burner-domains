@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261115T0059Z: 126533 domains.
+# Data version 20261115T1313Z: 126534 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -19877,7 +19877,6 @@ blf4z.anonbox.net
 blfjp.anonbox.net
 blfranco.com
 blghq.xyz
-blgs.xyz
 blgshq.xyz
 blgsly.xyz
 bli.muvilo.net
@@ -68458,6 +68457,7 @@ madtoppings.com
 madurahoki.com
 maduras.blog
 madurasentuciudad.com
+madvisorp.com
 maechic.com
 maedamis.ga
 maedamis.gq
@@ -81312,6 +81312,7 @@ onestepaboveclean.org
 onestepgpt.tech
 onestopacfix.xyz
 onestopamcmaintenance.xyz
+onestopcodeshop.com
 onestopcy.com
 onestopduct.xyz
 onestopiguanashop.com
