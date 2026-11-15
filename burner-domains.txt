@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261115T1819Z: 126533 domains.
+# Data version 20261115T2225Z: 126580 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -4247,6 +4247,7 @@
 4j3bvd.stream
 4j9kl3ocq7.best
 4j9tm.com
+4jcescis.icu
 4jojo.com
 4jts4.xyz
 4k2glw.us
@@ -5016,6 +5017,7 @@
 5rfscr.us
 5rk4a.anonbox.net
 5rof.cf
+5rrs7gyd.icu
 5rxsy.us
 5se.life
 5se.mobi
@@ -6857,6 +6859,7 @@
 849356.com
 84b16.club
 84bit.ru
+84kif0sx.icu
 84mce5gufev8.cf
 84mce5gufev8.ga
 84mce5gufev8.gq
@@ -10515,6 +10518,7 @@ akamaized.gq
 akanpjoyp.shop
 akanshabhatia.com
 akapost.com
+akashv1.cfd
 akatashi.online
 akaunt.info
 akaunt.org
@@ -17152,6 +17156,7 @@ bdbdqxxkib.xyz
 bdbdqxxkkb.xyz
 bdbdqxxknb.xyz
 bdbdqxxksb.xyz
+bdbdw.cyou
 bdcl73.us
 bdcw.us
 bde.me
@@ -17161,7 +17166,6 @@ bdg56.site
 bdgdn.anonbox.net
 bdgstr.com
 bdigitalsignage.com
-bdjb.xyz
 bdkey.xyz
 bdm.ovh
 bdmobiles.com
@@ -23912,6 +23916,7 @@ canvect.com
 canvii.com
 canwest.net
 canyonrimhoneybees.com
+canyontitan.fun
 canyouhearmenow.cf
 canytimes.com
 canzones.best
@@ -27608,6 +27613,7 @@ codw.site
 codx.site
 codyting.com
 codywon.top
+codyxue.com
 codzy.net
 coemecal.ga
 coemecal.gq
@@ -30246,6 +30252,7 @@ cxcc.cf
 cxcc.gq
 cxcc.ml
 cxcc.tk
+cxcffirx.icu
 cxcycn.com
 cxdina1117.info
 cxioms.help
@@ -33948,6 +33955,7 @@ dkfmrt.fun
 dkgmkc.fun
 dkgmkp.fun
 dkgmzt.fun
+dkgnds.cloud
 dkgram.com
 dkhhf.club
 dkhmyd.fun
@@ -35668,6 +35676,7 @@ dtvcloud.net
 dtvpn.dpdns.org
 dtwihk.us
 dtyler.rocks
+du3aquli.icu
 dualajans.xyz
 dualpouchunderwear.com
 duam.net
@@ -36150,6 +36159,7 @@ dynamitetype.nyc
 dynarix.cfd
 dynaro.online
 dynastyalliancellc.com
+dynlexspirit.fun
 dynlitypy.monster
 dynqtu.site
 dyoeii.com
@@ -37275,6 +37285,7 @@ ehoie03og3acq3us6.gq
 ehoie03og3acq3us6.ml
 ehoie03og3acq3us6.tk
 ehousesdev.com
+ehrjkc.asia
 ehsanalrifai.com
 ehstock.com
 ehubcarrollwood.com
@@ -37794,6 +37805,7 @@ elysiumfund.net
 elysiumfund.org
 elysiumfundation.net
 elysiumfundation.org
+em1z7v3c.icu
 emaagops.ga
 emab4i.us
 emacs.info
@@ -40515,6 +40527,7 @@ fabfabhome.com
 fabhax.com
 fabianschlaepfer.com
 fabiopisani.art
+fabm4msw.icu
 fabnicalsa.tk
 fabook.com
 fabricmarsh.cfd
@@ -44868,6 +44881,7 @@ fuyapiinsaat.com
 fuzeable.com
 fuzemt.online
 fuzimill.site
+fuzmwa.asia
 fuzzpopstudio.com
 fuzzytoad.com
 fv-sale.ru
@@ -44926,6 +44940,9 @@ fwgybr.us
 fwhyhs.com
 fwiqvv.site
 fwt855.com
+fwya.asia
+fwyi.asia
+fwze.asia
 fx-rac.site
 fx-st.net
 fx15.website
@@ -45208,6 +45225,11 @@ gag16dotw7t.ga
 gag16dotw7t.gq
 gag16dotw7t.ml
 gag16dotw7t.tk
+gagagaga1.icu
+gagagaga10.icu
+gagagaga3.icu
+gagagaga8.icu
+gagagaga9.icu
 gagahsoft.software
 gagainter.com
 gagalive.shop
@@ -45763,6 +45785,7 @@ gchatz.ga
 gciu.us
 gckgw.info
 gclubscr888.com
+gclwiv9p.icu
 gcmail.top
 gcosmic.ru
 gcp.ong
@@ -45798,6 +45821,7 @@ gdcmedia.info
 gdcp84.com
 gdcp868.com
 gdcrm.store
+gddghh.space
 gde-vzyat-ipoteku.ru
 gde-zaim.online
 gdekupit5.ru
@@ -46626,6 +46650,7 @@ ghfh.de
 ghfnhcf.xyz
 ghgluiis.tk
 ghiglianocinzia.com
+ghis.beer
 ghiscarbices.tk
 ghiyugh.uk
 ghjeb.live
@@ -49488,6 +49513,7 @@ gvdjb.xyz
 gveihw.com
 gvn4fg.info
 gvnuclear.com
+gvqnpt.asia
 gvquij.rest
 gvwconsulting.com
 gvx.net
@@ -52345,6 +52371,7 @@ hkww1.xyz
 hkxmck.fun
 hkxmld.fun
 hkxmqp.fun
+hkxrde.asia
 hky6f9.us
 hkypw.info
 hkzg.email
@@ -52464,6 +52491,7 @@ hn-lb01.xyz
 hn1548.us
 hn5nfo.us
 hnagbeba.com
+hnamkqdl.icu
 hnataee.fun
 hnbjs.us
 hndard.com
@@ -55367,6 +55395,7 @@ ijgur.com
 ijointeract.com
 ijptm.com
 ijustshared.com
+ijwqvo.asia
 ik7gzqu2gved2g5wr.cf
 ik7gzqu2gved2g5wr.ga
 ik7gzqu2gved2g5wr.gq
@@ -60356,6 +60385,7 @@ jxyh168.com
 jxyzu.com
 jxz.im
 jy.biz
+jy36nnvi.icu
 jycaqi.info
 jydaby.xyz
 jydocnqz.shop
@@ -61159,6 +61189,7 @@ kcs-th.com
 kctoto.site
 kcuxfb.us
 kcxdi2.com
+kcxxvqyx.icu
 kcya.skin
 kcyjfp.rest
 kczgjx.com
@@ -66040,6 +66071,7 @@ lionsmoh.com
 lionsmoh.net
 liopers.link
 liopsacac.shop
+liovexphoenix.fun
 lipasda.cf
 lipasda.gq
 lipasda.tk
@@ -75085,6 +75117,7 @@ mumba.website
 mumbaibjp.org
 mumbama.com
 mumcaiche.com
+mumm.beer
 mummodesign.biz
 mummybags.ru
 mumoda.info
@@ -75310,6 +75343,7 @@ mvhjmc.com
 mvkuznecov.ru
 mvmbetting.com
 mvmusic.top
+mvnofijm.asia
 mvoa.site
 mvom.us
 mvoudzz34rn.cf
@@ -81553,6 +81587,7 @@ onviselki.ru
 onvs5.com
 onw88.com
 onwmail.com
+onwp6ved.icu
 onx2p.anonbox.net
 onyeabor.info
 onyxek.us
@@ -81944,6 +81979,7 @@ opwaty.cf
 opwaty.gq
 opwaty.ml
 opwebw.com
+opxwbt.asia
 opya1.shop
 opya3.shop
 opzeo.com
@@ -89431,6 +89467,7 @@ qg8zn7nj8prrt4z3.ga
 qg8zn7nj8prrt4z3.gq
 qg8zn7nj8prrt4z3.ml
 qg8zn7nj8prrt4z3.tk
+qg9flboa.icu
 qgaff.com
 qgau2.anonbox.net
 qgfkslkd1ztf.cf
@@ -89601,6 +89638,7 @@ qluiwa5wuctfmsjpju.gq
 qluiwa5wuctfmsjpju.ml
 qluqua.ru
 qluwxfa.site
+qlvnux.asia
 qlvxfbzz.pro
 qlwivwia.shop
 qm1717.com
@@ -89773,6 +89811,7 @@ qr-informatie.online
 qr6g.com
 qraround.com
 qrc1t.us
+qrduwpak.asia
 qrezkqqen.shop
 qrmacabahis.com
 qrmason.me
@@ -100403,6 +100442,7 @@ smeltitdealtit.com
 smena-rabota.ru
 smetenzonenpromoties.site
 smeux.com
+smevzoli.icu
 smfg-law.com
 smgrep.org
 smh08888.com
@@ -108954,6 +108994,7 @@ tk3od4c3sr1feq.gq
 tk3od4c3sr1feq.ml
 tk3od4c3sr1feq.tk
 tk4ck8.us
+tk4em7sk.icu
 tk8phblcr2ct0ktmk3.ga
 tk8phblcr2ct0ktmk3.gq
 tk8phblcr2ct0ktmk3.ml
@@ -112377,6 +112418,7 @@ u5tbrlz3wq.ga
 u5tbrlz3wq.gq
 u5tbrlz3wq.ml
 u5tbrlz3wq.tk
+u6a9a5wy.icu
 u6spng.info
 u6wv97.info
 u6yksh-mail.xyz
@@ -114317,6 +114359,7 @@ va5vsqerkpmsgibyk.ga
 va5vsqerkpmsgibyk.gq
 va5vsqerkpmsgibyk.ml
 va5vsqerkpmsgibyk.tk
+va7tkaqk55.icu
 vaasfc4.tk
 vaastu.com
 vaati.org
@@ -116175,6 +116218,7 @@ vivrela.store
 vivshine.com
 vivusbet60.com
 viwsala.com
+vixces.cyou
 vixej.com
 vixiohosting.shop
 vixiohub.shop
@@ -121429,6 +121473,7 @@ xjedu1.site
 xjghm.com
 xjgyud.us
 xjhytkjutk2er.xyz
+xjm.homes
 xjmjt.com
 xjmwtk.info
 xjoi.com
@@ -124108,6 +124153,7 @@ yoginyogik.ru
 yogirt.com
 yogivest.com
 yogiwebsite.com
+yogo.beer
 yogoka.com
 yogurtdolapta.top
 yohana.us
@@ -124531,6 +124577,7 @@ yr6mhc.us
 yr9mek.us
 yraff.us
 yraj46a46an43.tk
+yralexchimera.fun
 yrcr3.com
 yrcr4.com
 yrcr5.com
