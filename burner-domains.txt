@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T1040Z: 126554 domains.
+# Data version 20261116T1141Z: 126553 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -121152,7 +121152,6 @@ xiaixue.club
 xiajspof.eu.cc
 xiangjiaodaohang.live
 xiangshan.eu.cc
-xiaoai.net
 xiaobai.club
 xiaobi100.com
 xiaobi101.com
