@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261115T2225Z: 126580 domains.
+# Data version 20261116T0028Z: 126575 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -49346,7 +49346,6 @@ gukibur.gq
 gukibur.ml
 gukibur.tk
 gukox.org
-gulasurakhman.net
 gulcu.biz
 gulfacmaintenance.xyz
 gulfclimate.xyz
@@ -58359,7 +58358,6 @@ janine.cd
 janismedia.tk
 janitorservices.com
 janivahenry.com
-janjiabdurrohim.biz
 jankusmirek.com
 janlanser.shop
 janmail.org
@@ -83236,7 +83234,6 @@ pakistaninews.xyz
 pakistantodubai.com
 pakkaji.com
 pakrocok.tech
-pakservices.info
 pakvsindia.live
 palace-properties.com
 palacebowlinglanes.com
@@ -102565,7 +102562,6 @@ staff7.ml
 staffburada.com
 staffchat.tk
 staffcore.com
-stafflazarus.com
 staffprime.com
 stafimre.cf
 stafimre.ga
@@ -125641,7 +125637,6 @@ zf0.info
 zf4r34ie.com
 zf813.com
 zfbmt1.site
-zfbxh.anonbox.net
 zfijv.us
 zfpsale.top
 zfs4ug.us
