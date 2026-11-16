@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T0736Z: 126567 domains.
+# Data version 20261116T0838Z: 126557 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -15776,7 +15776,6 @@ b9adiv5a1ecqabrpg.gq
 b9adiv5a1ecqabrpg.ml
 b9adiv5a1ecqabrpg.tk
 b9cash.club
-b9x45v1m.com
 ba-ca.com
 ba572.site
 ba616o8hwee96yl.site
@@ -21191,7 +21190,6 @@ bouncebackcloud.com
 bounceesolutions.com
 bouncingcow.com
 bouncr.com
-bouncygrape.com
 boundles.dev
 boundless.app
 boundless.deals
@@ -23917,7 +23915,6 @@ canwest.net
 canyonrimhoneybees.com
 canyontitan.fun
 canyouhearmenow.cf
-canytimes.com
 canzones.best
 cao2sd4.xyz
 cao6sd.xyz
@@ -32939,7 +32936,6 @@ diamond9casino.com
 diamondacmaintenance.xyz
 diamondbar.online
 diamondbarestates.com
-diamonddogrescue.org
 diamondglass.website
 diamondlogistics.se
 diamondmaint.xyz
@@ -45755,7 +45751,6 @@ gbmods.net
 gbmouldings.com
 gbnbancorp.com
 gbois-stav.ru
-gbouquete.com
 gbqetv.info
 gbqtfm.com
 gbubrook.com
@@ -68714,7 +68709,6 @@ mail-w.tk
 mail-z.gq
 mail-z.ml
 mail-z.tk
-mail.202y.cn
 mail.a1.wtf
 mail.anhthu.org
 mail.ankokufs.us
@@ -74876,7 +74870,6 @@ mt-tele.today
 mt2009.com
 mt2014.com
 mt2015.com
-mt2017.com
 mt210.com
 mt4o.us
 mt66ippw8f3tc.gq
@@ -79767,7 +79760,6 @@ nwyorkpass.com
 nwytg.com
 nwytg.net
 nwz6q5.us
-nx-mail.com
 nx1.de
 nx1.us
 nx365.net
@@ -105548,7 +105540,6 @@ taowenda.club
 taoyuan.chat
 taoyuanguo.chat
 taoyuanguo.network
-taozuizhi.com
 tap.vin
 tap7p4.site
 tapchicuoihoi.com
@@ -105647,7 +105638,6 @@ tarsiergames.com
 tartangrand.com
 tartinemoi.com
 tartoor.club
-tartoor.com
 tartoor.fun
 tartoor.space
 taruhangame.com
