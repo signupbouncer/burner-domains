@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T0433Z: 126577 domains.
+# Data version 20261116T0736Z: 126567 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -2788,7 +2788,6 @@
 2sunssolutions.ru
 2svun8.us
 2tellmystory.com
-2timebet.com
 2tl2qamiivskdcz.cf
 2tl2qamiivskdcz.ga
 2tl2qamiivskdcz.gq
@@ -12844,7 +12843,6 @@ appleaccount.app
 appleblog.com
 applecraft.online
 appledev.online
-appledocks.com
 applefaerie.com
 applefix.ru
 applefordparts.com
@@ -42374,7 +42372,6 @@ fineartadoption.net
 fineartpetsketches.com
 finefact.info
 finegoldnutrition.com
-fineloans.org
 finemail.org
 fineoddity.com
 finews.biz
@@ -49107,7 +49104,6 @@ gta5darkrp.ru
 gta5deadstar.ru
 gta5mp.com
 gta5mp.net
-gta5russia.ru
 gtaa6.ru
 gtafzq.tokyo
 gtagolfers.com
@@ -60269,7 +60265,6 @@ justmysocks5.net
 justmysocks6.net
 justmysocks7.net
 justnapa.com
-justnowmail.com
 justoldschool.com
 juston-latinbeat.com
 justonetworks.site
@@ -60704,7 +60699,6 @@ kalebet544.com
 kalebet546.com
 kalebet550.com
 kalebet625.com
-kalebet638.com
 kalebet643.com
 kalebet649.com
 kalebor.com
@@ -71285,7 +71279,6 @@ medicupping.com
 medid.site
 medif.site
 medig.site
-mediko.site
 medil.site
 medimedr.shop
 medimom.com
@@ -75553,7 +75546,6 @@ mybeautidress.site
 mybeligummail.com
 mybelka.ru
 mybestbook.site
-mybestbooks.site
 mybestcasino2018.ru
 mybestpoker77.com
 mybestrecipes.ru
@@ -77600,7 +77592,6 @@ new-year-lucky-gift.icu
 new-year-lucky-gifts.monster
 new-year-special-gift.icu
 new-year-special-gift.monster
-new-york-wedding.com
 new-york.host
 new688e.ga
 newa.wtf
@@ -91611,7 +91602,6 @@ recept-edy.ru
 recept-sekret.ru
 receptest.ru
 receptsu.ru
-recepty-mira.ru
 recepty-prigotovleniya.ru
 recettesla.store
 recharge.cd
