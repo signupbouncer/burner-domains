@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T0838Z: 126557 domains.
+# Data version 20261116T0939Z: 126554 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -17576,7 +17576,6 @@ belove.lat
 belovedhavanese.com
 belprepaid.space
 belrochesdistribution.com
-belspb.ru
 belstilo.com
 beltlannio.ga
 beltlannio.gq
@@ -58616,7 +58615,6 @@ jdb81.space
 jdd06.com
 jdd2.club
 jddapi.app
-jddrew.com
 jde53sfxxbbd.cf
 jde53sfxxbbd.ga
 jde53sfxxbbd.gq
@@ -113374,7 +113372,6 @@ unlofty.best
 unmadeinchina.net
 unmail.ru
 unmetered.se
-unmetv.com
 unmoeglich.love
 unnarf.icu
 unnitv.com
