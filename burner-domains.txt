@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T0028Z: 126575 domains.
+# Data version 20261116T0433Z: 126577 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -4860,6 +4860,7 @@
 5am5ung.gq
 5am5ung.ml
 5am5ung.tk
+5at52.anonbox.net
 5avzu4.host
 5azino777.org
 5b2rak.com
@@ -24612,7 +24613,6 @@ cbav9.xyz
 cbbwabci.shop
 cbc-2020.website
 cbc-canada2020.site
-cbca.xyz
 cbcfpermanence.com
 cbd-bites.net
 cbd-direct.net
@@ -61562,6 +61562,7 @@ keydcatvi.cf
 keydcatvi.ga
 keydcatvi.ml
 keydcatvi.tk
+keyepin.com
 keyes-electric.com
 keyesrealtors.tk
 keyfood-lb.net
@@ -89524,6 +89525,7 @@ qikbeet.com
 qikhnv.rest
 qimican.xyz
 qimla.us
+qincode.online
 qinenut.site
 qingbiletherapeutics.biz
 qingbiletherapeutics.info
