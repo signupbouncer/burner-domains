@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T1141Z: 126553 domains.
+# Data version 20261116T1546Z: 126552 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -100544,7 +100544,6 @@ smtp.bola389.top
 smtp.bringnode.xyz
 smtp.brownell150.com
 smtp.burakarda.xyz
-smtp.bycy.xyz
 smtp.ccvisal.xyz
 smtp.chokodog.xyz
 smtp.codeangel.xyz
