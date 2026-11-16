@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T0939Z: 126554 domains.
+# Data version 20261116T1040Z: 126554 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9004,6 +9004,7 @@ ach0u.info
 ach90.xyz
 ach90ach.xyz
 achatz.ga
+acheroesdubai.xyz
 acherouae.xyz
 achievementwe.us
 achieversconsulting.org
@@ -115888,7 +115889,6 @@ vipelin.net
 vipelin.site
 vipenglishlearning.com
 vipepe.com
-viper.email
 vipfirstpay.com
 vipflix.xyz
 vipgamemarket.ru
