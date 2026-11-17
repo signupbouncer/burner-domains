@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261116T1546Z: 126552 domains.
+# Data version 20261117T0056Z: 126578 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9331,6 +9331,11 @@ addressunlock.com
 addrin.uk
 addsigns.com
 adduguesthouses.com
+addyourcustomdoaminhere.store
+addyourdoaminhere.online
+addyourdoaminhere.sbs
+addyourdoaminhere.site
+addyourdoaminhere.store
 addys-sox.com
 addysen.com
 adeata.com
@@ -9564,6 +9569,7 @@ adventurewe.us
 adventwe.us
 adventwelfare.global
 advertforyourbusiness.website
+advertisehereon.tech
 advertising-digitalsignage.com
 advertisingblog.com
 advertisinggreatness.com
@@ -16141,6 +16147,7 @@ bahisyap85.com
 bahisyap92.com
 bahisyap95.com
 bahisyap98.com
+bahitarahero.store
 bahlill.cfd
 bahook.org
 bahrithe.cf
@@ -22575,6 +22582,7 @@ buy-ugly-homes.com
 buy003.com
 buy024.com
 buy4me.store
+buyaitools.site
 buyalli.site
 buyallopurinol.website
 buyamf.com
@@ -22954,6 +22962,7 @@ bwpyt.live
 bwrqi.anonbox.net
 bwsf2.anonbox.net
 bwtdmail.com
+bwvpn.anonbox.net
 bwwbt.anonbox.net
 bwwsrvvff3wrmctx.cf
 bwwsrvvff3wrmctx.ga
@@ -31225,7 +31234,6 @@ datlab.space
 datlk.ga
 datotira.cf
 datovej.ninja
-datphuyen.net
 datprovn.io.vn
 datprovnn.io.vn
 datrainternusa.com
@@ -33125,7 +33133,6 @@ digi-magsonline.com
 digi-magsonline.org
 digi-value.fr
 digi-women.com
-digiactiveai.com
 digial.jo3.org
 digibeast.my
 digibeast.store
@@ -33693,6 +33700,7 @@ disparo.com
 dispatcherscourse.com
 dispatchsolutions.club
 displaying.page
+displayme.store
 displaypresentations.com
 displayverse.com
 dispo.in
@@ -40865,7 +40873,6 @@ fancy-tapes.com
 fancycats.net
 fancygee.xyz
 fancynix.com
-fancyzuhdi.net
 fand.pub
 fandastico.com
 fandaygames.com
@@ -41090,6 +41097,7 @@ fasl4kas3.site
 faspoto.ga
 faspoto.ml
 faspoto.tk
+fasristore.com
 fassagforpresident.ga
 fasssd.ru
 fasssd.store
@@ -45629,7 +45637,6 @@ gasech.xyz
 gashik.site
 gashoainam.io.vn
 gaskuy.me
-gaskuy93.art
 gasly.info
 gasofmass.com
 gaspariniadv.com
@@ -49224,6 +49231,7 @@ guest-lock.com
 guestblogify.com
 guestlock.net
 gueto2009.com
+guetshb.store
 guewkw.us
 gufacoding.com
 gufum.com
@@ -49405,6 +49413,7 @@ gurgtapar.tk
 gurman1.space
 gurmanabuket.ru
 gurmeneczadepo1.club
+gurmerly.online
 gurneytintblog.com
 gurrifa.cf
 gurrifa.ga
@@ -53817,6 +53826,7 @@ hugah.dev
 hugbenefits.ga
 hugemotorbikes.com
 hugesale.in
+huggsfeld.store
 huggybotforum.cf
 hugmaew.com
 hugmovo.com
@@ -55675,6 +55685,7 @@ imknurbel.ml
 imknurbel.tk
 imkyaky.com
 imlearners.net
+imlimikom.store
 imlivecgo.site
 imlpipchat.com
 immacrealty.org
@@ -60716,6 +60727,7 @@ kalitebet9.com
 kalixfinans.se
 kaljakartta.com
 kallaicaseyrealtor.com
+kallokarlabahi.online
 kalmhain.net
 kaloolas.shop
 kalpazangfb.cf
@@ -60789,6 +60801,7 @@ kanhaoni.com
 kanhaoni.org
 kanigitmedia.com
 kanjiukan.com
+kanjoosbahi.site
 kankabal.com
 kanker.website
 kankoplm.eu.cc
@@ -60870,6 +60883,7 @@ karatraman.ml
 karbonaielite.com
 karbonbet.com
 karcherpremium.online
+kardarankab.online
 kareemshammout.com
 kareicon.org
 karel-bani.ru
@@ -60895,6 +60909,7 @@ kariotor.online
 kariplan.com
 karitas.com.br
 karizmakala.com
+karkambahi.store
 karkaspen.ru
 karldeleon.com
 karlinainawati.art
@@ -62196,7 +62211,6 @@ kithjiut.ml
 kitiva.com
 kitmifit.ru
 kitnastar.com
-kitools.es
 kitoz.net
 kits4acause.com
 kitten-mittons.com
@@ -63945,6 +63959,7 @@ laikacyber.gq
 laikacyber.ml
 laikacyber.tk
 lailakhan.net
+lailmiki.store
 laimian-quan2.com
 laimianquan2.com
 laimianquan2.net
@@ -84490,6 +84505,11 @@ pembrookgroup.net
 pemel.best
 pemess.com
 pemilwafeb.com
+pemoteme.online
+pemoteusonourweb.online
+pemoteusonourweb.sbs
+pemoteusonourweb.site
+pemoteusonourweb.store
 pen-drevo.ru
 pen960.ml
 penampilannieken.io
@@ -88301,6 +88321,7 @@ prosatnab.tk
 prosbarsha.xyz
 prosdeira.xyz
 prosdubaiuae.xyz
+proseeding.shop
 prosek.xyz
 prosemaar.xyz
 prosequrity.com
@@ -90940,6 +90961,7 @@ rankgapla.ml
 rankify.sbs
 ranking-tabletek-na-odchudzanie.xyz
 rankingc3.global
+rankme.site
 ranktong7.com
 rankupcommunity.com
 ranonline-spygames.com
@@ -96547,6 +96569,7 @@ saupecmay.gq
 saupecmay.ml
 sausen.com
 saut-elastique.club
+sautcuso.com
 sauyh.com
 savageattitude.com
 savagepublishing.com
@@ -98721,6 +98744,7 @@ shockhorror.com
 shockingme.com
 shockmail.win
 shocknewsru.ru
+shockong.com
 shocktours.com
 shoclef.ga
 shoddyaf.com
@@ -102041,6 +102065,7 @@ sponect.com
 spongemop.net
 spongemops.biz
 spongemops.us
+sponserme.store
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
 sponsorhq.com
@@ -106511,6 +106536,7 @@ tempmail.at
 tempmail.au
 tempmail.best
 tempmail.cc
+tempmail.cloud
 tempmail.cn
 tempmail.co
 tempmail.de
@@ -106593,7 +106619,6 @@ temporeal.site
 temporfkcn.space
 tempp-mails.com
 temppppo.store
-temppy.com
 tempr.email
 temprazzsoft.cf
 temprazzsoft.ga
@@ -106663,6 +106688,7 @@ tenipen.ml
 tenipen.tk
 tenkkeys.site
 tenmiensieure.com
+tenmin.app
 tenndoe.com
 tennisportintl.com
 tennisshop.live
@@ -112939,6 +112965,7 @@ ulidgid.tk
 ulipox.xyz
 ulisaig.com
 ulitimsuda.xyz
+ulitmtehub.store
 ulkutakvim.com
 ullife.info
 ullyyd.icu
@@ -120703,7 +120730,6 @@ x3gsbkpu7wnqg.ml
 x3lbhdmnd206onc.xyz
 x3m8pu.us
 x3mailer.com
-x3puf.anonbox.net
 x3sbp.anonbox.net
 x3us.us
 x3w875ioakdvmst.com
