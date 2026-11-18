@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261117T0056Z: 126578 domains.
+# Data version 20261118T0029Z: 126574 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -15354,7 +15354,6 @@ azipeas.tk
 azithromaxww.com
 azizogludanismanlik.xyz
 azjyys.site
-azkankitchen.shop
 azly.autos
 azmeil.tk
 azmn.info
@@ -69198,7 +69197,6 @@ mailnesia.net
 mailnest.net
 mailnet.io.vn
 mailnet.top
-mailngon.top
 mailnode360.click
 mailnoop.store
 mailnow2.com
@@ -71506,7 +71504,6 @@ mekacsmemy.sk
 mekazar.com
 mekellfood.net
 meken.ru
-mekikcek.network
 mekongchurchtown.com
 mekongheritage.net
 mekqh.eu.cc
@@ -81617,6 +81614,7 @@ oohioo.com
 oohotmail.club
 oohotmail.com
 oohotmail.online
+oohshiny.us
 oohwin.com
 ooioo.tech
 ookkkuw.jungleheart.com
@@ -110466,7 +110464,6 @@ transselfies.com
 trantamnhu.ga
 trantienclone.top
 trantrungdan.ga
-tranvietmail.click
 tranyenvy.website
 tranz-lotin.xyz
 traodoinick.com
@@ -121565,7 +121562,6 @@ xmatchup.online
 xmatchup.site
 xmate.fun
 xmate.online
-xmc26.anonbox.net
 xmdszg.com
 xmeetup.buzz
 xmeetup.fun
