@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261118T0637Z: 126575 domains.
+# Data version 20261118T0738Z: 126571 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -57327,7 +57327,6 @@ irr.kr
 irreproductive.best
 irssi.tv
 irtoto.net
-irtrade.org
 irtranslate.net
 irum6v.info
 irussoturisto.ru
@@ -106602,7 +106601,6 @@ temporarly.com
 temporary-email-address.com
 temporary-email.world
 temporary-mail.net
-temporary-mailbox.com
 temporary.mcedu.ga
 temporaryemail.com
 temporaryemail.dpdns.org
@@ -113423,7 +113421,6 @@ unpermwbru.space
 unpolation.com
 unpresumidence.xyz
 unprographies.xyz
-unpromptedhappiness.com
 unquesvsoy.space
 unrafo.cf
 unrafo.ga
@@ -126213,7 +126210,6 @@ zonland.ru
 zonsurvey.xyz
 zoo-chat.ru
 zoo-game.ru
-zooape.net
 zoobug.org
 zoobutik.ru
 zooki.net
