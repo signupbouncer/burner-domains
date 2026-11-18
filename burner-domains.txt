@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261118T0029Z: 126574 domains.
+# Data version 20261118T0536Z: 126579 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -2566,7 +2566,6 @@
 2bi.ru
 2bin.ru
 2bpgta.online
-2br.in
 2brooke.com
 2bucksagig.com
 2bussines.ru
@@ -7795,6 +7794,7 @@
 99029.monster
 99061.xyz
 9908nn.com
+990907.xyz
 990amtheanswer.com
 990ys.com
 991-sh.top
@@ -17003,6 +17003,7 @@ bcedetyam3.ru
 bcfcfans.space
 bcflinnovators.com
 bcflplanners.com
+bcfsr.anonbox.net
 bchatz.ga
 bchousingnews.com
 bcjm4.icu
@@ -32056,6 +32057,7 @@ demreturizm.xyz
 demyeuanh.com
 dena.ga
 dena.ml
+denanet.com
 denationalization534lc.online
 denationalizing899ee.xyz
 denattehond.online
@@ -47045,6 +47047,7 @@ giyam.com
 giysigiydirmeoyunlari24.com
 gizleyici.tk
 gizlicennetkibris.com
+gizmobd.com
 gizmona.com
 gizzmo.se
 gj96m.info
@@ -53873,7 +53876,6 @@ hulasen50.xyz
 hulasen8.xyz
 hulewn.com
 hulibet80.com
-hulisang.edu.kg
 hulksales.com
 hulkteam.cyou
 hulpuitdebuurt.site
@@ -88250,6 +88252,7 @@ promusicfans.com
 promx.cc
 promyvia.cfd
 pronailz.com
+proncapel.com
 prongl.pw
 pronkede.cf
 pronkede.ga
@@ -100483,6 +100486,7 @@ smlmail.net
 smltop.xyz
 smm-drom.ru
 smm3.buzz
+smmlikebot.com
 smmwalebaba.com
 smnagyaw.shop
 smncloud.com
@@ -110686,6 +110690,7 @@ treesoflifefarm.com
 trefoils.site
 tregame.biz
 tregame.site
+tregerge.shop
 treguboof.ru
 treillage.xyz
 trek-planet.com
