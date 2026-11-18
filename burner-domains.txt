@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261118T0536Z: 126579 domains.
+# Data version 20261118T0637Z: 126575 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -17862,7 +17862,6 @@ best-temp-mail.com
 best-vavada48.ru
 best-vpn.xyz
 best-womennow2.com
-best121adultdates.com
 best1x.site
 best3dgames.com
 best46.xyz
@@ -44210,7 +44209,6 @@ freethought.ml
 freetimeandfunallaround.info
 freetimer.online
 freetmail.in
-freetmail.net
 freetraffictracker.com
 freetrialsample.com
 freeusenet.rocks
@@ -47299,7 +47297,6 @@ gloservma.com
 glosh.ml
 glossier-group.com
 glosspremierideal.site
-glossybee.com
 gloucehuhy.space
 glovaiptv.com
 glovebranders.com
@@ -61487,7 +61484,6 @@ kesfiru.ml
 kesfiru.tk
 kesiqadi.club
 kespear.com
-kesports.net
 ket-qua.org
 keta-associes.cd
 ketababan.com
@@ -64366,7 +64362,6 @@ lauderdalebeachsidehotel.com
 laudmed.com
 laufman.biz
 laughingninja.com
-lauher.org
 laulund.info
 launcestonpools.com
 launch.vote
@@ -77109,6 +77104,7 @@ neds.live
 neds.ph
 neds.promo
 nedv-stupino.ru
+neeahoniy.com
 need53.sbs
 needcore.ru
 needdentistnearme.com
