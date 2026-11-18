@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261118T0738Z: 126571 domains.
+# Data version 20261118T0839Z: 126587 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -1498,6 +1498,7 @@
 1bahisno1.com
 1bedpage.com
 1betslife.com
+1bin.sbs
 1biyabeet.com
 1biyabet2020.com
 1bizshop.ru
@@ -1614,6 +1615,7 @@
 1lvt220yzdgn5z1.xyz
 1lwr.us
 1m62m.com
+1mail.lt
 1mail.ml
 1mail.site
 1mail.x24hr.com
@@ -12278,7 +12280,6 @@ aniy.site
 anjay.id
 anjaybgo.com
 anjayy.pw
-anjeysatori.com
 anjing.cool
 anjingkokditolak.cf
 anjingkokditolak.ga
@@ -16147,6 +16148,7 @@ bahisyap92.com
 bahisyap95.com
 bahisyap98.com
 bahitarahero.store
+bahitarastarha.store
 bahlill.cfd
 bahook.org
 bahrithe.cf
@@ -23839,6 +23841,7 @@ canibots.com
 canilvonhauseferrer.com
 caniracpuebla.com
 canitta.icu
+cankaohe.com
 cankaushikshave.site
 cankirilimited.xyz
 canlialem.xyz
@@ -24462,6 +24465,7 @@ catawesometext.site
 catcafe.online
 catch.everton.com
 catchadj.com
+catchmail.io
 catchmamo.cf
 catchmamo.ga
 catchmamo.gq
@@ -35684,6 +35688,7 @@ dualpouchunderwear.com
 duam.net
 duanedegler.net
 duanedegler.org
+duanju888.site
 duanlaimiangalaxy.com
 duanxian8.com
 duartlodge.com
@@ -39588,6 +39593,7 @@ euneeedn.com
 eupandevae.icu
 euparknow.com
 eupin.site
+euploading.com
 eur-sec1.cf
 eur-sec1.ga
 eur-sec1.gq
@@ -45938,7 +45944,6 @@ geeqs.ru
 geew.ru
 geew.top
 geezmail.ga
-gef.global
 gefestglass.ru
 gefpmjsfq.shop
 gegealabama.com
@@ -47459,6 +47464,7 @@ gmamil.co
 gmatch.org
 gmaul.com
 gmawfurbabies.com
+gmayll.com
 gmblmania.club
 gmc-sierra.club
 gmcd.de
@@ -58009,6 +58015,7 @@ izicmil.ga
 izicmil.gq
 izicmil.ml
 izicmil.tk
+izimybes.lt
 izip.site
 izipebikes.net
 izipelectricbike.net
@@ -58037,6 +58044,7 @@ izunasan.my.id
 izunasuite.biz.id
 izvif.us
 izwuhkxra.shop
+izymybes.lt
 izzum.com
 j-b.us
 j-chant.info
@@ -69121,6 +69129,7 @@ mailingclip.com
 mailingforever.biz
 mailisia.com
 mailismagic.com
+mailistry.com
 mailita.tk
 mailivw.com
 mailj.tk
@@ -73295,6 +73304,7 @@ mmaily.com
 mmaprognoz.ru
 mmastavka.ru
 mmatica.ru
+mmayl.com
 mmbet168.com
 mmbets.ru
 mmbola.online
@@ -106505,6 +106515,7 @@ tempemails.io
 tempembus.buzz
 tempes.gq
 tempestme.com
+tempfastmail.com
 tempfishthedrift.com
 tempgmail.ga
 tempikpenyu.xyz
@@ -111341,6 +111352,7 @@ tthdtquszptutqu.ru
 tthemos.shop
 tthettha.shop
 tthomp.com
+ttht.us
 ttieu.com
 ttirv.org
 ttitoolsale.com
@@ -113964,6 +113976,7 @@ uslove.xyz
 usloviyabankrot.xyz
 uslugi-v-belgorode.ru
 usm.ovh
+usmail.one
 usmailbook.com
 usmajor.us
 usmediaweb.net
@@ -114057,6 +114070,7 @@ utimatesports.com
 utime.space
 utjuji.site
 utkarsh.tech
+utmastream.com
 utoken.fund
 utooemail.com
 utool.com
@@ -118382,6 +118396,7 @@ weipafa.ga
 weipafa.ml
 weipafa.tk
 weirdfella.com
+weirdlytemp.sbs
 weirenqs.space
 weiruipingji.com
 weishanghl.com
@@ -125503,6 +125518,7 @@ zephyramcpro.xyz
 zephyrhvac.xyz
 zephyros.cfd
 zepp.dk
+zeppost.com
 zer-0.cf
 zer-0.ga
 zer-0.gq
