@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T1011Z: 126617 domains.
+# Data version 20261119T1112Z: 126695 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12073,6 +12073,7 @@ andrewm.art
 andrewongphotography.com
 andrewsbridals.info
 andrewschess.com
+andrewslife.tattoo
 andrewssportconditioning.com
 andrewssportsacademy.com
 andrewwisor.com
@@ -13780,6 +13781,7 @@ ashnkarsh.life
 ashopping.site
 ashotmail.com
 ashtony.xyz
+ashtrack.lol
 ashun.ml
 asia-hq.jo3.org
 asia-me.review
@@ -16735,6 +16737,7 @@ basketandbath.com
 basketball.group
 basketball2in.com
 basketballontv.com
+basketgrove.lol
 basketrise.com
 basketth.com
 baskieninfo.se
@@ -18648,6 +18651,7 @@ beuczbkq.shop
 beumebu.cf
 beumont.org
 beupmore.win
+bevelswaygimbal.lol
 bever2ymits.xyz
 beveragedictionary.com
 beverageglossary.com
@@ -25852,6 +25856,7 @@ chimeecom.cf
 chimeecom.gq
 chimeecom.ml
 chimeecom.tk
+chimefork.lol
 chimera.pub
 chimerasport.store
 chimesearch.com
@@ -26684,6 +26689,7 @@ clashkings.ru
 clashlive.com
 clashofclanshackdeutsch.xyz
 clashroyale-br.com
+clashybomby.xyz
 clasicoloto.ru
 clasponoti.gq
 class1air.com
@@ -28011,6 +28017,7 @@ comotocaronline.com
 compactstudy.com
 compali.com
 compandlap.xyz
+companionlog.info
 company-mails.com
 companycasinos.com
 companycoder.com
@@ -29604,6 +29611,7 @@ crypticinvestments.com
 crypto-faucet.cf
 crypto-lock.net
 crypto-rates.info
+crypto-universe.org
 crypto1x1.info
 crypto1x1.org
 crypto1x1.xyz
@@ -34879,6 +34887,7 @@ dots.market
 dotslashrage.com
 dottyproducts.com
 dottyprojects.com
+dotvaultinventory.lol
 dotvu.net
 dotzi.net
 doublecommas.com
@@ -35877,6 +35886,7 @@ dundersportwetten.com
 dundo.tk
 dunefee.com
 dunefreon.xyz
+duneledger.lol
 dunesafaricamp.com
 dunesplit.xyz
 dungeon-mini.com
@@ -37707,6 +37717,7 @@ ellesspromotion.co.uk
 ellight.ru
 ellingtonmarascio.com
 ellinismosonline.com
+elliotalderson.online
 elliotbuckley.buzz
 elliotcavanaugh.com
 elliotmccarthy.buzz
@@ -41515,7 +41526,9 @@ feartoclear.app
 featcore.com
 feates.site
 featherliftusa.com
+featherpathtasks.lol
 feathersinthehat.com
+feathoraroutine.lol
 featsure.com
 featuredyacht.club
 feaubl.us
@@ -41720,6 +41733,7 @@ ferrdechi.ml
 ferrdechi.tk
 ferrer-lozano.es
 ferrexalostoc-online.com
+ferrulestashdrawers.lol
 ferry-grece.com
 ferryardianaliasemailgenerator.cf
 ferryardianaliasemailgenerator.ga
@@ -42942,6 +42956,7 @@ flipflopgal.com
 flipflopsqueegee.net
 flipinvestclub.com
 flipkartwholesale.tech
+flipmuse.lol
 flipob2b.com
 flipob2b.net
 flippers-forum.com
@@ -43160,6 +43175,7 @@ flutiner.cf
 flutiner.ga
 flutiner.gq
 flutiner.tk
+fluttershademood.lol
 fluxfinancial.com
 fluxmo.de
 fluz-fluz.ru
@@ -43610,6 +43626,7 @@ forkd.app
 forliion.com
 forlite.se
 forloans.org
+formanchor.lol
 formareperincludere.com
 formatbento.me
 formauqua.ga
@@ -45470,6 +45487,7 @@ gameza.com
 gamezalo.com
 gamezli.com
 gamgling.com
+gamidydadisity.xyz
 gamil.co.in
 gaming90.org
 gamingday.com
@@ -45490,6 +45508,7 @@ gamosbaptish.com
 gamosbaptisi.com
 gamosvaptish.com
 gamosvaptisi.net
+gamprias.store
 gamr15.org
 gamvip-com.app
 gancio.online
@@ -46982,6 +47001,7 @@ girlt.site
 girlygirlshopping.com
 giromail.club
 girosgriegozaragoza.com
+girrlowballrush.lol
 girth.xyz
 girtipo.com
 gisella.herbert1818.site
@@ -47742,6 +47762,7 @@ gog4dww762tc4l.ml
 gog4dww762tc4l.tk
 gogamba.com
 gogigsgo.com
+gogilemial.top
 goglemail.cf
 goglemail.ga
 goglemail.ml
@@ -47827,6 +47848,7 @@ goldenmountainchinesetakeaway.com
 goldenonyx.biz
 goldenplaycasino.ru
 goldenpowerball2.com
+goldenreel.lol
 goldensandbeachclub.com
 goldensea-carrick.com
 goldenseatakeaway.com
@@ -49018,6 +49040,7 @@ groverstudio.com
 grow-russia.ru
 growaparts.info
 growfitaccelerator.com
+growfollowpanel.store
 growhpostmi.cf
 growhpostmi.ga
 growhpostmi.gq
@@ -50739,6 +50762,7 @@ hashtagweightloss.com
 hashtagwellness.com
 hashtocash.net
 hashwiki.com
+hasold.store
 hassle-me.com
 hasslemail.top
 hasslex.com
@@ -57447,7 +57471,6 @@ islanderapp.com
 islandholidays-maldives.com
 islandhost.club
 islandkeysproperty.com
-islandmc.net
 islandpaycards.com
 islandproperties.info
 islandrisers.com
@@ -58831,6 +58854,7 @@ jessietv.tokyo
 jessitrust.com
 jessyx.bond
 jestbet65.com
+jestroutehome.lol
 jestyayin27.com
 jesus-shop.ru
 jesuschrist.fund
@@ -59790,6 +59814,7 @@ jouasicni.tk
 journalismcoursesusa.com
 journalistiek.works
 journalmy.ru
+journeybearing.lol
 journeyliquids.com
 journeylocal.com
 journeys.group
@@ -62484,6 +62509,7 @@ kmail.li
 kmail.live
 kmail.qzz.io
 kmail123.com
+kmail123.site
 kmbr.de
 kmco-uae.com
 kmd4t8.site
@@ -63190,6 +63216,7 @@ krwzgt.us
 krxt.com
 kry1m.space
 krypcall.com
+kryptech.xyz
 kryptex.cf
 kryptex.gq
 kryptexsecuremax.club
@@ -63447,6 +63474,7 @@ kuponjitu.info
 kuponjitu.org
 kupuj-pneu.sk
 kupz.xyz
+kuraishop.online
 kuram.host
 kurawapoker.club
 kurawapoker.fun
@@ -64396,6 +64424,7 @@ lauraboerr.com
 laurafan.com
 laurapliss.com
 lauratrapp.org
+laurelflow.lol
 laurelgrey.org
 laurenanduri.com
 laurenebreitkreutz.com
@@ -65295,6 +65324,8 @@ lexabet5.com
 lexaha.info
 lexdrive.com
 lexhindustan.org
+lexicontrail.lol
+lexicontrail.xyz
 lexidot.com
 lexingtnlaw.com
 lexingtonnailsalons.com
@@ -67904,6 +67935,7 @@ lumg.uk
 lumi-ceuticals.com
 lumia24paymanet.com
 lumihub.com
+luminaglow.xyz
 luminaireinstitute.com
 luminaireinstitute.org
 luminexis.cfd
@@ -71145,6 +71177,7 @@ mealaroc.gq
 mealaroc.ml
 mealaroc.tk
 mealcash.com
+mealdrift.lol
 mealigraavertu.ru
 mealprepware.com
 mealswithmilton.ru
@@ -72524,11 +72557,13 @@ mikekalombo.com
 mikelaming.biz
 mikelson.online
 mikelsonmail.site
+mikerossy.com
 mikes.cd
 mikescomputersga.net
 mikesomelike.shop
 mikessupermarket.com
 mikesweb6.com
+mikethe.guru
 mikfarm.com
 mikidolenz.com
 mikolastro.ml
@@ -73162,6 +73197,7 @@ mizugiq2efhd.ga
 mizugiq2efhd.gq
 mizugiq2efhd.ml
 mizugiq2efhd.tk
+mizuhara.my.id
 mjasodel.ru
 mjbach.com
 mjelearningcenter.com
@@ -73812,6 +73848,7 @@ mohmal.com
 mohmal.im
 mohmal.in
 mohmal.tech
+mohneeam.online
 moi-bank.com
 moi-diabet.ru
 moidolgi.org
@@ -73881,6 +73918,7 @@ molms.com
 molo.sale
 molojo.com
 molsbet.icu
+moltenminute.lol
 moltrosa.cf
 moltrosa.tk
 molvidi.org
@@ -74377,6 +74415,7 @@ motorize540ab.online
 motors.com.br
 motorsshop.futbol
 motorvationist.com
+motoscopo.online
 motosneta.online
 mototoke.click
 motrkadust.ru
@@ -75134,6 +75173,7 @@ mumbaibjp.org
 mumbama.com
 mumcaiche.com
 mumm.beer
+mummerlux.lol
 mummodesign.biz
 mummybags.ru
 mumoda.info
@@ -75840,6 +75880,7 @@ myled68456.ga
 myled68456.gq
 myled68456.ml
 myled68456.tk
+mylegendarygame.lol
 mylendertheresa.com
 myletters.online
 mylgbt.social
@@ -77151,6 +77192,7 @@ neet123.com
 neetbt.com
 neetwiki.com
 nefariousunion.com
+nefrilopantry.lol
 neft.club
 negated.com
 neghtlefi.com
@@ -77263,6 +77305,7 @@ neomailbox.com
 neonbees.info
 neonbuzzline.buzz
 neonclub.com
+neondropbudget.lol
 neonexchange.company
 neonigratonline.ru
 neonmask-official.ru
@@ -77363,6 +77406,7 @@ nessterba.ga
 nessterba.gq
 nessterba.ml
 nessterba.tk
+nestivopantry.lol
 nestjs.pro
 nestkenyas.info
 nestle-usa.cf
@@ -79231,6 +79275,7 @@ novasagres.com
 novaspherelabs.store
 novastark.ru
 novastreams661.xyz
+novastrid.xyz
 novasub.click
 novataim.com
 novazil.com
@@ -79537,6 +79582,7 @@ nub3zoorzrhomclef.ga
 nub3zoorzrhomclef.gq
 nub3zoorzrhomclef.ml
 nub3zoorzrhomclef.tk
+nubbinferry.lol
 nubenews.com
 nubescontrol.com
 nucleant.org
@@ -79624,7 +79670,6 @@ nuqhvb1lltlznw.tk
 nuras.site
 nurbahar.com
 nurdea.biz
-nurdea.com
 nurdea.net
 nurdead.biz
 nurdeal.biz
@@ -80272,6 +80317,7 @@ oceqq.biz
 oceva.site
 ochkimoscow.ru
 ochlocracy.site
+ochrecoursecapstone.lol
 ocinjuryattorneys.com
 ocitdoctors.com
 ocksweet.online
@@ -80346,6 +80392,7 @@ oddfactor.net
 oddsbucket.com
 oddsends.se
 oddsmma.se
+oddsparklist.lol
 oddtheory.com
 oddwoodpens.com
 odeask.com
@@ -81694,6 +81741,7 @@ ooyv.homes
 op82new.shop
 opakenak.com
 opalastudios.xyz
+opalinehouse.lol
 opanv.com
 opasing.com
 opasnak.club
@@ -82218,6 +82266,7 @@ ortutay.best
 ortuteks.xyz
 orumcekstand.com
 oruse.xyz
+orvellasleep.lol
 orviaarabia.space
 orviaksarabia.site
 orviongate.com
@@ -83506,6 +83555,7 @@ papuabaratdaya.net
 papuaqq.org
 papuaqq.site
 papuaselatan.net
+papyrivajournal.lol
 papystreaming.llc
 paqeh.online
 paqli.us
@@ -83981,6 +84031,7 @@ pavidity.best
 pavilionx2.com
 pavimentosdune.online
 pavn9k.us
+pavoraplants.lol
 paw-patrol1.space
 pawcco.info
 pawdcast.info
@@ -84064,6 +84115,7 @@ paymentsbotswana.com
 paymobet.com
 paynetcollect.com
 payo22.xyz
+payofftrail.lol
 payola-test.com
 payop.xyz
 payot.club
@@ -84448,6 +84500,7 @@ peggconsulting.com
 peggyreduceriver.site
 pegmarketcap.com
 pegoku.com
+pegoranest.lol
 pegsnzphk.shop
 pegweuwffz.cf
 pegweuwffz.ga
@@ -87884,6 +87937,7 @@ prioritysharpener.xyz
 priorlearningassessment.org
 priscimarabrasil.com
 prisellels.icu
+prismballlabyrinth.lol
 prismgp.com
 prismlasers.tk
 prisonerresources.com
@@ -89180,6 +89234,7 @@ pypdtrosa.cf
 pypdtrosa.ga
 pypdtrosa.ml
 pypdtrosa.tk
+pyrathornchambers.lol
 pyrelle.com
 pyribby.live
 pyrogram.ru
@@ -90184,6 +90239,7 @@ quiller-star.ru
 quiller.ru
 quillet.eu
 quilleyschool.com
+quillnestreading.lol
 quillstar.ru
 quilon.net
 quiltforest.online
@@ -92288,6 +92344,7 @@ reliablespell.xyz
 relianceday.com
 relianceretail.tech
 reliantcapitalgroup.com
+relicnacrecacaoplanner.lol
 reliefieut.site
 reliefreach.monster
 reliefteam.com
@@ -94074,6 +94131,7 @@ roofsninetyninedollars.com
 roofter.com
 roofwashmd.com
 roomka.online
+roomplumeroutine.lol
 roomservicemassage.com
 roomy-hostel.ru
 rooqie.com
@@ -95906,6 +95964,7 @@ sahipalace.com
 sahishop.online
 sahitya.com
 sahivi.ru
+sahmorareads.lol
 sahnebet9.com
 sahrulselow.cf
 sahrulselow.ga
@@ -99860,6 +99919,7 @@ skhnlm.ml
 skhstudio.com
 ski-larosiere.com
 skiagram.xyz
+skibidimaill.cfd
 skideo.xyz
 skidka-top.club
 skidkatrends-top.site
@@ -102289,6 +102349,7 @@ spumartes.ga
 spumartes.ml
 spumartes.tk
 spurahome.se
+spurglaze.lol
 spurgs.us
 spvantispam.com
 spy700.com
@@ -103358,6 +103419,7 @@ storybuilding.cloud
 storydrivenretail.com
 storyjoke.xyz
 storylensmarketing.com
+storyloom.lol
 storymed.icu
 storypo.com
 storysolution.com
@@ -104104,6 +104166,7 @@ suntuy.com
 sunvamor.ga
 sunvamor.ml
 sunvamor.tk
+sunvaultreader.lol
 sunvictorytale.com
 sunyarme.com
 sunydaylunh.email
@@ -108247,6 +108310,7 @@ thisisnotmyrealemail.com
 thislifechoseme.com
 thislifefoundme.com
 thismail.net
+thispmo.com
 thispy.top
 thisshipping.xyz
 thisthin.shop
@@ -109358,6 +109422,7 @@ todofutbol.info
 todslonesaddles.com
 toecye.com
 tofeat.com
+tofugongpostcards.lol
 togame.ru
 togblog.biz
 togel.group
@@ -109882,6 +109947,7 @@ torbix.site
 torbrowser-rus.ru
 torch.space
 torch.yi.org
+torchbench.lol
 torentz.cd
 torg-06.ru
 torgersonauctions.com
@@ -109894,6 +109960,7 @@ tornadobet11.net
 tornadobet365.net
 tornadopotato.gq
 torneodeljoropo.com
+toroma.store
 toronto-football-fanclub.com
 torontoincometax.com
 torontopropertyhousehunters.com
@@ -111016,6 +111083,7 @@ troscx.website
 troserat.cf
 troserat.gq
 troserat.tk
+trotcourseplanner.lol
 trotebag.com
 troubadourdesign.com
 troubsellpost.cf
@@ -111712,6 +111780,7 @@ turkeycallingus.com
 turkeymedical.tours
 turkeyth.com
 turkeyvillasales.com
+turkinster.us
 turkint.ru
 turkish-kebab-house-takeaway.com
 turkishairlinesopen.golf
@@ -114967,6 +115036,7 @@ velikos.host
 velkanol.ru
 velloxist.site
 velmoor.org
+velmoralists.lol
 velobotanicals.com
 velobro.space
 velocilight.com
@@ -114981,6 +115051,7 @@ velosegway.ru
 velosiped-go.ru
 velostocrat.com
 velovevexia.art
+velpinosort.lol
 veltean.com
 veltexline.com
 velvetaroma.com
@@ -115259,6 +115330,7 @@ ves.ink
 vesa.pw
 vesdev01.shop
 vesiquvece.website
+vesperkitekinboard.lol
 vespor.biz
 vespor.info
 vespor.net
@@ -115460,8 +115532,10 @@ viata.site
 viata.space
 viataestefrumoasa.site
 viavuive.net
+vibeify.cc
 vibejsk.host
 viberi-tur.ru
+viberpulse.xyz
 vibertees.com
 vibes.cd
 vibhavram.com
@@ -115471,6 +115545,7 @@ vibi4f1pc2xjk.ga
 vibi4f1pc2xjk.gq
 vibi4f1pc2xjk.ml
 vibi4f1pc2xjk.tk
+vibify.cc
 viblab.today
 vibly.net
 vibrantfaithmilestones.org
@@ -116735,6 +116810,7 @@ voxinh.net
 voxpronoia.com
 voxsox.com
 voxzu.com
+voyagecrate.lol
 voyance.cd
 voyuboutique.site
 voz79.shop
@@ -124200,6 +124276,7 @@ yojishinkawa.com
 yokezkyx.space
 yolahost.ru
 yolbiletim.xyz
+yolkspinrollway.lol
 yolooo.top
 yolosherpa.com
 yom6dw.com
@@ -125594,6 +125671,7 @@ zetap.travel
 zetaseek.com
 zetgets.com
 zetmail.com
+zetrixa.xyz
 zeus0303430.xyz
 zeus0310218.xyz
 zeus0324202.xyz
