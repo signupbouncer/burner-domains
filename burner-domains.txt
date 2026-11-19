@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T0909Z: 126622 domains.
+# Data version 20261119T1011Z: 126617 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -29888,7 +29888,6 @@ cubbycc.com
 cubecart-demo.com
 cubedlogistics.com
 cubedwolf.tk
-cubefox.com
 cubehost.us
 cubene.com
 cubeschina.fun
@@ -30059,7 +30058,6 @@ curlhph.tk
 curlycollection.com
 curongwang.com
 currencies-today.com
-currencyandstocks.com
 currencyassistant.com
 currencyglossary.com
 currencyy.xyz
@@ -62583,7 +62581,6 @@ knowincar.ga
 knowincar.gq
 knowincar.ml
 knowincar.tk
-knowinggames.com
 knowitallbrand.com
 knowledgeforsuccessnetwork.com
 knowledgemd.com
@@ -99694,7 +99691,6 @@ sivashaykoop.com
 sivasisitmeengelliler.com
 sivasliderfm.xyz
 sivasligardaslar.xyz
-sivassecimanketi.com
 sivasspo.xyz
 sivassporluyuz.xyz
 sivasticaretmerkezi.com
@@ -108525,7 +108521,6 @@ tievol.com
 tiffanyclarkwriter.com
 tiffanydawnbiagas.com
 tiffanyelite.com
-tiffanymarascio.com
 tiffanypower.com
 tiffanysbnb.com
 tiffanywishes.com
