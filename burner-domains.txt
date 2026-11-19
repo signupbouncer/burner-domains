@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T0707Z: 126619 domains.
+# Data version 20261119T0809Z: 126626 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -39613,7 +39613,6 @@ eur0.ga
 eur0.gq
 eur0.ml
 eurasiaaesthetic.com
-eurasiamedia.biz
 eurasiandigitalventures.fund
 euratom.cd
 eurazx.com
@@ -45700,7 +45699,6 @@ gatosk.net
 gatou.store
 gaubonghn.com
 gaudianosporthorses.com
-gaumontleblanc.com
 gauzemolv.space
 gav0.com
 gavail.site
@@ -46973,7 +46971,6 @@ girlgear.us
 girlkiss.site
 girlmail.win
 girlmanss.info
-girlmogulmagazine.com
 girlncool.com
 girlorgy.site
 girlpower2022.com
@@ -54689,6 +54686,7 @@ ibaxdiqyauevzf9.gq
 ibaxdiqyauevzf9.ml
 ibaxdiqyauevzf9.tk
 ibazpixrxhjjeae.xyz
+ibcooking.com
 ibeeking.com
 ibelnsep.com
 ibenat.cf
@@ -59643,7 +59641,6 @@ jojomedia.store
 jokeengine.com
 jokenaka.press
 joker-dostavka.ru
-jokerbet93.com
 jokerbetcasino.xyz
 jokerbetgiris.info
 jokerdd.com
@@ -64364,6 +64361,7 @@ latemail.tech
 latempete.cd
 latest.cd
 latestandhot.com
+latestcnnnews.com
 latestprojectors.com
 latestshayari.org
 lateststylenews.xyz
@@ -70575,7 +70573,6 @@ masstoly.ru
 massyacquaintpecan.site
 mastahype.net
 mastds.ru
-master-crm.ru
 master-mail.net
 master-mind.site
 master-start61.ru
@@ -78112,7 +78109,6 @@ nhacai88.online
 nhadatdai.com
 nhadatgiaviet.com
 nhadephm.com
-nhadepnhat.com
 nhahangmuoiot.com
 nhakhoa.xyz
 nhakhokygui.com
@@ -78970,6 +78966,7 @@ nonegray.info
 nonescent.xyz
 noneso.site
 nonetary.xyz
+nonewanimallab.com
 nongame.best
 nonglex.tech
 nongmak.net
@@ -80970,6 +80967,7 @@ oldcurmudgeoncomics.com
 oldfaithful.org
 oldfashionedhousebuyers.com
 oldgreenlawlochy.com
+oldgwt.space
 oldhamgroup.net
 oldhistory2.net
 oldlaptop.ru
@@ -96558,6 +96556,7 @@ satukosong.com
 satum.online
 saturdata.com
 saturdaylaura.com
+saturdaynightspecial.org
 saturnbet-official.ru
 saturrshop.uk
 satusatu.online
@@ -99282,6 +99281,7 @@ sikatan.co
 sikauni.com
 sikestondental.com
 sikh.best
+sikharchives.com
 sikinchel.info
 sikis31.com
 sikomo.cf
@@ -106931,6 +106931,7 @@ testi.com
 testicles.com
 testif.io
 testincorp.xyz
+testinger.ru
 testingprog.com
 testlatcei.cf
 testlatcei.ml
@@ -111393,6 +111394,7 @@ ttk-uralgeo.ru
 ttkamukecil.com
 ttkkk2.xyz
 ttlalloe.xyz
+ttlrlie.com
 ttlzw.info
 ttmail.lat
 ttmail.vip
@@ -111615,6 +111617,7 @@ tunelrap.tk
 tunes.cd
 tunestan.com
 tungstenfabric.space
+tunhide.com
 tunikusami.xyz
 tunnelbeear.com
 tunnelbound.com
@@ -112336,6 +112339,7 @@ typechocheck.xyz
 typery.com
 typescriptis.fun
 typesofrehab.com
+typestring.com
 typhonsus.tk
 typicalfer.com
 typity.net
@@ -113718,6 +113722,7 @@ urayuliya.ru
 urbanban.com
 urbanblackpix.space
 urbancampout.icu
+urbanchannel.info
 urbanchannel.live
 urbancoolpro.xyz
 urbancowboypoetry.com
@@ -124246,6 +124251,7 @@ yoojeen.tech
 yoolinemail.com
 yoonpapa.site
 yop.email
+yop.fexp.io
 yop.itram.es
 yopm.zone.id
 yopmail.cf
@@ -125181,6 +125187,7 @@ zalansed.xyz
 zalesie.net.pl
 zalina.live
 zalocasino.xyz
+zaltak.com
 zamananow.com
 zambezinationalparks.com
 zamburu.com
