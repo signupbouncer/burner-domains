@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T0809Z: 126626 domains.
+# Data version 20261119T0909Z: 126622 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -55293,7 +55293,6 @@ igoq.com
 igoqu.com
 igosad.tech
 igostabbet.xyz
-igotyourbackchiro.com
 igpicnic.site
 igqtrustee.com
 igra-na-stavke.site
@@ -80851,7 +80850,6 @@ okmiamilakes.com
 okmodesto.com
 okmontevideo.com
 okmoseslake.com
-okna-venta.ru
 oknaest.ru
 oknagornica.ru
 oknantucket.com
@@ -84991,7 +84989,6 @@ petrzilka.net
 petsburb.com
 petsday.org
 petservices.website
-petsfirst.info
 petsfoodresearch.com
 petshomestore.com
 petsitterlive.com
@@ -85525,7 +85522,6 @@ pimaapparel.net
 pimeariver.com
 pimeclegaltech.cat
 pimecorp.shop
-pimep.com
 pimgcx.us
 pimmel.top
 pimolo.cf
