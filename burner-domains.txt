@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T0059Z: 126588 domains.
+# Data version 20261119T0606Z: 126604 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -3230,6 +3230,7 @@
 360.furniture
 360.gives
 360.hosting
+360.industries
 360.institute
 360.irish
 360.lgbt
@@ -8987,6 +8988,7 @@ acgproxy.com
 acgpt.com
 acgpush.com
 acgqun.com
+acgsearch.com
 acgsns.com
 acgsong.com
 acgstock.com
@@ -11310,6 +11312,7 @@ aloemie.com
 aloeverachat.com
 aloftventure.com
 alogon.net
+alohaball.org
 alohomora.biz
 alonbog.cf
 alonbog.ga
@@ -11660,6 +11663,7 @@ amberpetsupplies.com
 amberwe.us
 ambiancewe.us
 ambient.cool
+ambilqq.com
 ambimbo.xyz
 ambitiouswe.us
 amccare.xyz
@@ -21263,6 +21267,7 @@ boxlet.store
 boxmach.com
 boxmail.lol
 boxmail1.com
+boxmailbox.club
 boxmy-files.online
 boxnexa.com
 boxnguyenlieumeta.com
@@ -28177,6 +28182,8 @@ condorsnestprophouse.com
 condorviajes.com
 condos.cd
 condovestments.com
+conducivedev.com
+conducivedevelopment.com
 conduct.vote
 conductivebrush.biz
 conduscient.org
@@ -28792,7 +28799,6 @@ cosdas.com
 coseh6.us
 cosmela.ru
 cosmeticddsnearme.com
-cosmeticdentistryorlandpark.com
 cosmeticgid.ru
 cosmeticprocedure.org
 cosmetika-krasnodar.ru
@@ -29107,6 +29113,7 @@ craftcannabisclass.com
 craftcate.us
 craftd.org
 craftfiga.site
+craftings.org
 craftletter.com
 craftlures.com
 craftmirth.me
@@ -32103,6 +32110,7 @@ dennmail.win
 denny-designs.com
 denovocompany.com
 denovocybersecurity.com
+denpasoda.com
 denracad.cf
 denracad.ga
 denracad.ml
@@ -33386,6 +33394,7 @@ diokgadwork.gq
 diokgadwork.ml
 diokgadwork.tk
 diolang.com
+diolid.ru
 diomandreal.online
 dioneijunior.com
 diopipymestoa.space
@@ -34182,6 +34191,7 @@ dndbs.net
 dndcak.us
 dndent.com
 dndiprlondon.com
+dndl.site
 dndoqi.tokyo
 dndpoker.xyz
 dnek.com
@@ -38175,6 +38185,7 @@ emmys.life
 emnbp6.us
 emobilidade.net
 emocan.name.tr
+emohawk.xyz
 emoiem.com
 emoiembu.com
 emoisaocvho.com
@@ -43832,6 +43843,7 @@ fp-sale.online
 fp321.org
 fpapa.ooo
 fpc54.ru
+fpdf.site
 fperson.shop
 fpexwssd.com
 fpfc.cf
@@ -46009,6 +46021,7 @@ gemmarosefoundation.co.uk
 gemmation.site
 gemniultra.me
 gemo-pro-svechi.ru
+gemsgallerythailand.ru
 gemsro.xyz
 gemuk.buzz
 gen.noxblocks.tk
@@ -47196,6 +47209,7 @@ glidescal.us
 glidesh.icu
 glidesh.xyz
 gligsfall.ru
+glimermann.com
 glissecompany.ru
 glissinternational.com
 glisterings.net
@@ -47338,6 +47352,7 @@ gluco.lat
 glucogen.store
 glucophage.website
 glucosegrin.com
+glues1.com
 glutativity.xyz
 glutenfreeallpurposebread.com
 glutenfreeaustralian.com
@@ -48872,6 +48887,7 @@ grewq.makeup
 greyhouseatthewallacelodge.com
 greyjack.com
 greypebbles.cd
+greys-academy.com
 greystonessc.com
 greywool.ru
 grgc.org
