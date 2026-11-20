@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261120T0029Z: 126687 domains.
+# Data version 20261120T0636Z: 126697 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9830,6 +9830,7 @@ afrikfoodcorner.net
 afroaudio.online
 afrobacon.com
 afrodizyakdamlalar.xyz
+afronewz.com
 afronorilsk.ru
 afroprides.com
 afscmelocal2181.org
@@ -10061,6 +10062,7 @@ agxngcxklmahntob.tk
 agylzuv.top
 ah3mto.us
 ahamit.com
+ahamoney.xyz
 ahardrestart.com
 aharmovie2.info
 ahasavannah.com
@@ -14160,6 +14162,7 @@ atansid.cf
 atansid.ga
 atansid.ml
 atansid.tk
+atarax.website
 atariazteca.com
 atariblockchainpartners.com
 atarif.ga
@@ -20826,6 +20829,7 @@ bonus-fresh849.ru
 bonus.aloxy.ga
 bonus4betting.com
 bonusal.club
+bonuscable.com
 bonusdominoonline.com
 bonuses.su
 bonusess.me
@@ -26325,7 +26329,6 @@ cimaclub.fan
 cimaclub.network
 cimaclub.rocks
 cimaclub.social
-cimaclub.world
 cimaclub.zone
 cimario.com
 cimas.info
@@ -36004,6 +36007,7 @@ dvaren.online
 dvd.dns-cloud.net
 dvd.dnsabr.com
 dvd315.xyz
+dvdee.com
 dvdoto.com
 dvdpit.com
 dvds.cd
@@ -43612,6 +43616,7 @@ forgetmenotstudio.org.uk
 forgevpn.com
 forgottenrelicsbooks.com
 forhousandlife.ru
+forims.com
 fork.codes
 fork.support
 forkai.cloud
@@ -63073,6 +63078,7 @@ kranewaresolutions.com
 kranjingan.store
 kranjingan.tech
 kranjingans.tech
+kranove.com
 kras-ses.ru
 krascos.ru
 krasfasad24.ru
@@ -64033,6 +64039,7 @@ lakelivingstonrealestate.com
 lakesham.xyz
 lakesidde.com
 lakesofthenorthwinterfest.com
+laketerrace.sbs
 lakevilleapartments.com
 lakewater.org
 lakeworthfarming.co.uk
@@ -68112,6 +68119,7 @@ lwwz3zzp4pvfle5vz9q.gq
 lwwz3zzp4pvfle5vz9q.ml
 lwwz3zzp4pvfle5vz9q.tk
 lx-97.com
+lx25f.anonbox.net
 lxbeta.com
 lxidd.com
 lxnshavo.shop
@@ -68743,6 +68751,7 @@ mail-j.gq
 mail-j.ml
 mail-j.tk
 mail-jetable.com
+mail-jp.net
 mail-lab.net
 mail-line.net
 mail-maker.net
@@ -91850,6 +91859,7 @@ redi.fr.nf
 redigesso.ru
 redinggtonlaz.xyz
 redir-ok-igrosoft.ru
+redir.lat
 redirect.plus
 redirectr.xyz
 rediska.site
