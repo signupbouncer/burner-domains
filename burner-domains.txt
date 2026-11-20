@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261119T1112Z: 126695 domains.
+# Data version 20261120T0029Z: 126687 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -9938,7 +9938,6 @@ agenimc6.com
 agenjudieuro.com
 agenpremium.store
 agenpulsamabruk.club
-agenra.com
 agenresmipokeridn.com
 agenstvo-komforta.ru
 agent388a-casinoonline.org
@@ -15375,7 +15374,6 @@ azote.gq
 azpopparitvur.xyz
 azqtbv.info
 azra.net
-azrmail.com
 azrooh.ru
 azsh0j.us
 azspartners.ru
@@ -23979,7 +23977,6 @@ capcut.sbs
 capcut.space
 capcut.team
 capcut02.shop
-capcuter.com
 capcutgw.cfd
 capcutisme.app
 capcutku.app
@@ -41717,7 +41714,6 @@ ferma-lambertov.ru
 fermathadaproof.com
 fermaxxi.ru
 fermaxxl.ru
-fermiro.com
 fern2b.site
 fernandogrillo.net
 fernblade.com
@@ -81191,7 +81187,6 @@ omega3nutrition.com
 omegacoin.org
 omegafive.net
 omegaipfs.com
-omegazetacryptopool.online
 omego.ru
 omemdis.com
 omenwi.ga
@@ -91027,7 +91022,6 @@ rangetige.xyz
 rangevid.us
 ranggasra.club
 rangisre.me
-rangkutimail.me
 ranhen.ru
 rank.exchange
 rankgapla.cf
@@ -115995,7 +115989,6 @@ vip-masterpedia.co.id
 vip-masterpedia.online
 vip-moyki.ru
 vip-smule.info
-vip-sparkyv2.com
 vip-stuff.biz
 vip-sushi.ru
 vip-timeclub.ru
@@ -125152,7 +125145,6 @@ z5cpw9pg8oiiuwylva.ga
 z5cpw9pg8oiiuwylva.gq
 z5cpw9pg8oiiuwylva.ml
 z5cpw9pg8oiiuwylva.tk
-z6dls.anonbox.net
 z6s.net
 z6ylqc.us
 z6yr.top
