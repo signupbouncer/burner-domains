@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261120T0736Z: 126695 domains.
+# Data version 20261121T0605Z: 126703 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -10220,6 +10220,7 @@ aiij8.space
 aiindia.xyz
 aiindonesia.xyz
 aiiots.net
+aiislam.xyz
 aiisrael.xyz
 aiistanbul.xyz
 aijiangyuan.com
@@ -11664,7 +11665,6 @@ amberpetsupplies.com
 amberwe.us
 ambiancewe.us
 ambient.cool
-ambilqq.com
 ambimbo.xyz
 ambitiouswe.us
 amccare.xyz
@@ -17024,6 +17024,7 @@ bcompiled3.com
 bconsbee.com
 bcooq.com
 bcoreap.com
+bcough.com
 bcp16.site
 bcp33.anonbox.net
 bcpfm.com
@@ -18813,6 +18814,7 @@ bhicw.anonbox.net
 bhk.casino
 bhk9c1su3.xyz
 bhk9yp6glh.men
+bhkpx.anonbox.net
 bhkvzgkzx.shop
 bhmhg.com
 bhmm.com
@@ -35430,6 +35432,7 @@ droomhuisje.com
 drop.ekholm.org
 dropcake.de
 dropclubamz.com
+dropcode.ru
 dropcramponpencil.ru
 dropcramponpig.ru
 dropd.ru
@@ -35619,6 +35622,7 @@ dskin.com
 dskkolovrat.ru
 dsleeping09.com
 dslrclub.ru
+dsmspaces.com
 dsng8742g85fwent83g485dsfn8245.com
 dspmok.us
 dspwebservices.com
@@ -52105,6 +52109,7 @@ hill63.org
 hillary-email.com
 hillatimels.tk
 hillaxiant.xyz
+hillcabin.live
 hillcountryone.com
 hillopy.ru
 hillpturser.cf
@@ -84026,6 +84031,7 @@ pauvoiplek.ga
 pauvoiplek.ml
 pauvoiplek.tk
 pav2r.site
+paveice.com
 pavel-kochkin.ru
 pavelostapchuk.ru
 pavementconference.org
@@ -87713,6 +87719,7 @@ presinnil.cf
 presinnil.ga
 presinnil.gq
 presinnil.tk
+presloma.com
 presmolthi.cf
 presmolthi.ga
 presmolthi.gq
@@ -110046,6 +110053,7 @@ totalfanhub.com
 totalhealthy.fun
 totalistasyonlari.com
 totalizer311wf.xyz
+totalkw.com
 totallogamsolusi.com
 totallynotfake.net
 totallypianos.com
