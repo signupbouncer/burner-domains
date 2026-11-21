@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261121T0605Z: 126703 domains.
+# Data version 20261121T0807Z: 126704 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -18067,6 +18067,7 @@ bestsentence2020.space
 bestsentence2020.xyz
 bestservice.me
 bestshopcoupon.net
+bestshows.xyz
 bestsleeping.com
 bestsoundeffects.com
 bestspeakingcourses.com
@@ -65742,6 +65743,7 @@ liga88.website
 ligadc.club
 ligadepo.com
 ligagame.net
+ligahoki168.com
 ligaindo.com
 ligaku.com
 ligaolmecaoficial.net
@@ -96617,7 +96619,6 @@ satukosong.com
 satum.online
 saturdata.com
 saturdaylaura.com
-saturdaynightspecial.org
 saturnbet-official.ru
 saturrshop.uk
 satusatu.online
@@ -99342,7 +99343,6 @@ sikatan.co
 sikauni.com
 sikestondental.com
 sikh.best
-sikharchives.com
 sikinchel.info
 sikis31.com
 sikomo.cf
@@ -104467,6 +104467,7 @@ surpluscartridges.com
 surpriseinbox.ru
 surreptitious.website
 suruitv.com
+suruykusu.com
 surveihtyf.space
 surveillancefast.xyz
 surveyor3.net
