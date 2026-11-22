@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261122T1042Z: 126673 domains.
+# Data version 20261122T1145Z: 126671 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -88733,7 +88733,6 @@ pubiu.site
 pubiv.site
 pubiw.site
 pubix.site
-pubiy.site
 pubiz.site
 pubj.site
 pubjye.us
@@ -124144,7 +124143,6 @@ ylztst.site
 ym9.app
 ymail.monster
 ymail.pl
-ymail.site
 ymail365.com
 ymail44.com
 ymail5.com
