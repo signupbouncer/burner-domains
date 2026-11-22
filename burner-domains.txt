@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261121T0807Z: 126704 domains.
+# Data version 20261122T0029Z: 126696 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -4893,7 +4893,6 @@
 5ej7f.anonbox.net
 5ekufm.us
 5erdft.info
-5esnu.anonbox.net
 5euro.ga
 5evr3o.site
 5f9x2r.stream
@@ -10151,6 +10150,7 @@ aiafhg.com
 aiafrica.xyz
 aiapes.publicvm.com
 aiataiche.com
+aiatlanta.xyz
 aiauction.xyz
 aiaustralia.xyz
 aiba777.com
@@ -10443,6 +10443,7 @@ aivtxkvmzl29cm4gr.ml
 aivtxkvmzl29cm4gr.tk
 aiwan-deals.com
 aiwashington.xyz
+aiwhois.xyz
 aiwireless.xyz
 aiworldx.com
 aixind.com
@@ -16955,7 +16956,6 @@ bbrightclubd.site
 bbrightflowe.site
 bbroot.com
 bbrowsechato.site
-bbrsr.anonbox.net
 bbruastripe.com
 bbryk.live
 bbs8den8teudng.xyz
@@ -28032,7 +28032,6 @@ comparateurchaises.com
 comparatore.xyz
 comparecyan.com
 compareimports.com
-comparekro.com
 compareshippingrates.org
 comparethemiaowcat.com
 comparisherman.xyz
@@ -28047,6 +28046,7 @@ compcoddmeg.ga
 compcoddmeg.gq
 compcoddmeg.ml
 competenergy.com
+competeshop.xyz
 competirer.com
 competirinternacional.website
 competition-black.xyz
@@ -35822,7 +35822,6 @@ dudj.com
 dudmail.com
 dudscc.com
 dudscc.sbs
-dudscuapcut.store
 dudud.com
 duetube.com
 dufeed.com
@@ -47234,7 +47233,6 @@ glissinternational.com
 glisterings.net
 glitch.sx
 glitchwave.it
-glitteringmediaswari.io
 gliuk.ru
 gllwgnlzv.shop
 glmknm.com
@@ -65998,7 +65996,6 @@ linkbet88.info
 linkbet88.online
 linkbet88.org
 linkbet88.xyz
-linkbitsmart.com
 linkbm.one
 linkbm365.com
 linkbuilding.pro
@@ -69081,7 +69078,6 @@ mailfa.cf
 mailfa.tk
 mailfake.ga
 mailfall.com
-mailfance.com
 mailfast.pro
 mailfavorite.com
 mailfile.net
@@ -78487,7 +78483,6 @@ nimonti.ml
 nimonti.tk
 nimrod.systems
 ninaanwar.art
-ninafashion.shop
 ninagarbiras.info
 ninagarbiras.net
 ninagarbiras.org
@@ -79332,7 +79327,6 @@ nowdigit.com
 nowdrafo.site
 nowemail.ga
 nowena.site
-nowfixweb.com
 nowhere.org
 nowheybebe.com
 nowheycafe.com
@@ -80288,7 +80282,6 @@ ocbsport.com
 ocbxpz3.camdvr.org
 occand.ru
 occasics.site
-occasionalmandiri.co
 occasionaltrip.com
 occept.com
 occo-paris.com
@@ -82556,6 +82549,7 @@ ourbukkit.com
 ourchurch.app
 ourconnectedhistory.com
 ourcritters.net
+ourday.info
 ourensetv.gal
 ourfgv.us
 ourhobby.com
@@ -83835,7 +83829,6 @@ pasacasino100.com
 pasadena-jaycees.org
 pasaemlak48.com
 pasaoutlet.xyz
-pasarakun.art
 pasarakun.me
 pasaranbola168.com
 pasarjohar.biz
@@ -86754,7 +86747,6 @@ polistand.site
 polit-konsultant.ru
 polit-tehnologiya.ru
 polit-tekhnologiya.ru
-politesuharnita.io
 politgator.ru
 political101.com
 politicalcowboy.com
@@ -86953,6 +86945,7 @@ poppopbattlej.com
 poppy-gay.ga
 poppyalwaz.site
 poppyscroll.com
+popsci.ru
 popshop.cd
 popsissi.com
 popso.cf
@@ -89915,6 +89908,7 @@ qrrnc.com
 qrryxk.site
 qrs3un.us
 qrt8e6v.ddnsfree.com
+qrtise.com
 qrtjbzogb.gq
 qrucav.com
 qrxqdwmw.shop
@@ -90377,6 +90371,7 @@ qvlar.se
 qvmao.com
 qvmassage.com
 qvo6jm.us
+qvpod.xyz
 qvttclass.us
 qvvcuk.com
 qvvoxjfb.shop
@@ -91119,7 +91114,6 @@ rasc2004.info
 rasedaoip.ga
 rasedily.info
 rash-pro.com
-rashchotimah.co
 rashers.org
 raskhin54swert.ml
 rasmuspaluadan.com
@@ -97856,6 +97850,7 @@ sentimentdate.com
 sentitle.ru
 sentra-premium.com
 sentralreitmy.com
+sentry-e3taxservice.com
 sentryenis.site
 senttmail.ga
 senty.ru
@@ -102203,7 +102198,6 @@ sport-partners.ru
 sport-souvenirs.ru
 sport-web.ru
 sport3024.net
-sport9.win
 sportanchik.ru
 sportbro.tech
 sportbro666.com
@@ -113199,7 +113193,6 @@ umanit.online
 umanit.store
 umanit.us
 umauma.cd
-umaw.site
 umbrellainvesting.xyz
 umc67.space
 umcygsyolytu.site
@@ -115507,7 +115500,6 @@ vhwuph.rest
 vi1ilpa.mywire.org
 via.tokyo.jp
 via17.com
-via902.com
 viableshoppingblog.club
 viachinonk.ml
 viacimex.info
