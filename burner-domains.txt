@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261122T0739Z: 126697 domains.
+# Data version 20261122T0841Z: 126686 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -3302,7 +3302,6 @@
 366zy.com
 36832.monster
 36868a.com
-368904.com
 368pan.com
 369mimi.com
 36c4.xyz
@@ -3958,7 +3957,6 @@
 449206.com
 449988211.com
 44ant.biz
-44bit.ru
 44bubu.com
 44din.com
 44favorisen.com
@@ -10247,7 +10245,6 @@ aimetrics.co
 aimexico.xyz
 aimhire.me
 aimodel.xyz
-aimserv.com
 aimupset.com
 ainbz.com
 aineapi.com
@@ -48249,7 +48246,6 @@ goth-friends.com
 gothere.biz
 gothetalent.com
 gothgirl.pics
-gotimes.xyz
 gotkmail.com
 gotmail.com
 gotmail.net
@@ -58556,7 +58552,6 @@ jayabet188.net
 jayapoker99.net
 jayaprakashmenon.com
 jayavilas.org
-jaychatmusic.com
 jaycrouch.org
 jaydeninc.com
 jaygees.ml
@@ -72427,7 +72422,6 @@ micronews.debian.org
 micronti.xyz
 micropaleontologies453wm.online
 micropaleontology867pf.online
-micropanier.com
 micropaste.com
 micros-solutions.live
 microsaledirect.com
@@ -78828,7 +78822,6 @@ noblechevy.com
 noblefacility.xyz
 noblepioneer.com
 noblequotes.com
-noblewear.com
 nobluelives.com
 nobstyther.cf
 nobstyther.ga
@@ -79909,7 +79902,6 @@ nyatempto.cf
 nyatempto.ga
 nyatempto.gq
 nyatracker.com
-nyattorneys.org
 nyaweb.com
 nyawiki.com
 nyayou.com
@@ -90733,7 +90725,6 @@ raffles.media
 rafiv2ray.xyz
 rafmail.cf
 rafmailku.ml
-rafmix.site
 rafxnwqrl.shop
 ragclwzns.shop
 ragebite.net
@@ -103056,7 +103047,6 @@ stefparket.ru
 steganpsmc.space
 stegodons.best
 stehkragenhemd.de
-steifftier.de
 steklozona.ru
 stekolko.ru
 stelgames.com
@@ -110537,7 +110527,6 @@ transaksikita.tech
 transcript-xpress.com
 transend.click
 transfergoods.com
-transferinn.com
 transferpulsa.net
 transformationalsurgery.com
 transformationministry.org
@@ -111265,6 +111254,7 @@ trustnetsecurity.net
 trustoria.net
 trustpiiot.site
 trustsieg.us
+trusttravellive.biz
 trusttravellive.travel
 trustur.ru
 trustware.coach
@@ -118964,7 +118954,6 @@ whiteflowers.site
 whitehall-solutions.com
 whitehat.markets
 whitehousecalculator.com
-whitehousemeats.com
 whitehvacrepair.xyz
 whitelabelextracts.org
 whitelinehat.com
