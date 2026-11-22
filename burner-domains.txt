@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261122T0942Z: 126676 domains.
+# Data version 20261122T1042Z: 126673 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -55323,7 +55323,6 @@ igrounehb.com
 igrovoi-avtomat.ru
 igrovoiavtomatonline.ru
 igrovoyvulcan.ru
-igryn.ru
 igsvmail.com
 igtook.org
 igty.autos
@@ -84167,7 +84166,6 @@ pbhak.dev
 pbis.beer
 pbjmpgne.shop
 pbmbill247.com
-pbqr.org
 pbrg4fb.ooguy.com
 pbs1914alabama.org
 pbs83c.us
@@ -111262,7 +111260,6 @@ truthmaker.top
 truthorconsequences.net
 truthpowe.buzz
 truthye.com
-truvabetgiris.website
 truvifoods.com
 truvinutrition.com
 truvisionhealth.global
