@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261122T0841Z: 126686 domains.
+# Data version 20261122T0942Z: 126676 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -6938,7 +6938,6 @@
 875655234954.xyz
 875888.xyz
 87605599.com
-876518.xyz
 8768.fun
 8769827.com
 8769837.com
@@ -13926,7 +13925,6 @@ asmagermeyapi.com
 asmm5.com
 asmrlib.com
 asmryy.xyz
-asn.services
 asndasbds.space
 asndassbs.space
 asnpk88.org
@@ -19115,7 +19113,6 @@ bigtoken.cryptolovers.id
 bigtonehorsens.com
 bigtuyul.me
 bigtw.at
-bigvalleybingo.com
 bigvalleydesign.com
 bigvietnam.online
 bigwhoop.co.za
@@ -69104,7 +69101,6 @@ mailgate.shop
 mailgator.org
 mailgen.biz
 mailgen.club
-mailgen.fun
 mailgen.io
 mailgen.xyz
 mailgetget.asia
@@ -74430,7 +74426,6 @@ moukhjconmeab.ga
 moukhjconmeab.tk
 moulinsdebordeaux.com
 moundcityhistory.org
-mountaingoatcycles.com
 mountainhighminiatures.com
 mountainhouseairbnb.com
 mountainhousebandb.com
@@ -79257,7 +79252,6 @@ nousurf.space
 nouvellakay.com
 nov-today.ru
 nova-entre.ga
-novabrana.sk
 novacontigencia.xyz
 novaeliza.art
 novaemail.com
@@ -92552,7 +92546,6 @@ rentpober.gq
 rentpober.ml
 rentproxy.xyz
 renty.lat
-rentz.club
 rentz.website
 renumax-dealer.ru
 renvotra.cfd
@@ -101935,7 +101928,6 @@ speedemre.ml
 speedemre.tk
 speedfocus.biz
 speedgaus.net
-speedily.site
 speedlab.com
 speedlooking.fun
 speedmag.com
@@ -101965,7 +101957,6 @@ speedycornbroom.com
 speedycornbroom.us
 speedycornbrooms.biz
 speedycornbrooms.org
-speedydir.site
 speedyenglish.xyz
 speedymop.org
 spektech.ru
@@ -102281,7 +102272,6 @@ spotiy.site
 spotlessmamma.online
 spotlightdiary.com
 spotlittle.com
-spotmyworld.com
 spotoaaa.com
 spotream.online
 spotshops.com
