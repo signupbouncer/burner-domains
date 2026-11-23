@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261123T0705Z: 126703 domains.
+# Data version 20261123T1514Z: 126703 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -31169,7 +31169,6 @@ dataaas.com
 dataarca.com
 dataazurro.com
 datab.info
-databasel.xyz
 databnk.com
 databootcamp.org
 datacenteritalia.cloud
@@ -55167,6 +55166,7 @@ iekzzu.com
 iel.pw
 iemxo.com
 iencm.com
+ienergize.com
 iens7a.us
 ieo.group
 ieolsdu.com
