@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261123T1514Z: 126703 domains.
+# Data version 20261123T1817Z: 126703 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -24272,6 +24272,7 @@ cartwright-morris.com
 carvaleters.com
 carvecolo.site
 carvehabi.xyz
+carverid.xyz
 carveride.icu
 carvideoshop.life
 carvives.site
@@ -54244,7 +54245,6 @@ hxhbnqhlwtbr.ga
 hxhbnqhlwtbr.ml
 hxhbnqhlwtbr.tk
 hximouthlq.com
-hxnz.xyz
 hxopi.ru
 hxopi.store
 hxqmail.com
