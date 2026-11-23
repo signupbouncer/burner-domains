@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261123T2019Z: 126702 domains.
+# Data version 20261123T2324Z: 126700 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -43339,7 +43339,6 @@ fnuxu6.us
 fnwv73le26z90cz.xyz
 fnx65ktx4b98it7.xyz
 fnxm.xyz
-fnyt.xyz
 fo-sale.online
 fo588.com
 fo788.com
@@ -54315,7 +54314,6 @@ hydsw.info
 hyecourtdot.cf
 hyecourtdot.ga
 hyfw.club
-hyfw.xyz
 hygenicbrushes.org
 hygenicbrushes.us
 hygge.camp
