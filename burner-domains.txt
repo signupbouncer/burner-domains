@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261123T0058Z: 126705 domains.
+# Data version 20261123T0705Z: 126703 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -16227,7 +16227,6 @@ bakarbakmaz.com
 bakarmckennzie.com
 bakatool.com
 bakawiki.com
-bake.email
 bakerai.space
 bakersfield.florist
 bakersfieldoilandgas.com
@@ -47085,7 +47084,6 @@ giyam.com
 giysigiydirmeoyunlari24.com
 gizleyici.tk
 gizlicennetkibris.com
-gizmobd.com
 gizmona.com
 gizzmo.se
 gj96m.info
