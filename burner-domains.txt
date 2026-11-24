@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261124T0027Z: 126693 domains.
+# Data version 20261124T0735Z: 126699 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -2789,6 +2789,7 @@
 2sunssolutions.ru
 2svun8.us
 2tellmystory.com
+2timebet.com
 2tl2qamiivskdcz.cf
 2tl2qamiivskdcz.ga
 2tl2qamiivskdcz.gq
@@ -46033,6 +46034,7 @@ gemardepo.online
 gembul.site
 gemeentebanen.works
 gemient.com
+geminicode.shop
 gemipro1.store
 gemmarosefoundation.co.uk
 gemmation.site
@@ -49437,6 +49439,7 @@ guotongholdings.com
 guowaishipin.xyz
 guozivpn.cc.cd
 gupiaozhenduanpt.com
+gupta.lat
 guqage.ru
 guqoo.com
 gurgpola.cf
@@ -75755,7 +75758,6 @@ myfamilytable.space
 myfap.online
 myfavelatinas.com
 myfavertab.website
-myfavorite.info
 myfavouriterecipes.org
 myficials.club
 myficials.online
@@ -77666,6 +77668,7 @@ new-year-lucky-gift.icu
 new-year-lucky-gifts.monster
 new-year-special-gift.icu
 new-year-special-gift.monster
+new-york-wedding.com
 new-york.host
 new688e.ga
 newa.wtf
@@ -83205,6 +83208,7 @@ paglife.online
 pagodagardentakeaway.com
 pagodatoto.net
 pagossnr.com
+pagoya.lat
 paguesufactura.net
 paguesuimpuesto.com
 pahalfpricedlisting.com
@@ -89937,6 +89941,7 @@ qtfxtbxudvfvx04.gq
 qtfxtbxudvfvx04.ml
 qtfxtbxudvfvx04.tk
 qtgptmututqg.ru
+qtkv5.anonbox.net
 qtlhkpfx3bgdxan.cf
 qtlhkpfx3bgdxan.ga
 qtlhkpfx3bgdxan.gq
@@ -92604,7 +92609,6 @@ repargy.tk
 repdom.info
 repeatxdu.com
 repelfzkx.space
-repetitorka.ru
 repetitoronlayn.ru
 repfootballpop.website
 rephyre.cf
@@ -105952,6 +105956,7 @@ tc4q7muwemzq9ls.ml
 tc4q7muwemzq9ls.tk
 tcafe.shop
 tcai.com
+tcb69.store
 tcbbk.com
 tcbi.com
 tcfr2ulcl9cs.cf
@@ -106785,6 +106790,7 @@ tennisshop.live
 tennisvalencia.com
 tennuicei.ml
 tennuicei.tk
+tenormin.website
 tenorplanet.com
 tenraica.cf
 tenraica.ga
