@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261124T0735Z: 126699 domains.
+# Data version 20261124T0908Z: 126699 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -105656,6 +105656,7 @@ taowenda.club
 taoyuan.chat
 taoyuanguo.chat
 taoyuanguo.network
+taozuizhi.com
 tap.vin
 tap7p4.site
 tapchicuoihoi.com
@@ -106990,7 +106991,6 @@ testi.com
 testicles.com
 testif.io
 testincorp.xyz
-testinger.ru
 testingprog.com
 testlatcei.cf
 testlatcei.ml
