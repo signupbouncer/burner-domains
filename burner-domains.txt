@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261124T0908Z: 126699 domains.
+# Data version 20261124T1010Z: 126698 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -111265,7 +111265,6 @@ trustnetsecurity.net
 trustoria.net
 trustpiiot.site
 trustsieg.us
-trusttravellive.biz
 trusttravellive.travel
 trustur.ru
 trustware.coach
