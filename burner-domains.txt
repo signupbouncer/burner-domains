@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261123T2324Z: 126700 domains.
+# Data version 20261124T0027Z: 126693 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -31271,7 +31271,6 @@ davenewman.org
 davening613.com
 davenportiowachiropractic.com
 davenportiowachiropractor.com
-davenstore.com
 davesbillboard.biz
 davesbillboard.com
 davetiyesokagi.xyz
@@ -32528,7 +32527,6 @@ deubomac.ga
 deubomac.gq
 deubomac.ml
 deubomac.tk
-deupa.anonbox.net
 deuplus.com
 deutchto.ru
 deutestax.xyz
@@ -41850,7 +41848,6 @@ fftjxfxn.shop
 fftube.com
 ffuqzt.com
 ffwebookun.com
-ffwy.xyz
 ffxw4i.site
 ffyf.fashion
 fg2cj7.us
@@ -49481,7 +49478,6 @@ gustlabs.com
 gustore.co
 gustpay.com
 gustr.com
-gustyjatiprakoso.co
 gusw.com
 gutenmorgen.site
 gutezinsen.biz
@@ -50596,7 +50592,6 @@ harlowe-galway.com
 harlowfashion.shop
 harlowhemp.com
 harmampirs.com
-harmfulsarianti.co
 harmonicanavigation.com
 harmoniclizard.com
 harmonikka.space
@@ -87246,7 +87241,6 @@ pp-gua.top
 pp-mc.lol
 pp-n1.lol
 pp-n6.top
-pp-nn.lol
 pp-no.lol
 pp-tw.cc
 pp18269.com
@@ -103642,7 +103636,6 @@ stt299.com
 stt3344.com
 stt9888.com
 stt991.com
-stubbornakdani.io
 stuckhere.ml
 stuckmail.com
 stucwerkrepareren.com
