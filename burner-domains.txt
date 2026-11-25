@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261125T0937Z: 126684 domains.
+# Data version 20261125T1038Z: 126673 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -11230,7 +11230,6 @@ allowglov.site
 allowhea.recipes
 allowwidt.email
 alloygirl.com
-alloyquest.com
 alloywe.us
 allpdfmanuales.xyz
 allpetsupply.biz
@@ -16392,7 +16391,6 @@ bancobit.com
 bancoopen.com
 band-freier.de
 bandafgr.tk
-bandag.ru
 bandai.nom.co
 bandar6.org
 bandar66.website
@@ -20067,7 +20065,6 @@ blogluxury.com
 blogmaska.ru
 blogmasters.com
 blogmastery.com
-blogmate.com
 blogmechanic.com
 blogmen.com
 blogmexico.com
@@ -34515,7 +34512,6 @@ dollpop.com
 dollsshop.live
 dollxbetpinup.ru
 dolmentor.com
-dolnaa.asia
 dolofan.com
 dolorehouse.co
 doloresantander.org
@@ -51684,7 +51680,6 @@ hesoyam.space
 hestra.build
 het-familiehuis.site
 hetbudgets.info
-hetedater.com
 hetekontakter.com
 heterarchica.com
 heterokyuq.space
@@ -61177,7 +61172,6 @@ kbdjvgznhslz.ga
 kbdjvgznhslz.ml
 kbdjvgznhslz.tk
 kbhufd.site
-kbiac.com
 kbishwanathuk.cc
 kbjnx1.site
 kblaoshi.com
@@ -66578,7 +66572,6 @@ llil.icu
 llkp.xyz
 llllll.com
 llllll.tech
-lllllll.site
 llmuxetaw.gq
 llogin.ru
 llotfourco.ga
@@ -69698,7 +69691,6 @@ malukuutara.net
 malurl.com
 malvolion.com
 malware.icu
-malwarehub.org
 mama-bag-sochi.ru
 mama11mart.com
 mama3.org
@@ -74948,7 +74940,6 @@ mtc-srv.systems
 mtcheahaharley.com
 mtcmax.tech
 mtcox.tech
-mtcxmail.com
 mtcz.us
 mtd.ong
 mtdalmshouse.fitness
@@ -77884,6 +77875,7 @@ newsunrisedublin7.com
 newtivilebonza.com
 newtmail.com
 newtogel.com
+newtogel.xyz
 newtonius.net
 newtopian.org
 newtownelderlawgroup.com
@@ -93232,7 +93224,6 @@ ricirich22.com
 ricis.net
 rick-buyshouses.com
 rick.properties
-rickbenavidessellshomes.com
 rickbuys.house
 rickbuys.properties
 rickiemetal.com
@@ -94078,7 +94069,6 @@ rombomail.com
 rombs.site
 romecapitol.org
 romeesat.com
-romemcguigan.com
 romeotourism.com
 romeoturizm.com
 romeovilleapartments.com
@@ -106779,7 +106769,6 @@ tennisvalencia.com
 tennuicei.ml
 tennuicei.tk
 tenormin.website
-tenorplanet.com
 tenraica.cf
 tenraica.ga
 tenraica.gq
