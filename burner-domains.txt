@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261125T1038Z: 126673 domains.
+# Data version 20261125T1138Z: 126664 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -22905,7 +22905,6 @@ buzzcut.ws
 buzzdeck.com
 buzzdimo.com
 buzzdomain.com
-buzzedibles.org
 buzzjoint.com
 buzzloom.fun
 buzzndaraiangop2wae.buzz
@@ -56681,7 +56680,6 @@ instantbox.live
 instantbox.liveemail
 instantbox.online
 instantbreakthrough.com
-instantbummer.com
 instantcriminalrecordsearch.com
 instantdirectionsfinder.com
 instantemailaddress.com
@@ -58556,7 +58554,6 @@ jazibgroup.com
 jazpa.com
 jazzbo.site
 jazzcom.net
-jazzcommons.com
 jazztrumpet.ru
 jazzvip.site
 jazzysprems.xyz
@@ -62585,7 +62582,6 @@ knowatef.ga
 knowatef.gq
 knowatef.ml
 knowatef.tk
-knowbius.com
 knowincar.cf
 knowincar.ga
 knowincar.gq
@@ -73814,7 +73810,6 @@ mogotech.com
 mogpipin.ga
 mogpipin.gq
 mogpipin.ml
-mogs.live
 moguapp.org
 moguldevelopersfastsell.com
 mogulemperor.com
@@ -90718,7 +90713,6 @@ rafmailku.ml
 rafxnwqrl.shop
 ragclwzns.shop
 ragebite.net
-ragebite.org
 ragel.me
 ragevpn.net
 ragingiiys.online
@@ -92693,7 +92687,6 @@ reshaping.biz
 reshipbox.com
 reshuolimp.ru
 resicoin.com
-residencesdesroyetfils.com
 residencialgenova.com
 residencias-ancianos.info
 residencias-baratas.com
@@ -117574,7 +117567,6 @@ waldlecum.ml
 waldlecum.tk
 waldronpropertysolutionsllc.com
 walepy.site
-waleskfb.com
 walgioci.cf
 walgioci.ga
 walgioci.gq
@@ -119421,7 +119413,6 @@ winrere.xyz
 winrewardawardnational.club
 wins.com.br
 wins.vote
-winsdar.com
 winsrezde.cf
 winsrezde.ga
 winsrezde.gq
