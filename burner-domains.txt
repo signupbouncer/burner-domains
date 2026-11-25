@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261125T0835Z: 126696 domains.
+# Data version 20261125T0937Z: 126684 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12677,7 +12677,6 @@ apalo.tk
 apanrai.cf
 apanrai.ml
 apanrai.tk
-aparades.com
 apardolopez.com
 aparelhosmedicos.net
 apartamentosrd.online
@@ -16829,7 +16828,6 @@ baturhsfm42716.ml
 baturhsfm42716.tk
 bau-peler.business
 bau-peler.com
-baubosgarden.com
 bauimail.ga
 baumhotels.de
 bautista.club
@@ -31120,7 +31118,6 @@ darv.xyz
 darwinantivirus.com
 darwinantivirus.net
 darwinav.net
-darwins.app
 darwinsgame.app
 daryun.ru
 daryxfox.net
@@ -38126,7 +38123,6 @@ emerald-court-takeaway.com
 emerald-shop.ru
 emeraldcluster.com
 emeraldsocietynews.club
-emeraldvalleyhouse.com
 emeraldwebmail.com
 emergen.biz
 emergency-alert.org
@@ -41200,7 +41196,6 @@ fastsuzuki.com
 fasttoyota.com
 fastupgrade.website
 fastxxx.site
-fasty.site
 fasty.xyz
 fastyamaha.com
 faszienrolle-test.net
@@ -42690,7 +42685,6 @@ fixcabletvok.live
 fixclean24x7.xyz
 fixcontractexpress.xyz
 fixdinsurance.com
-fixethernet.com
 fixifu.info
 fixitdip.xyz
 fixitsprings.xyz
@@ -57134,7 +57128,6 @@ ipay-i.club
 ipay-m.club
 ipb789.xyz
 ipdeer.com
-ipdf.site
 ipekecza.com
 ipeksnfktx31617.ml
 ipelectronics.com
@@ -57157,7 +57150,6 @@ iphonemail.tk
 iphonerestor.ru
 iphonex-shop.ru
 ipictures.xyz
-ipindetail.com
 ipinf.eu.org
 ipinfo.pub
 ipingfan.com
@@ -82791,7 +82783,6 @@ owiha.com
 owingsmillsshowerglass.com
 owl-dr.com
 owleyes.ch
-owlies.com
 owljh1.site
 owllense.com
 owlowl.fish
@@ -93234,6 +93225,8 @@ richocobrown.online
 richpoker88.org
 richsmart.pw
 richtoon.lawyer
+richtoon.net
+richtoonlaw.com
 richwidgets.com
 ricirich22.com
 ricis.net
@@ -96209,7 +96202,6 @@ samenli.ml
 samenli.tk
 samenwerkingskunde.nu
 sameoneto.ru
-samerooteigelonline.co
 samilor.store
 samireunanen.com
 samirphotography.com
@@ -104635,7 +104627,6 @@ swakdesigns.info
 swalkinshaw.com
 swamex.email
 swankbmdd.space
-swankyfood.us
 swanticket.com
 swap-crypto.site
 swap.name.ng
@@ -105059,7 +105050,6 @@ t30ks.us
 t3echmoflhipro.ga
 t3g29.com
 t3gear.ru
-t3lam.com
 t3mtxgg11nt.cf
 t3mtxgg11nt.ga
 t3mtxgg11nt.gq
@@ -106110,7 +106100,6 @@ teamworker.website
 teamwyden.net
 teamxpress.org
 teardown.site
-tearflakes.com
 tearflakes.eu.org
 teasealoo.buzz
 teasebre.icu
@@ -110086,7 +110075,6 @@ totojek.tech
 totoson.com
 totosta.com
 tototaman.com
-totovip.online
 totse1voqoqoad.cf
 totse1voqoqoad.ga
 totse1voqoqoad.gq
