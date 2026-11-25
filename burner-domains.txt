@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261125T0432Z: 126697 domains.
+# Data version 20261125T0634Z: 126696 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -46832,7 +46832,6 @@ gigaclick.tech
 gigacylydm.space
 gigaload.site
 gigantmass.ru
-gigapesen.ru
 giggit.com
 giggledoodle.net
 gigglefern.lol
