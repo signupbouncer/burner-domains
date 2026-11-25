@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261124T1415Z: 126697 domains.
+# Data version 20261125T0027Z: 126698 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -6426,6 +6426,7 @@
 7kcv1y.com
 7ki.club
 7klm5.anonbox.net
+7koez.anonbox.net
 7ktrtk.site
 7kuiqff4ay.cf
 7kuiqff4ay.ga
@@ -20322,7 +20323,6 @@ blumfirmfrog.tk
 blumpjam.com
 bluna.lat
 blundstoneurbans.com
-bluni.anonbox.net
 blunomval.cf
 blunomval.ga
 blupeardesign.com
@@ -33082,6 +33082,7 @@ diemhenvn.com
 diendanit.vn
 dienlanhtruongtien.cloud
 diennuocnghiahue.com
+dienthoaigiare.net
 diepesi.cf
 diepesi.ga
 diepesi.gq
@@ -41149,7 +41150,6 @@ fastcashorhomes.com
 fastcashwahomes.com
 fastchevy.com
 fastchrysler.com
-fastdating.lat
 fasteacher.com
 fastedates.ru
 fastemails.us
@@ -47340,7 +47340,6 @@ glowciola.com
 glowend.xyz
 glowglories.com
 glowhce.com
-glowingsyabrianty.biz
 glowrecip.com
 glpbalcashcard.com
 glppncife.shop
@@ -68949,6 +68948,7 @@ mail789.fr
 mail7d.com
 mail8.ga
 mail8.gq
+mail8686.us
 mail8app.com
 mailadda.cf
 mailadda.ga
@@ -72117,6 +72117,7 @@ mexaqy.info
 mexcool.com
 mexh.us
 mexicanalia.com
+mexicanglamour.com
 mexico500.com
 mexvat.com
 mexylocu.website
@@ -85354,7 +85355,6 @@ phuminhnguyen.ml
 phunu.club
 phunutre.online
 phuongblue1507.xyz
-phuongfb.com
 phuongnamdigital.net
 phuongnhicare.com
 phuongphamfb.site
@@ -88031,6 +88031,7 @@ prizyp.com
 prkmail.xyz
 prmail.top
 prmin.ru
+prmoble.com
 prn18.fun
 prn18.space
 prn18.website
