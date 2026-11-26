@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261126T1309Z: 126697 domains.
+# Data version 20261126T1611Z: 126696 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -73497,7 +73497,6 @@ mnbasdthjsdt69551.ml
 mnbasdthjsdt98416.cf
 mnbasdthjsdt98416.ga
 mnbasdthjsdt98416.tk
-mnbj.xyz
 mnbvc.lat
 mncrafting.com
 mnemonicedu.com
@@ -79955,7 +79954,6 @@ nyikanationalpark.org
 nyiwreakun.ga
 nyiwreakun.gq
 nyiwreakun.ml
-nyjd.xyz
 nyjobsnow.com
 nylonbrush.biz
 nylonbrush.us
@@ -99502,6 +99500,7 @@ simplydelivered.online
 simplyfireworksdirect.com
 simplyfurnished.co.uk
 simplyhorsemanship.com
+simplyina.com
 simplypottytrain.com
 simplysportsnews.xyz
 simplysweeps.org
