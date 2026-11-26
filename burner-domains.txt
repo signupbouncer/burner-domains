@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261126T1006Z: 126697 domains.
+# Data version 20261126T1309Z: 126697 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -57852,7 +57852,6 @@ iuavc.info
 iubridge.com
 iubuf.live
 iuemail.men
-iufs.xyz
 iuil87l.live
 iulconsultant.com
 iunicus.com
@@ -67846,6 +67845,7 @@ luckylolly.com
 luckymail.org
 luckyman-sy.com
 luckymine.ru
+luckypick.net
 luckyquest.net
 luckyskill.club
 luckyspin-s12.com
