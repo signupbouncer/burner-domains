@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261125T2050Z: 126658 domains.
+# Data version 20261126T0055Z: 126659 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -22564,6 +22564,7 @@ buttluvr.com
 buttwebcam.com
 buumew-auto.ru
 buurunleson.site
+buvbl.anonbox.net
 buvertu.cf
 buvertu.ga
 buvertu.gq
@@ -23137,7 +23138,6 @@ bztf1kqptryfudz.ml
 bztf1kqptryfudz.tk
 bztravogd.shop
 bzujd1.site
-bzvql.anonbox.net
 bzvrxf8.ooguy.com
 bzwhe.anonbox.net
 bzwikuis.com
@@ -31195,6 +31195,7 @@ datastone.com
 datastorage.icu
 datastrip.com
 datasurvey.org
+datatransfer.site
 dataworldclub.com
 datazo.ca
 datcaexpres.xyz
@@ -37259,7 +37260,6 @@ egorkanorka.space
 egrn-egrp-gkn.ru
 egrn-ofical.ru
 egs8zzgzsjo05090.buzz
-egsolucoes.shop
 egsouq.shop
 egteam.ru
 egumail.com
@@ -77647,6 +77647,7 @@ newa.wtf
 newaddr.com
 newage.press
 newagebotanicalsllc.com
+newagent.us
 newageprovision.net
 newageprovisions.net
 newairconpro.xyz
@@ -114532,7 +114533,6 @@ vaknin-law.com
 vakonu.xyz
 vaktarjobb.se
 valanides.com
-valaqua.es
 valdisttul.ga
 valdisttul.gq
 valdisttul.ml
@@ -125562,6 +125562,7 @@ zenopoker.com
 zenopoker.net
 zenplanneryoga.com
 zenrepair365.xyz
+zens.business
 zensantibully.com
 zenseo.net
 zensurpirat.de
