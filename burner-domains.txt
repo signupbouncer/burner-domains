@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261126T1915Z: 126695 domains.
+# Data version 20261126T2118Z: 126695 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -97080,7 +97080,6 @@ script.click
 scriptscdn.pro
 scriptsdota2.ru
 scriptspef.com
-scriptureboard.com
 scripturl.com
 scrmnto.cf
 scrmnto.ga
@@ -109119,6 +109118,7 @@ tkjngulik.com
 tkkbw.info
 tkmailservice.tk
 tkmushe.com
+tkmy88m.com
 tknife.online
 tknmqb.fun
 tknmwf.fun
