@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261126T0905Z: 126696 domains.
+# Data version 20261126T1006Z: 126697 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -107860,7 +107860,6 @@ thenumbersfund.com
 theodelo.cf
 theodelo.ml
 theodelo.tk
-theodore1818.site
 theoliveoiltimes.com
 theologynerd.com
 theomastix.xyz
@@ -116400,6 +116399,7 @@ vkrr.store
 vksaver-pc.ru
 vksmartparadise.com
 vkstiker.fun
+vkusnosam.ru
 vkusnyj-recept-foto.ru
 vkusup.ru
 vkvhod.ru
@@ -124616,6 +124616,7 @@ youxi.moe
 youxi88.club
 youxiang.dev
 youxxx.site
+youzend.net
 yovv20.site
 yovvd.site
 yovvq.site
