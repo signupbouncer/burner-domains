@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261126T2118Z: 126695 domains.
+# Data version 20261127T0022Z: 126686 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -5993,7 +5993,6 @@
 726xhknin96v9oxdqa.gq
 726xhknin96v9oxdqa.ml
 726xhknin96v9oxdqa.tk
-727ec.es
 727qs.com
 72825.monster
 7284445.com
@@ -11808,7 +11807,6 @@ amkursk.ru
 aml5egjiu8af.xyz
 amlodipin.website
 amlopedia.com
-ammafortech.site
 amman.site
 ammnbabdbeguw.online
 ammolite.biz
@@ -19576,7 +19574,6 @@ biumemail.com
 bived.com
 bivehe.xyz
 biweia615.icu
-biwf5.anonbox.net
 bixbet161.com
 biyac.com
 biyamitibushveldcamp.com
@@ -27071,7 +27068,6 @@ clonequick.com
 clonere.net
 cloneroad.com
 cloneshop24h.com
-clonetop1.shop
 clonetrust.com
 clonevip.click
 cloneviptmc1.club
@@ -43450,7 +43446,6 @@ fontainbleau.com
 fontak.com
 fontconf.com
 fonte.lat
-fontfee.com
 fontivity.org
 fontspring.net
 fontspring.org
@@ -67718,7 +67713,6 @@ lsmcae.com
 lsmpic.com
 lsnttttw.com
 lsone.site
-lsos.xyz
 lspforev.ru
 lsrtsgjsygjs34.gq
 lssu.com
@@ -77094,7 +77088,6 @@ ndvigenie-ru.site
 ndxgokuye98hh.ga
 ndxmails.com
 ndy6f.anonbox.net
-ndyj.xyz
 ndzalo.africa
 ne-rp.online
 ne4382.com
@@ -89614,7 +89607,6 @@ qingbiletherapeutics.biz
 qingbiletherapeutics.info
 qingdm.com
 qinghaidgw.com
-qingheluo.com
 qinhuangyuan.com
 qinova.io.vn
 qinspections.online
@@ -95292,7 +95284,6 @@ rycz2fd2iictop.ga
 rycz2fd2iictop.gq
 rycz2fd2iictop.ml
 rycz2fd2iictop.tk
-rydh.xyz
 rydjfs.site
 rye6mi.us
 ryen15ypoxe.ga
@@ -101192,6 +101183,7 @@ sokaklambasi.ml
 sokaklambasi.tk
 sokap.eu
 sokeorganizasyon.xyz
+soki.site
 sokimo-rdc.cd
 sokolova.com
 sokosquare.com
@@ -104365,7 +104357,6 @@ supportain.site
 supportbox.xyz
 supporthpprinters.com
 supporticult.site
-supportlike.online
 supportorganization.online
 supportpatriotflexgoods.com
 supporttc.com
