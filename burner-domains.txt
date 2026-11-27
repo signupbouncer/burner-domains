@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261127T0022Z: 126686 domains.
+# Data version 20261127T0327Z: 126691 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -28797,6 +28797,7 @@ cos9c.us
 cosad.ca
 cosad.info
 cosanola.com
+cosas.lat
 cosasuccede.info
 cosbbank.com
 cosdas.com
@@ -46742,6 +46743,7 @@ giantessfan.org
 giantmail.de
 giantnetwerk.online
 giantsuperstores.com
+giantth.com
 giaoisgla35ta.cf
 giaotiep.xyz
 giaovienvn.gq
@@ -65875,6 +65877,7 @@ limacitasa.info
 limacology.xyz
 limahfjdhn89nb.tk
 limang.ru
+limas.lat
 limatyr.ru
 limax.lat
 limberzbmn.space
@@ -79491,7 +79494,6 @@ ntb9oco3otj3lzskfbm.gq
 ntb9oco3otj3lzskfbm.ml
 ntb9oco3otj3lzskfbm.tk
 ntdx.pw
-ntdx.xyz
 ntdxx.com
 ntdy.icu
 ntdz.club
@@ -93616,6 +93618,7 @@ rjolympics.com
 rjopoker88.com
 rjopoker88.net
 rjpqnu.site
+rjprp.anonbox.net
 rjtrainingsolutions.com
 rjxewz2hqmdshqtrs6n.cf
 rjxewz2hqmdshqtrs6n.ga
@@ -97456,6 +97459,7 @@ seedboha.tk
 seedcommerce.shop
 seedcommons.com
 seedcorn.foundation
+seedingfb.click
 seedjourney.com
 seednest.us
 seedspeed.site
@@ -120408,6 +120412,7 @@ wusolar.com
 wusongdahu.cc.cd
 wusrmp.best
 wustl.com
+wutmail.com
 wuupr.com
 wuuvo.com
 wuvamarket.site
