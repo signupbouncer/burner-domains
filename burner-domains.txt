@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261127T0630Z: 126690 domains.
+# Data version 20261127T0833Z: 126690 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -3490,7 +3490,6 @@
 3dporte.site
 3dprinter-vl.ru
 3dsculpter.com
-3dsculpter.net
 3dsimulator.ru
 3dstartups.net
 3dtovari.ru
@@ -37834,6 +37833,7 @@ elysiumfund.net
 elysiumfund.org
 elysiumfundation.net
 elysiumfundation.org
+em-box.ru
 em1z7v3c.icu
 emaagops.ga
 emab4i.us
