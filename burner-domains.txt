@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T0702Z: 126685 domains.
+# Data version 20261128T0804Z: 126686 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -12366,6 +12366,7 @@ annuale.best
 annualgatheringint.org
 annuallyix.com
 annuityassistance.com
+annwilde.com
 ano-mail.net
 ano2.co.uk
 anocinpackpainv1.site
@@ -66409,7 +66410,6 @@ live2d.moe
 live4life.online
 liveaboardtheconception.com
 liveadultcams.org
-liveamericans.com
 livebet75.com
 livebraverish.com
 livecare.info
@@ -73338,6 +73338,7 @@ mltkfqoee.shop
 mlumzmh.cn
 mlusae.xyz
 mlvtecalumni.com
+mlx.ooo
 mm.8.dnsabr.com
 mm.my
 mm0805.xyz
