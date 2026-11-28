@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T0053Z: 126684 domains.
+# Data version 20261128T0702Z: 126685 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -3489,7 +3489,6 @@
 3dpen-msk01.ru
 3dporte.site
 3dprinter-vl.ru
-3dsculpter.com
 3dsimulator.ru
 3dstartups.net
 3dtovari.ru
@@ -11824,6 +11823,7 @@ amorazone.lat
 amoremfoto.com.br
 amoria.lat
 amorlink.lat
+amornino.com
 amourafrique-mali.org
 amourafrique.org
 ampasinc.com
@@ -19488,6 +19488,7 @@ bitcoindocumentation.com
 bitcoinexchange.cash
 bitcoinfabric.com
 bitcoini-bestchange.ru
+bitcoininvestmentforum.com
 bitcoinisland.org
 bitcoinplanning.com
 bitcoinpoke.com
@@ -26324,6 +26325,7 @@ cimaclub.fan
 cimaclub.network
 cimaclub.rocks
 cimaclub.social
+cimaclub.world
 cimaclub.zone
 cimario.com
 cimas.info
@@ -31112,7 +31114,6 @@ darsonline.com
 dartak.site
 darter-empirehonest-monk-honest.com
 dartmouthhearingaids.com
-dartsgirls.com
 dartsoftwareautomation.com
 dartv2.ga
 dartwader.club
@@ -42007,7 +42008,6 @@ fictionalize112co.online
 fictionsite.com
 fictnio.com
 fid-x.net
-fidawines.com
 fiddleblack.net
 fidelio.best
 fidelium10.com
@@ -43735,6 +43735,7 @@ forumbens.website
 forumbens.xyz
 forumbisnis.org
 forumdoconsumo.org
+forumfi.xyz
 forumfreeai.com
 forumies.com
 forumk.net
