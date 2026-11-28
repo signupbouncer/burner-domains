@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T1005Z: 126676 domains.
+# Data version 20261128T1106Z: 126662 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -8235,7 +8235,6 @@ a3ho7tlmfjxxgy4.ga
 a3ho7tlmfjxxgy4.gq
 a3ho7tlmfjxxgy4.ml
 a3ho7tlmfjxxgy4.tk
-a3service.ru
 a40.com
 a41odgz7jh.com
 a45.in
@@ -9478,7 +9477,6 @@ adroh.com
 adroit.asia
 adry.cloud
 ads24h.top
-adscert.net
 adsd.org
 adsensekorea.com
 adsensesite.shop
@@ -21352,7 +21350,6 @@ bqc4tpsla73fn.tk
 bqcoffee.ru
 bqd6u.anonbox.net
 bqjew.com
-bqm2dyl.com
 bqsaptri.ovh
 bqv36.anonbox.net
 bqxt5.anonbox.net
@@ -25936,7 +25933,6 @@ chiptechtim.com
 chipz2go.com
 chique.xyz
 chiquimail.club
-chiragbus.com
 chiragsawant.tk
 chirashizushisushibaracoruna.com
 chirio.co
@@ -32702,7 +32698,6 @@ devs.chat
 devscription.com
 devself.com
 devset.space
-devskateboards.com
 devsonline.studio
 devtestx.software
 devthien.io.vn
@@ -54970,7 +54965,6 @@ id4sqj.us
 id7ak.com
 idaccept.com
 idaccept.net
-idaccept.org
 idacsplus.com
 idaho.tours
 idahohomeinformation.com
@@ -55881,7 +55875,6 @@ in-tu-new-car-ok.live
 in-tu-new-cars-ok.live
 in.mailsac.com
 in10city.mobi
-in2nation.online
 in2reach.com
 in4mail.net
 in5minutes.net
@@ -57000,7 +56993,6 @@ invistechitsupport.com
 inviteevbzw.email
 invitepal.com
 invizair.com
-invoicing.page
 involvementpractice.com
 invopeo.org
 invql.com
@@ -60961,7 +60953,6 @@ karovale3.com
 karpathos.sk
 karpsr.site
 karsers.ru
-karsiyakadenizsurucukursu.com
 karsiyakaeml.xyz
 karsiyayukle.ml
 karsiyayukle.tk
@@ -77012,7 +77003,6 @@ nctime.com
 nctlab.ru
 nctm.de
 ncxunaxu.shop
-ncyoungliving.com
 nd-re.com
 nd0qm6.com
 ndade.eu.cc
@@ -77329,7 +77319,6 @@ neptun-pro.ru
 nepwk.com
 neq.us
 neracapoker.net
-neragez.com
 nerasto.gq
 nerasto.ml
 nerasto.tk
@@ -78339,7 +78328,6 @@ nicoimg.com
 nicolaslebec.site
 nicoleaniston.site
 nicoleberkers55places.com
-nicolhampel.com
 nicomeyers.site
 nicoobook.net
 nicooprost.space
@@ -95668,7 +95656,6 @@ sacvalleypet.com
 sad23321adja.cn
 sad495.ru
 sada-sd.cc
-sadad-divar.online
 sadakaonline.ru
 sadasdasc-naonc.icu
 sadasdsada.xyz
@@ -109376,7 +109363,6 @@ tocz.us
 tod2020.xyz
 todanpho.com
 today-amigurumi.site
-today-payment.com
 today24bet.com
 todayamazonquiz.com
 todayamigurumi.website
