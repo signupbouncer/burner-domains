@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T1106Z: 126662 domains.
+# Data version 20261128T1209Z: 126655 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -54964,7 +54964,6 @@ id10tproof.com
 id4sqj.us
 id7ak.com
 idaccept.com
-idaccept.net
 idacsplus.com
 idaho.tours
 idahohomeinformation.com
@@ -62701,7 +62700,6 @@ kokosik.site
 kokscheats.com
 kokteyl365.site
 kolasin.net
-kolaybet99.com
 kolayfinansman.xyz
 kolayhemenara.com
 kolbasasekas.ru
@@ -75059,7 +75057,6 @@ mughftg5rtgfx.gq
 mugladatemizlik.com
 muglaelitmedya.com
 muglaelitmermer.com
-muglakaptanoperatorluk.com
 muglakonut.xyz
 muglamarket.online
 muglavo.cf
@@ -90664,7 +90661,6 @@ radionaylamp.com
 radionightclub.org
 radionova.us
 radioquebec.info
-radioriki.com
 radiorocket.ru
 radiostanica.me
 radiostockyards.net
@@ -95591,7 +95587,6 @@ saabscania.tk
 saadatkhodro.com
 saagartakeaway.com
 saaheel.biz
-saaheel.online
 saalaram.com
 saalusna.site
 saas.ong
@@ -106091,7 +106086,6 @@ teatre-afisha.ru
 teatrolnfk.space
 teatrtaganka.ru
 teaurnzycf.space
-tebaknomor.info
 tebardo.cf
 tebardo.ga
 tebardo.gq
@@ -118325,7 +118319,6 @@ webtare.ga
 webtare.gq
 webtare.ml
 webteleserye.ru
-webtempmail.online
 webtimereport.com
 webtoon.club
 webtown2.com
