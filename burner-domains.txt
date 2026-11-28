@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T0905Z: 126682 domains.
+# Data version 20261128T1005Z: 126676 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -5431,7 +5431,6 @@
 66stttn.xyz
 66tower.com
 66ttll.com
-66ty.online
 66ty.space
 66uuaa.com
 66uuff.com
@@ -40877,7 +40876,6 @@ famisanar.com
 fammix.com
 famousfamigliauae.com
 famoustwitter.com
-fampec.com
 famsend.com
 famsunny.com
 famytown.club
@@ -50978,7 +50976,6 @@ hc94.net
 hc96.net
 hcap.ai
 hcaptcha.info
-hcaptcha.online
 hcaptcha.site
 hcathcar.shop
 hccg.net
@@ -61541,7 +61538,6 @@ ketodrinks.org
 ketoflashfitclub.com
 ketogenicrecipe.club
 ketogenicscooking.com
-ketoke.info
 ketokingrx.com
 ketonedealer.com
 ketonewstrends.com
@@ -81399,7 +81395,6 @@ onestopamcmaintenance.xyz
 onestopcodeshop.com
 onestopcy.com
 onestopduct.xyz
-onestopiguanashop.com
 onestopinfo.ga
 onestopinfo.ml
 onestopwv.com
@@ -86172,7 +86167,6 @@ play3n1.com
 play3n11.com
 play3n18.com
 play3nclub.com
-play3ncn.com
 play3nfair.com
 play3niu18.com
 play3niu88.com
@@ -92417,7 +92411,6 @@ remont-92.ru
 remont-dubai.ru
 remont-iq.ru
 remont-stoy.ru
-remont-svoimi.ru
 remontholoda36.ru
 remontvuu.ru
 remonty-v-sochi.ru
@@ -106246,7 +106239,6 @@ tecnisolltda.net
 tecnoleds.net
 tecnologiactuales.com
 tecnotutos.com
-tecperote.com
 tecso.lat
 ted-dhanik.biz
 ted-dhanik.net
@@ -113780,6 +113772,7 @@ urbanlanguageadventures.com
 urbanlegendsvideo.com
 urbanloose.com
 urbanmaintenance.xyz
+urbannw.org
 urbanoaks.community
 urbanoaks.properties
 urbanoaks.us
@@ -117767,6 +117760,7 @@ wardwamse.gq
 wardwamse.ml
 wardwamse.tk
 ware.cd
+waredbarn.com
 warehambowls.club
 warehouse-flooring.com
 warehouseliquidations.com
