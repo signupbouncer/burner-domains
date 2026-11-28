@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261128T0804Z: 126686 domains.
+# Data version 20261128T0905Z: 126682 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -27154,7 +27154,6 @@ cloudns.cf
 cloudns.gq
 cloudonf.com
 cloudoom.com
-cloudosys.com
 cloudpath.dev
 cloudprivatbay.com
 cloudprivatbay.name
@@ -28554,7 +28553,6 @@ coolcontractsameday.xyz
 coolcrewuae.xyz
 cooldestinationshq.com
 cooleswohnzimmer.me
-coolex.site
 coolexpertsdxb.xyz
 coolexpertuae.xyz
 coolgadge.com
@@ -48310,7 +48308,6 @@ govoxy.com
 gowactivator.com
 gowcp.com
 goweightlossinfoesok.live
-gowhere.site
 gowhere.tech
 gowikibooks.com
 gowikicampus.com
@@ -57435,7 +57432,6 @@ isf4e2tshuveu8vahhz.tk
 isfahantourism.info
 isfew.com
 isfu.ru
-isgre.at
 ishan.ga
 ishchi-tut.online
 isherz.net
