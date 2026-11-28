@@ -4,7 +4,7 @@
 # Built from open lists, domains scraped from temp-mail sites and a short hand-checked list, minus a curated
 # allowlist of real mailbox providers. One domain per line. The authors of the lists below do not endorse this
 # list or SignupBouncer.
-# Data version 20261127T1541Z: 126689 domains.
+# Data version 20261128T0053Z: 126684 domains.
 #
 # Third-party data and notices. The licence files named here are shipped unchanged next to this file.
 #
@@ -15826,7 +15826,6 @@ babirousa.ml
 babiwatch.ru
 babkm.anonbox.net
 babknehtpoyas.space
-bablace.com
 bablo-hoshim.fun
 bablukaprimer.space
 babmarkapoyas.space
@@ -18850,7 +18849,6 @@ bhwbx.anonbox.net
 bhwjl.anonbox.net
 bhwshop.com
 bhx.money
-bhz2v.anonbox.net
 bhzdqb.us
 bi-meca.com
 bi0qq.us
@@ -18911,6 +18909,7 @@ bia29926145.xyz
 bia29939022.xyz
 bia29953894.xyz
 bia2baazi.com
+biai5.anonbox.net
 bialode.com
 bian.capital
 bianat.net
@@ -23654,6 +23653,7 @@ cam4you.cc
 camachohome.com
 camaloon.mobi
 camaradamail.club
+camaradanzacba.com
 camaradeaguasdetenerife.com
 camau24h.info
 cambiadorparabebe.com
@@ -33435,7 +33435,6 @@ diovaqe.tk
 dioxv.us
 dipak-bhadra.com
 dipalmadental.com
-dipan.xyz
 diphtherotoxin.info
 diplease.site
 diplo.cd
@@ -46754,6 +46753,7 @@ giapham.com
 giapham.org
 giapratescon.tk
 giare.fun
+giarevcl.click
 giaveum.info
 gibejo.cf
 gibejo.ga
@@ -55279,7 +55279,6 @@ igcodemail1.com
 igcwellness.us
 igdinhcao.click
 igdinhcao.com
-igdinhcao.site
 igdirfm.xyz
 igdirinkucukmucitleri.com
 igdirrezidans.com
@@ -57327,7 +57326,6 @@ irishcert.com
 irishharppub.com
 irishspringrealty.com
 irishstrippers.com
-iristrend.shop
 iriver-grant.ru
 irknim.ru
 irlandia4d.info
@@ -58039,7 +58037,6 @@ izbud1.site
 izbunet.ru
 izbzm.com
 izcmqm.com
-izeao.com
 izendustriyel.org
 izhevsk24.ru
 izhowto.com
@@ -77233,7 +77230,6 @@ nekojita.blog
 nekopoker.com
 nekopoker.net
 nekopoker.org
-nekos96.xyz
 nekosan.uk
 nekosproduction.com
 nektarliqueur.com
@@ -82445,6 +82441,7 @@ otona.uk
 otonmail.ga
 otoplenie-stout.ru
 otostiker.com
+ototarz.com
 otp247.me
 otpku.com
 otrabajo.com
@@ -84580,7 +84577,6 @@ pemoteusonourweb.site
 pemoteusonourweb.store
 pen-drevo.ru
 pen960.ml
-penampilannieken.io
 penandpaper.site
 penatik.ru
 pencemaran.com
@@ -87662,6 +87658,7 @@ preparedwealth.com
 preparee.top
 preparmy.com
 prepayee.cd
+prepge.com
 preporod.online
 preppingforfree.com
 preppingtoprep.com
@@ -103864,7 +103861,6 @@ successagency.site
 successagency.website
 successclick.ru
 successfullys.me
-successfulnewspedia.com
 successfulvideo.ru
 successmvp.com
 successstylesstories.com
@@ -111172,7 +111168,6 @@ trulyfreeschool.org
 trum.win
 trum86.club
 trumbullelderlawgroup.com
-trumclone.click
 trumclone.com
 trumclone.net
 trumclsr.com
